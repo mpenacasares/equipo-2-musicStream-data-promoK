@@ -1,4 +1,4 @@
--- DUDA: Crear base de datos con el nombre del equipo? 
+-- DUDA: CrearBBDD para el grupo ?
  CREATE TABLE MusicBrainz (
     artista_nombre_MB VARCHAR(50) NOT NULL,
     pais_origen VARCHAR(50),
@@ -12,7 +12,10 @@
     
      CREATE TABLE LF (
     artista_nombre_LF VARCHAR(50) NOT NULL,
-
+	artista_biografia_LF TEXT,
+    listeners INT,
+    playcount INT,
+    artistas_similares VARCHAR(100),
     PRIMARY KEY (artista_nombre_LF)
 	);
 
@@ -25,6 +28,7 @@
     anio_lanzamiento YEAR,
     genero VARCHAR(50),
     PRIMARY KEY (cancion_id),
+    -- DUDA: artista_nombre_spoty hace referencia a 2 PRIMARY KEY
     CONSTRAINT fk_spotify_mb
 		FOREIGN KEY (artista_nombre_spoty)
 		REFERENCES MusicBrainz(artista_nombre_MB)
@@ -39,4 +43,6 @@
     
 SELECT * FROM spotify;
 
-SELECT * FROM MusicBrainz
+SELECT * FROM MusicBrainz;
+
+SELECT * FROM LF
