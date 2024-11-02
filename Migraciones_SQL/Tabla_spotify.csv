@@ -1,0 +1,4001 @@
+canción_id,nombre_cancion_album,artista_id,tipo_album_cancion,año_lanzamiento,género
+1,Seventeen,1,album,2022,Electrónica
+2,Crust,2,album,2021,Electrónica
+3,"Abu Simbel",3,single,2021,Electrónica
+4,Apricots,4,album,2021,Electrónica
+5,"KILL DEM",5,single,2022,Electrónica
+6,Water,4,single,2022,Electrónica
+7,Polyghost,6,album,2022,Electrónica
+8,"From You",6,album,2022,Electrónica
+9,Rosewood,6,album,2022,Electrónica
+10,"Using What You Got",2,album,2021,Electrónica
+11,Lido,4,album,2021,Electrónica
+12,Tides,6,album,2022,Electrónica
+13,Shadows,6,album,2022,Electrónica
+14,"405 - Metronomy x Biig Piig",7,single,2021,Electrónica
+15,"Black Gold",2,album,2021,Electrónica
+16,Nova,8,single,2022,Electrónica
+17,"new body rhumba (from the film White Noise)",9,single,2022,Electrónica
+18,better,10,album,2021,Electrónica
+19,"The Room",2,single,2022,Electrónica
+20,Elysian,6,album,2022,Electrónica
+21,"Come In Closer",11,album,2021,Electrónica
+22,"D.A.N.C.E. - Logic Reprise",12,album,2022,Electrónica
+23,"Should be Fine",13,single,2022,Electrónica
+24,"Impossible - &ME Remix",14,single,2022,Electrónica
+25,"D.A.N.C.E. - Logic Reprise",12,single,2022,Electrónica
+26,"Uneasy - Metronomy x spill tab",7,single,2021,Electrónica
+27,"LET'S DO IT AGAIN - Radio Edit",5,single,2022,Electrónica
+28,Playgirl,1,album,2022,Electrónica
+29,"Cicuta - Remix",15,single,2022,Electrónica
+30,"Black Rain",11,album,2021,Electrónica
+31,Imagineering,16,album,2021,Electrónica
+32,Discotraxx,1,album,2022,Electrónica
+33,"Blue Hour",17,album,2022,Electrónica
+34,Atlas,4,album,2021,Electrónica
+35,"Oh, Lover",14,album,2022,Electrónica
+36,"A Brand New Start",18,album,2021,Electrónica
+37,"New Fires",19,single,2022,Electrónica
+38,QUEREME,20,single,2022,Electrónica
+39,"African Samurai",2,album,2021,Electrónica
+40,FORWARD,21,single,2022,Electrónica
+41,"UUUU - &ME Remix",3,single,2022,Electrónica
+42,"Things will be fine",7,album,2022,Electrónica
+43,"Love Divide",18,album,2021,Electrónica
+44,Falling,22,album,2022,Electrónica
+45,"Right on time",7,album,2022,Electrónica
+46,"Things will be fine - Bratty Remix",7,single,2022,Electrónica
+47,Shadows,6,single,2021,Electrónica
+48,Otomo,6,album,2022,Electrónica
+49,"Lambent Rag",23,album,2021,Electrónica
+50,"You Can Do It",24,single,2021,Electrónica
+51,"Pain and Blood",2,album,2021,Electrónica
+52,Tides,6,single,2021,Electrónica
+53,"Love Me More - Clark Remix",23,single,2022,Electrónica
+54,Champion,25,album,2022,Electrónica
+55,"LET'S DO IT AGAIN",5,single,2022,Electrónica
+56,"Quiet Corners Of My Mind",26,single,2022,Electrónica
+57,"The Ladder",14,single,2022,Electrónica
+58,"Age of Phase",6,album,2022,Electrónica
+59,"Movement 5",27,album,2021,Electrónica
+60,"FAST LAND",28,album,2022,Electrónica
+61,"Between Memories",2,album,2021,Electrónica
+62,"Sounds Of Blue",29,album,2021,Electrónica
+63,"Only Love (with Brijean)",30,single,2021,Electrónica
+64,"God is A DJ",31,single,2021,Electrónica
+65,"Silence & Secrets - Black Coffee Remix",3,single,2022,Electrónica
+66,Safeword,11,album,2021,Electrónica
+67,"Ritchie Sacramento",32,album,2021,Electrónica
+68,"in drink",10,album,2021,Electrónica
+69,"From You",6,single,2022,Electrónica
+70,"Flicking Your Switch",1,album,2022,Electrónica
+71,Siena,4,album,2021,Electrónica
+72,"The Daisy",18,album,2021,Electrónica
+73,Impressions,33,album,2021,Electrónica
+74,"Drone Me Up, Flashy - &ME Remix",34,single,2022,Electrónica
+75,Atopos,35,album,2022,Electrónica
+76,"Stay Awhile",14,album,2022,Electrónica
+77,"Like Sweetness",25,album,2022,Electrónica
+78,Beautiful,11,album,2021,Electrónica
+79,Spectrum,36,album,2022,Electrónica
+80,Rosewood,6,single,2021,Electrónica
+81,"Pray - Chris Malinchak Mix",37,single,2021,Electrónica
+82,Survivors,2,album,2021,Electrónica
+83,Moth,8,single,2022,Electrónica
+84,"Caracas Way",38,single,2021,Electrónica
+85,"War at the Door",2,album,2021,Electrónica
+86,Stevie,25,album,2022,Electrónica
+87,Saku,4,album,2021,Electrónica
+88,"Carrusel - Radio Mix",39,single,2022,Electrónica
+89,"Innadadance (feat. Suli Breaks & Jazzie B) (Meduza Remix) (Edit)",31,album,2021,Electrónica
+90,"The Limit",40,album,2021,Electrónica
+91,Nefertari,3,single,2021,Electrónica
+92,Impossible,14,album,2022,Electrónica
+93,"This Cursed Life",2,album,2021,Electrónica
+94,"Your Lord",2,album,2021,Electrónica
+95,"Miss The Days",21,single,2022,Electrónica
+96,"Send Nudes",25,album,2022,Electrónica
+97,Sot-l'y-laisse,41,album,2021,Electrónica
+98,"The Lonely Night - Reprise Version",42,album,2021,Electrónica
+99,"Fagurt Er Í Fjörðum",35,album,2022,Electrónica
+100,"El Brillo - Radio Edit",43,single,2021,Electrónica
+101,Closer,6,album,2022,Electrónica
+102,"Blind Date",10,single,2022,Electrónica
+103,"The Darkness That You Fear",44,single,2021,Electrónica
+104,"Another Girl",45,album,2021,Electrónica
+105,"Day by Day",6,album,2022,Electrónica
+106,"Ecce! Ego!",46,album,2021,Electrónica
+107,"To Feel Again / Trois",47,single,2022,Electrónica
+108,"Drifting Out",48,single,2021,Electrónica
+109,Cicuta,15,album,2021,Electrónica
+110,Counterpart,6,album,2022,Electrónica
+111,"born slipping",10,album,2021,Electrónica
+112,"Pulses of Information",49,album,2021,Electrónica
+113,"Breathe - Juicy Cola Remix",50,single,2021,Electrónica
+114,"Own Me",16,album,2021,Electrónica
+115,"Quiet Corners Of My Mind",26,album,2022,Electrónica
+116,Ovule,35,album,2022,Electrónica
+117,"Nest - Portico Quartet Remix",33,single,2021,Electrónica
+118,"Alichea Vella Amor",46,album,2021,Electrónica
+119,Enchanted,2,album,2021,Electrónica
+120,"f1 racer (ft. KUČKA)",51,album,2022,Electrónica
+121,Me&Youphoria,14,album,2022,Electrónica
+122,Sachi,2,album,2021,Electrónica
+123,"World Turns",49,album,2022,Electrónica
+124,Problems,27,single,2022,Electrónica
+125,"Liberty Bell",40,album,2021,Electrónica
+126,"Kurosaka Strikes!",2,album,2021,Electrónica
+127,"Fighting Without Honor",2,album,2021,Electrónica
+128,Sapien,6,album,2022,Electrónica
+129,Fossora,35,album,2022,Electrónica
+130,"I Need Someone (feat. Nathan Ball & Caleb Femi) (Yotto Remix) (Edit)",31,album,2021,Electrónica
+131,"Your Screams",2,album,2021,Electrónica
+132,Koko,52,album,2021,Electrónica
+133,"Where’s the Girl?",2,album,2021,Electrónica
+134,"If You Want Me",14,album,2022,Electrónica
+135,"He Took Her to a Movie",1,album,2022,Electrónica
+136,"TTHHEE PPAARRTTYY",12,album,2022,Electrónica
+137,Swimmer,53,album,2022,Electrónica
+138,"Natural Blues - Reprise Version",42,album,2021,Electrónica
+139,runnersz,10,album,2021,Electrónica
+140,"This Is Not Our World - Ce n'est pas notre monde",42,single,2022,Electrónica
+141,Condition,17,album,2022,Electrónica
+142,"Hard To Tell You",25,album,2022,Electrónica
+143,"Lilys - HBO ‘Made For Love’ Cut",25,single,2021,Electrónica
+144,X,4,album,2021,Electrónica
+145,"War Lords",2,album,2021,Electrónica
+146,"It Was A Good Thing",14,album,2022,Electrónica
+147,Helpless,11,album,2021,Electrónica
+148,"Meli (II)",4,single,2022,Electrónica
+149,"End Of The Summer",54,album,2021,Electrónica
+150,ATK,6,single,2022,Electrónica
+151,"Pietre Roventi",55,album,2021,Electrónica
+152,Sapo,55,single,2022,Electrónica
+153,"Ass Like That",56,single,2021,Electrónica
+154,"Karst - Vegyn Remix",52,single,2022,Electrónica
+155,"Black Rain - Jayda G Remix",11,single,2021,Electrónica
+156,"Dry Fantasy",32,album,2021,Electrónica
+157,"Planisphere Part. II",12,single,2022,Electrónica
+158,"Little Man (Tycho Remix) - Mixed",30,album,2022,Electrónica
+159,"Mind Flight",2,album,2021,Electrónica
+160,Frisco,48,single,2022,Electrónica
+161,"So Far Gone",57,album,2021,Electrónica
+162,Blask,58,single,2021,Electrónica
+163,"Bye Bye",59,album,2022,Electrónica
+164,"Mind Dimension - Tiësto Remix",60,single,2022,Electrónica
+165,"Blue Jeans",1,album,2022,Electrónica
+166,"Be with You",61,album,2022,Electrónica
+167,"L'Architettura del Mare",55,album,2021,Electrónica
+168,"Your Head // We Won",2,album,2021,Electrónica
+169,"You Don’t Know",2,single,2022,Electrónica
+170,"B.E.A.T - Instrumental",12,album,2022,Electrónica
+171,"Stressed Out",62,album,2022,Electrónica
+172,"Donna - Outtake",12,album,2022,Electrónica
+173,RoBomb,2,album,2021,Electrónica
+174,"Can Can Techno",63,single,2022,Electrónica
+175,"The Fool",26,album,2022,Electrónica
+176,Hips,25,album,2022,Electrónica
+177,"TOUCH IT",56,single,2022,Electrónica
+178,"MORE LOVE",28,album,2022,Electrónica
+179,Tacken,64,album,2021,Electrónica
+180,"Glory Box",65,compilation,2021,Electrónica
+181,"pinky ring",10,single,2022,Electrónica
+182,"My Heart Bleeds",11,album,2021,Electrónica
+183,Isolated,16,album,2021,Electrónica
+184,Otomo,6,single,2021,Electrónica
+185,Wonder,16,album,2021,Electrónica
+186,"The Look - MGMT Remix",7,single,2021,Electrónica
+187,"The Eyes of Vengeance",2,album,2021,Electrónica
+188,Atlanta,66,single,2021,Electrónica
+189,Fire,11,album,2021,Electrónica
+190,Genesis,12,album,2022,Electrónica
+191,"Spectre (Bibio Remix) - Mixed",30,album,2022,Electrónica
+192,Don,67,single,2022,Electrónica
+193,Sabrosura,68,single,2021,Electrónica
+194,Lonli,39,single,2021,Electrónica
+195,Holy,11,album,2021,Electrónica
+196,"As the Light Breaks In (feat. Saint Saviour) (GA25 Version)",69,album,2022,Electrónica
+197,Stay,48,single,2022,Electrónica
+198,"Watch Me Now (feat. Koda & VAAAL)",70,album,2022,Electrónica
+199,Cloudy,22,album,2022,Electrónica
+200,"EASY PREY",28,album,2022,Electrónica
+201,"Taiko Time // Sacrifice",2,album,2021,Electrónica
+202,"Wikid Satellites",16,album,2021,Electrónica
+203,"Your Armour",2,album,2021,Electrónica
+204,Waterfall,4,single,2022,Electrónica
+205,"Consolation Prizes",2,album,2022,Electrónica
+206,"Never Seen You Dance",61,album,2022,Electrónica
+207,"XXX Olympiad",18,album,2021,Electrónica
+208,Pastorcita,71,single,2021,Electrónica
+209,"on air (4am version)",42,single,2022,Electrónica
+210,"Time Goes",13,single,2022,Electrónica
+211,Briefly,72,album,2022,Electrónica
+212,"DRUM GLOW",28,album,2022,Electrónica
+213,Down,73,album,2022,Electrónica
+214,"I'm the Echo",40,album,2021,Electrónica
+215,Ancestress,35,album,2022,Electrónica
+216,Mycelia,35,album,2022,Electrónica
+217,Karst,52,album,2021,Electrónica
+218,"House Broken (feat. Naz Tokio)",70,album,2022,Electrónica
+219,"The Night",14,album,2022,Electrónica
+220,"Love Factory",7,album,2022,Electrónica
+221,"The Ladder",14,album,2022,Electrónica
+222,Love,74,single,2022,Electrónica
+223,"¿Quién? - Remastered",75,album,2021,Electrónica
+224,"Planisphere Part. I",12,single,2022,Electrónica
+225,"The Limit",40,single,2021,Electrónica
+226,"Come In Closer",11,single,2021,Electrónica
+227,Vocoder,27,single,2022,Electrónica
+228,"swag w/ kav",10,album,2021,Electrónica
+229,"The Corner",53,album,2022,Electrónica
+230,Entrecote,76,album,2022,Electrónica
+231,"SKYWALKER (P.A.F.F. Remix)",77,single,2021,Electrónica
+232,D.A.N.C.E.,12,album,2022,Electrónica
+233,"Off Goes The Light",78,album,2022,Electrónica
+234,"The Last Transmission",79,album,2022,Electrónica
+235,"Planisphere Part. IV",12,single,2022,Electrónica
+236,"Memories (Satin Jackets Remix)",37,single,2021,Electrónica
+237,"Almost Home - Reprise Version",42,album,2021,Electrónica
+238,UUUU,3,single,2022,Electrónica
+239,"Speed King",14,album,2022,Electrónica
+240,Defender,6,single,2022,Electrónica
+241,Melting,25,album,2022,Electrónica
+242,"Pulse At The Centre Of Being",36,album,2022,Electrónica
+243,"Only Love - LP Giobbi Remix",30,single,2021,Electrónica
+244,"LA FORMA DE TUS HUESOS",20,single,2021,Electrónica
+245,"Capture Casa",80,album,2022,Electrónica
+246,S.O.L,78,album,2022,Electrónica
+247,"Afroking - Extended Mix",38,single,2021,Electrónica
+248,"To The Bin My Friend, Tonight We Vacate Earth",32,album,2021,Electrónica
+249,Eleanor,73,album,2022,Electrónica
+250,Altar,25,album,2022,Electrónica
+251,"Black Rain - Âme Remix",11,single,2022,Electrónica
+252,Bird,81,single,2021,Electrónica
+253,"Let's Get It Right",14,album,2022,Electrónica
+254,"Planisphere Part. III",12,single,2022,Electrónica
+255,"Mimos Son Mimos",59,album,2022,Electrónica
+256,"Trans Fatty Acid - Kruder & Dorfmeister Remix Edit",65,compilation,2021,Electrónica
+257,"Indian Ocean",82,single,2022,Electrónica
+258,"The Lonely Night - Reprise Version",42,single,2021,Electrónica
+259,"Desert Mule",83,album,2021,Electrónica
+260,"Creep - Very 2021 Rmx",84,single,2021,Electrónica
+261,"Sounds Of Blue",29,single,2021,Electrónica
+262,"This Time, This Place…",14,album,2022,Electrónica
+263,Dos,67,single,2022,Electrónica
+264,"Breathe In",16,album,2021,Electrónica
+265,"Deserto Rosso",43,single,2022,Electrónica
+266,TBT,85,single,2022,Electrónica
+267,Cazenove,4,album,2021,Electrónica
+268,Sundial,4,album,2021,Electrónica
+269,"This Time, This Place…",14,single,2022,Electrónica
+270,Ultraviolet,33,album,2021,Electrónica
+271,"Oh, Lover - Edit",14,single,2022,Electrónica
+272,"Vamonos Canoa",68,single,2022,Electrónica
+273,"Oh, Lover",14,single,2022,Electrónica
+274,UUUU,3,album,2022,Electrónica
+275,"Let There Be Light",12,album,2022,Electrónica
+276,"Sorrowful Soil",35,album,2022,Electrónica
+277,"Just a Candle",86,album,2021,Electrónica
+278,"somehow she’s still here (ft. James Blake)",51,album,2022,Electrónica
+279,"Me Gustas Tanto (feat. Sidonie)",67,album,2021,Electrónica
+280,Unity,14,album,2022,Electrónica
+281,"Walk on Water (David Joy's Miracle Remix)",87,single,2022,Electrónica
+282,Phantom,12,album,2022,Electrónica
+283,"Moment to Change",88,album,2021,Electrónica
+284,Higher,89,album,2021,Electrónica
+285,"It's good to be back",7,album,2022,Electrónica
+286,"Loneliness on the run",7,album,2022,Electrónica
+287,Grub,18,album,2021,Electrónica
+288,Proof,25,album,2022,Electrónica
+289,Stress,12,album,2022,Electrónica
+290,"in your eyes (ft. slowthai and Danny Brown)",51,album,2022,Electrónica
+291,"Porcelain - Reprise Version",42,album,2021,Electrónica
+292,"Phantom Pt. II",12,album,2022,Electrónica
+293,"Caracas Way",38,album,2022,Electrónica
+294,"True Mathematics",1,album,2022,Electrónica
+295,Monument,33,album,2021,Electrónica
+296,"If Life Could Be This Way",90,single,2022,Electrónica
+297,"So Ambiguous",14,album,2022,Electrónica
+298,"Meli (I)",4,album,2021,Electrónica
+299,"Fungal City",35,album,2022,Electrónica
+300,Victimhood,35,album,2022,Electrónica
+301,Crosswalk,61,single,2022,Electrónica
+302,"Mango Feedback",91,single,2022,Electrónica
+303,"Holy - Frank Wiedemann Remix",11,single,2022,Electrónica
+304,"How The Flowers Grow",14,album,2022,Electrónica
+305,Allow,35,album,2022,Electrónica
+306,"Porcelain - Reprise Version",42,single,2021,Electrónica
+307,Mamasota,38,album,2022,Electrónica
+308,"Everloving - Reprise Version",42,album,2021,Electrónica
+309,Trouble,25,album,2022,Electrónica
+310,"Hold You Down",11,album,2021,Electrónica
+311,"Rose rouge - Atjazz Astro Remix",92,album,2021,Electrónica
+312,Broken,73,album,2022,Electrónica
+313,"Only Love",30,single,2021,Electrónica
+314,"Here We, Here We, Here We Go Forever",32,album,2021,Electrónica
+315,"Never Alone",3,album,2022,Electrónica
+316,"Just Wanted To Know",14,album,2022,Electrónica
+317,"end of the road (ft. reggie)",51,album,2022,Electrónica
+318,"Hold me tonight (feat. Porridge Radio)",7,album,2022,Electrónica
+319,"Cuál Es Tu Núcleo",93,album,2021,Electrónica
+320,"dvd (ft. Choker)",51,album,2022,Electrónica
+321,"Friction (feat. Future Funk Squad & Jim Davies) - Needle Mover x TMD Remix",70,album,2022,Electrónica
+322,"Passed Tense",79,single,2022,Electrónica
+323,"Sweetest Revenge",11,album,2021,Electrónica
+324,Arrow,22,album,2022,Electrónica
+325,DVNO,12,album,2022,Electrónica
+326,"With, Beside, Against - Hania Rani Remix",33,single,2021,Electrónica
+327,"Rocío de La Mañana",94,single,2022,Electrónica
+328,Newjack,12,album,2022,Electrónica
+329,"Post Punk (feat. Iggy Pop)",70,single,2022,Electrónica
+330,Sharratt,78,album,2022,Electrónica
+331,Covenant,95,single,2022,Electrónica
+332,Time,71,single,2022,Electrónica
+333,"Like a Stone - trentemøller Remix",96,single,2021,Electrónica
+334,Nadir,19,album,2021,Electrónica
+335,"Plan Perfecto - Remix",95,single,2021,Electrónica
+336,"The Look",7,album,2021,Electrónica
+337,Rainy,64,album,2021,Electrónica
+338,"Haute Definition",97,album,2021,Electrónica
+339,"Drifting Out",48,single,2021,Electrónica
+340,"Drive The Nail",32,album,2021,Electrónica
+341,"Everyday - Shimza Remix",3,single,2022,Electrónica
+342,"Why Does My Heart Feel So Bad - Reprise Version",42,album,2021,Electrónica
+343,Phonograph,78,album,2022,Electrónica
+344,"Waters of Nazareth",12,album,2022,Electrónica
+345,"Tell Him",14,album,2022,Electrónica
+346,"I Won't Fade Away",98,single,2021,Electrónica
+347,"Straight To The Morning - Myd Remix",73,single,2021,Electrónica
+348,Potion,78,album,2022,Electrónica
+349,"Everything Up [Zizou]",99,album,2022,Electrónica
+350,"Chemical Mentalist (feat. Wenzday)",70,album,2022,Electrónica
+351,"DOOM HYPE",28,album,2022,Electrónica
+352,Clavicle,22,album,2022,Electrónica
+353,2:16,80,album,2022,Electrónica
+354,Cherry,22,album,2022,Electrónica
+355,"Niños de Alegria",68,single,2022,Electrónica
+356,"Love Factory - Metronomy x Katy J Pearson",7,album,2022,Electrónica
+357,"Ultra Truth",100,album,2022,Electrónica
+358,Bleak,101,single,2022,Electrónica
+359,Atopos,35,single,2022,Electrónica
+360,"Feel It",14,album,2022,Electrónica
+361,Champion,25,single,2022,Electrónica
+362,"Asteroid 2467 - single version",102,single,2021,Electrónica
+363,Stevie,25,single,2022,Electrónica
+364,"Vision of Self",49,album,2022,Electrónica
+365,"La Nota",103,single,2021,Electrónica
+366,"One Minute to Midnight",12,album,2022,Electrónica
+367,Trölla-Gabba,35,album,2022,Electrónica
+368,"The Way That I Found You",1,album,2022,Electrónica
+369,Beginnings,49,album,2022,Electrónica
+370,Freefall,35,album,2022,Electrónica
+371,"Keep It Movin",86,album,2021,Electrónica
+372,"Odyssée - Soulwax Remix",104,single,2022,Electrónica
+373,"Block Rockin' Beats",44,album,2022,Electrónica
+374,Impossible,14,single,2022,Electrónica
+375,Everybody,86,album,2021,Electrónica
+376,"Take Two",22,album,2022,Electrónica
+377,sparko,10,album,2021,Electrónica
+378,Fighter,57,album,2021,Electrónica
+379,Light,4,album,2021,Electrónica
+380,Afterglow,102,single,2021,Electrónica
+381,"Never Come Back - Four Tet Remix",24,album,2021,Electrónica
+382,"layer 6",10,album,2021,Electrónica
+383,"Changed for the Better",13,single,2021,Electrónica
+384,Evil,1,album,2022,Electrónica
+385,Revellers,18,album,2021,Electrónica
+386,"The Wrong Place",105,single,2021,Electrónica
+387,"So Flute - Ludovic Navarre Amapiano Version 2020",92,album,2021,Electrónica
+388,Valentine,12,album,2022,Electrónica
+389,"No More Kissing In The Rain",106,album,2022,Electrónica
+390,"Breathe - Kid Francescoli Remix",50,single,2021,Electrónica
+391,"Capture Casa",80,single,2021,Electrónica
+392,Nocturne,19,album,2021,Electrónica
+393,Promise,45,single,2021,Electrónica
+394,Sorry,14,album,2022,Electrónica
+395,"Stay Awhile",14,single,2022,Electrónica
+396,C.A.,107,album,2022,Electrónica
+397,"shiloh's revenge",10,single,2022,Electrónica
+398,Peace,48,single,2022,Electrónica
+399,"Chanel Maconha",108,album,2021,Electrónica
+400,Grammar,27,single,2022,Electrónica
+401,Rever,4,album,2021,Electrónica
+402,"We Are (우리는)",17,album,2022,Electrónica
+403,"Narrow Road",40,album,2021,Electrónica
+404,"Purple Circle",109,single,2022,Electrónica
+405,Running,49,album,2022,Electrónica
+406,"The Other Lover - Little Dragon Vocal Celebration Mix",48,single,2021,Electrónica
+407,"Someone Close",27,single,2022,Electrónica
+408,"Right Right Right",72,album,2022,Electrónica
+409,"In All The Wrong Places - Mixed",30,album,2022,Electrónica
+410,'rraine,10,album,2021,Electrónica
+411,"Caía la Noche",67,album,2021,Electrónica
+412,Down,73,single,2022,Electrónica
+413,"All Alone",13,single,2022,Electrónica
+414,"TTHHEE PPAARRTTYY - Demo",12,album,2022,Electrónica
+415,"Another Breakfast with You",1,album,2022,Electrónica
+416,Echoes,49,single,2022,Electrónica
+417,"Balada Borracha",98,album,2021,Electrónica
+418,Paco!,1,album,2022,Electrónica
+419,"D.A.N.C.E. - Demo",12,album,2022,Electrónica
+420,"Denimclad Baboons",14,album,2022,Electrónica
+421,"Light & Magic",1,album,2022,Electrónica
+422,Crosswalk,61,album,2022,Electrónica
+423,"Wall of Sleep",100,album,2022,Electrónica
+424,Breathe,14,album,2022,Electrónica
+425,"PBS (Live Edit)",30,single,2022,Electrónica
+426,"Graf Zahl",110,single,2021,Electrónica
+427,"Scarface - Original Mix",111,single,2021,Electrónica
+428,"NEON RATS",28,album,2022,Electrónica
+429,"Stay the Ride (Cast a Light)",89,single,2021,Electrónica
+430,Glue,4,single,2022,Electrónica
+431,"El Santo",74,single,2022,Electrónica
+432,Gabriel,112,single,2022,Electrónica
+433,"My Soul or Something",17,album,2022,Electrónica
+434,"Walking In The Rain",26,album,2022,Electrónica
+435,"Extreme Ways - Reprise Version",42,album,2021,Electrónica
+436,"Watch Me Now (feat. Koda & VAAAL)",70,single,2022,Electrónica
+437,"The Daisy",18,single,2021,Electrónica
+438,"Minute by Minute",13,single,2022,Electrónica
+439,Egoísmo,113,single,2021,Electrónica
+440,"Fuck Off Money",32,album,2021,Electrónica
+441,"Act Right (feat. Billy Dean Thomas & VAAAL)",70,album,2022,Electrónica
+442,bernard?,10,album,2021,Electrónica
+443,"Some Resolve",14,album,2022,Electrónica
+444,Paralysed,25,single,2021,Electrónica
+445,Mothra,46,album,2021,Electrónica
+446,"Deep South",71,single,2021,Electrónica
+447,"When The Lights Go",61,album,2022,Electrónica
+448,"Pat Stains",32,album,2021,Electrónica
+449,Control,14,album,2022,Electrónica
+450,"Si Soy Fuego",110,single,2021,Electrónica
+451,"Need A Lover",11,album,2021,Electrónica
+452,"The Wrong Place",105,album,2021,Electrónica
+453,"Oh Oh Yeah - Race Banyon Remix",29,single,2022,Electrónica
+454,Moldau,19,album,2021,Electrónica
+455,"Up To Us",16,album,2021,Electrónica
+456,Frontiers,49,album,2022,Electrónica
+457,"Ar.Mour (Rōnin Dub)",114,album,2021,Electrónica
+458,Boletta,115,single,2022,Electrónica
+459,D.A.N.C.E.,12,single,2022,Electrónica
+460,"Lights Out",14,album,2022,Electrónica
+461,"Child In The Dark",57,album,2021,Electrónica
+462,"Tranquility Trap",57,album,2021,Electrónica
+463,Forever,61,album,2022,Electrónica
+464,"Natural Blues - Reprise Version / Edit",42,single,2021,Electrónica
+465,Lawmaker,40,album,2021,Electrónica
+466,"The Last Day - Reprise Version",42,album,2021,Electrónica
+467,"Sure Thing (Osunlade Yoruba Soul Mix) - Radio Edit",92,single,2021,Electrónica
+468,Watersynth,91,single,2022,Electrónica
+469,"Sunny's Time - Logic1000 Remix",24,album,2021,Electrónica
+470,"You Made It (Pt. 2) - Mixed",30,album,2022,Electrónica
+471,Freakout/Release,73,album,2022,Electrónica
+472,"w/ dad & frankie",10,album,2021,Electrónica
+473,"froth sipping",10,album,2021,Electrónica
+474,"The Moon - Kutiman Remix - Version A",29,single,2022,Electrónica
+475,"Cinnamon Cinematic",78,album,2022,Electrónica
+476,"Always There",22,album,2022,Electrónica
+477,"Morning Sun In A Dusty Room",18,album,2021,Electrónica
+478,Woodland,17,album,2022,Electrónica
+479,SOUVENIR,108,album,2021,Electrónica
+480,Solo,19,single,2022,Electrónica
+481,"Sparrow Arc Tall",23,album,2022,Electrónica
+482,"88 - Prometh Remix",116,single,2021,Electrónica
+483,Hawk,4,album,2021,Electrónica
+484,"Without You (feat. Davisax)",117,single,2022,Electrónica
+485,"Grown & Sexy",74,single,2022,Electrónica
+486,Anubis,59,album,2022,Electrónica
+487,SOS,57,album,2021,Electrónica
+488,"Tales from the Doumbek",118,album,2022,Electrónica
+489,"Todo de Ti - Jimmix Afro Latin House Remix",39,single,2021,Electrónica
+490,"Rain and Shine",78,album,2022,Electrónica
+491,"Let Me Tell Ya (Outro)",119,album,2022,Electrónica
+492,"Hold On",120,album,2022,Electrónica
+493,"Leave Here",45,single,2021,Electrónica
+494,"Midnight Flit",32,album,2021,Electrónica
+495,"Macumba de Marea",98,album,2021,Electrónica
+496,Trinchera,59,single,2022,Electrónica
+497,Fir,4,album,2021,Electrónica
+498,"El Arte de Recuperarte",67,single,2022,Electrónica
+499,U.U,108,album,2021,Electrónica
+500,Eventually,49,album,2022,Electrónica
+501,"I lost my mind - Metronomy x Jessica Winter",7,album,2022,Electrónica
+502,"Should be Fine",13,single,2021,Electrónica
+503,"Post Punk (feat. Iggy Pop)",70,album,2022,Electrónica
+504,Fir,4,album,2021,Electrónica
+505,Hammers,72,album,2021,Electrónica
+506,"Extreme Ways - Felsmann + Tiley Reinterpretation",42,album,2022,Electrónica
+507,"Frogtoise - Mixed",30,album,2022,Electrónica
+508,"El Arte de Recuperarte",67,single,2022,Electrónica
+509,"Cracked LCD",1,album,2022,Electrónica
+510,"No Show",57,album,2021,Electrónica
+511,"Free Play",70,album,2022,Electrónica
+512,4GET,116,album,2021,Electrónica
+513,Mania,22,album,2022,Electrónica
+514,"Un Tiempo",67,album,2021,Electrónica
+515,"Rainbows and Dreams",79,album,2022,Electrónica
+516,"Falling Skies",29,album,2021,Electrónica
+517,"Waves of Devotion",41,album,2021,Electrónica
+518,"Oh Oh Yeah",29,album,2021,Electrónica
+519,"There, Beyond The Trees",14,album,2022,Electrónica
+520,"Where's Your Head At - Martin Ikin Remix - Edit",121,album,2022,Electrónica
+521,Fire,1,album,2022,Electrónica
+522,"Sounds Of Blue (Gui Boratto Remix) - Radio Edit",29,single,2022,Electrónica
+523,"You Hear That - Mallin Remix Edit",122,single,2021,Electrónica
+524,"need u tonight",51,album,2022,Electrónica
+525,"If We Don’t Make It (Rōnin Throwdown)",114,album,2021,Electrónica
+526,"La Montaña - Original Mix",74,single,2022,Electrónica
+527,"Belfast - Yotto Remix",123,single,2022,Electrónica
+528,Karst,52,single,2021,Electrónica
+529,"Sheep in Black and White",72,album,2022,Electrónica
+530,"Killed Our Love",29,album,2021,Electrónica
+531,"TBT (KA2SH Remix)",85,single,2022,Electrónica
+532,"PAGA DIOS",108,single,2022,Electrónica
+533,"Este Amor",113,album,2021,Electrónica
+534,"To the Sun",124,single,2022,Electrónica
+535,Apricots,4,single,2022,Electrónica
+536,"Valentine - Demo",12,album,2022,Electrónica
+537,"What Else Is There? - ARTBAT Remix",14,single,2021,Electrónica
+538,"PBS (Live Edit) - Mixed",30,album,2022,Electrónica
+539,"Breathe - Digitalism Remix",50,single,2021,Electrónica
+540,Perspex,107,album,2022,Electrónica
+541,GHOST,21,single,2022,Electrónica
+542,"All I See Is You, Velvet Brown",46,album,2021,Electrónica
+543,"Like An Old Dog",14,album,2022,Electrónica
+544,Crimson,22,album,2022,Electrónica
+545,"J'en ai assez vu - Metronomy x Sebastien Tellier",7,album,2022,Electrónica
+546,"Blue Liquid",51,single,2021,Electrónica
+547,"Setting Sun",44,album,2022,Electrónica
+548,"Scythe Master",65,compilation,2022,Electrónica
+549,"Me Gustas Tú",125,album,2022,Electrónica
+550,Fjäll,19,single,2022,Electrónica
+551,"Martín Fierro - Remastered",75,album,2021,Electrónica
+552,"Toma Que Toma",124,single,2021,Electrónica
+553,"The Great Escape - Reprise Version",42,album,2021,Electrónica
+554,"The Darkness That You Fear - Edit",44,single,2021,Electrónica
+555,Small,23,album,2021,Electrónica
+556,"Mothra - Edit",46,album,2021,Electrónica
+557,"New Love",8,single,2022,Electrónica
+558,Spatter/Splatter,18,album,2021,Electrónica
+559,"EN EL AFTER",108,single,2022,Electrónica
+560,"Slow Cushion",65,compilation,2021,Electrónica
+561,"La Izquierda de la Noche",59,single,2021,Electrónica
+562,Quicksand,45,album,2021,Electrónica
+563,Paradoja,59,album,2022,Electrónica
+564,Youth,33,single,2022,Electrónica
+565,"Dark Gethsemane",8,single,2021,Electrónica
+566,"Home - Toro y Moi Remix",24,album,2021,Electrónica
+567,"The Question Is To See It All",40,album,2021,Electrónica
+568,"Blaze - Extended",37,album,2021,Electrónica
+569,"Faint Lights In The Distance",102,album,2021,Electrónica
+570,"Entre las Dos",67,album,2021,Electrónica
+571,"Mind Dimension - Kölsch Remix",60,single,2022,Electrónica
+572,"Now Is",49,album,2022,Electrónica
+573,BATMAN,56,single,2022,Electrónica
+574,"Never Come Back - Koreless Remix",24,album,2021,Electrónica
+575,Elektrobank,44,album,2022,Electrónica
+576,"If You Want Me",14,single,2022,Electrónica
+577,Taurus,45,single,2022,Electrónica
+578,Grace,126,album,2022,Electrónica
+579,"Miss The Bliss",73,album,2022,Electrónica
+580,Portal,33,album,2021,Electrónica
+581,"Cut My Heart Out - Jazzanova Remix",29,single,2022,Electrónica
+582,Namaste,29,album,2021,Electrónica
+583,"¡Que llueva! - Remastered",75,album,2021,Electrónica
+584,Time,73,album,2022,Electrónica
+585,"Old Man Yells at Clouds",127,album,2021,Electrónica
+586,Cease2xist,1,album,2022,Electrónica
+587,"Summer - Club Mix",3,single,2021,Electrónica
+588,Celebra,113,album,2021,Electrónica
+589,"Lost Somewhere",78,album,2022,Electrónica
+590,"Dig Your Own Hole",44,album,2022,Electrónica
+591,Climax,111,single,2022,Electrónica
+592,"Red Alert - Grant Nelson Remix - Edit",121,album,2022,Electrónica
+593,"Friends & Foes",97,album,2022,Electrónica
+594,"Natural Blues - Topic Remix",42,single,2021,Electrónica
+595,"Donde Tai",108,album,2021,Electrónica
+596,"Veil Of White",106,album,2022,Electrónica
+597,Sundial,4,single,2021,Electrónica
+598,"Cut My Heart Out",29,album,2021,Electrónica
+599,"Nunca Me Atiende :(",108,album,2021,Electrónica
+600,"Halcyon & On - Jon Hopkins Remix",123,single,2022,Electrónica
+601,Time,73,album,2022,Electrónica
+602,"Jhay Cortez - Tokyo (Broken Lip EDIT)",119,single,2022,Electrónica
+603,"Where Do I Begin",44,album,2022,Electrónica
+604,"Aye Aye Mi Mi - 12" Mix",88,single,2021,Electrónica
+605,Minibus,64,album,2021,Electrónica
+606,"Monument - Olof Dreijer Remix",14,single,2021,Electrónica
+607,"3D Warrior (Hirshy Remix)",16,single,2022,Electrónica
+608,"Not Really",49,single,2021,Electrónica
+609,"A Model Of Reality",36,album,2022,Electrónica
+610,"Life In A Mind",18,album,2021,Electrónica
+611,"Fly Away",22,album,2022,Electrónica
+612,"Por Amar al Amor",67,single,2021,Electrónica
+613,19,128,album,2022,Electrónica
+614,"Extreme Ways - Reprise Version / Edit",42,single,2021,Electrónica
+615,"Let's Trip Out (feat. King Green)",70,album,2022,Electrónica
+616,"Why Not Jungle",129,single,2022,Electrónica
+617,"Sulphur Soul",29,album,2021,Electrónica
+618,"Mas Que Palabras",113,album,2021,Electrónica
+619,"Take My Hand (feat. Lou Stone) (Live)",99,single,2021,Electrónica
+620,Sheck,117,single,2022,Electrónica
+621,Picnic,130,single,2022,Electrónica
+622,Manila,52,album,2021,Electrónica
+623,"El Campesino",118,album,2022,Electrónica
+624,"Let's Trip Out (feat. King Green) - Future Method Remix",70,album,2022,Electrónica
+625,"El perro - Remastered",75,album,2021,Electrónica
+626,"Uneasy - Metronomy x spill tab",7,single,2021,Electrónica
+627,"SOFT EDIT",28,album,2022,Electrónica
+628,"Exotic Contents",36,single,2022,Electrónica
+629,"The Cascades - Mixed",131,compilation,2022,Electrónica
+630,Process,17,album,2022,Electrónica
+631,"Into The Silence",106,single,2022,Electrónica
+632,"Never Seen You Dance",61,single,2022,Electrónica
+633,"Turn It On",1,album,2022,Electrónica
+634,"Feel It - Edit",14,single,2022,Electrónica
+635,"Heartbreak - Kerri Chandler Remix",6,single,2021,Electrónica
+636,"Don't know how",132,album,2021,Electrónica
+637,"House Broken (feat. Naz Tokio) - DJ30A & Huda Hudia Remix",70,album,2022,Electrónica
+638,Burner,18,single,2021,Electrónica
+639,11-11,3,album,2022,Electrónica
+640,"Between Memories - Instrumental",2,single,2021,Electrónica
+641,Opening,33,album,2021,Electrónica
+642,Rabindra,52,album,2021,Electrónica
+643,"It's What I Want To Do, Mum",32,album,2021,Electrónica
+644,"Avril 14th",65,compilation,2021,Electrónica
+645,"Picking Up for You - Outtake",7,album,2021,Electrónica
+646,"glorious amateurs",10,album,2021,Electrónica
+647,Me&Youphoria,14,single,2022,Electrónica
+648,Telmi,39,single,2022,Electrónica
+649,"NUMB BELL",28,album,2022,Electrónica
+650,"Caracas Way - Afrikan Style Mix",38,single,2022,Electrónica
+651,Relay,45,single,2022,Electrónica
+652,Glow,106,album,2022,Electrónica
+653,Mu-Tron,1,album,2022,Electrónica
+654,POLVO,108,album,2021,Electrónica
+655,Darklands,106,album,2022,Electrónica
+656,Echoes,49,album,2022,Electrónica
+657,"Never the right time",132,album,2021,Electrónica
+658,"Blood In The Snow",61,single,2022,Electrónica
+659,"When the Lights Go",61,single,2022,Electrónica
+660,"Mr McGee",99,album,2022,Electrónica
+661,"Impossible - &ME Remix",14,single,2022,Electrónica
+662,"Chaos Energy",100,album,2022,Electrónica
+663,"Count Me Out",99,album,2022,Electrónica
+664,"Lift Me Up - Mathame Remix",42,single,2022,Electrónica
+665,"The Sleeper",61,album,2022,Electrónica
+666,"All Over",17,album,2022,Electrónica
+667,"Shining Underdog",86,album,2021,Electrónica
+668,"Black Plastic",1,album,2022,Electrónica
+669,Run,18,album,2021,Electrónica
+670,"An Exhale",46,album,2021,Electrónica
+671,"Gabriel - Tom Player Strings Version",112,single,2022,Electrónica
+672,"Cyberpunk 2022",56,single,2021,Electrónica
+673,"Without You",95,single,2022,Electrónica
+674,"Por Amar al Amor",67,album,2021,Electrónica
+675,"Aye Aye Mi Mi",88,album,2021,Electrónica
+676,Ovule,35,single,2022,Electrónica
+677,"Start Up Chime",1,album,2022,Electrónica
+678,Everyday,3,album,2022,Electrónica
+679,"Caracas de Noche - Original Mix",38,single,2021,Electrónica
+680,"Sister - Floating Points Remix",24,album,2021,Electrónica
+681,"Never Alone - Patrice Bäumel Remix",3,single,2022,Electrónica
+682,"Ever Present",33,album,2021,Electrónica
+683,"Supposedly, We Were Nightmares",32,album,2021,Electrónica
+684,"Everyday - Jennifer Cardini Remix",3,single,2022,Electrónica
+685,"Hazel and Gold",100,album,2021,Electrónica
+686,"Go - Reprise Version",42,album,2021,Electrónica
+687,"Juanita 2022",133,single,2022,Electrónica
+688,"Friction (feat. Future Funk Squad & Jim Davies)",70,album,2022,Electrónica
+689,"It Doesn't Matter",44,album,2022,Electrónica
+690,"Silence & Secrets (Black Coffee Remix) [Mixed]",134,album,2022,Electrónica
+691,"Zone 3 (City Limits)",51,album,2022,Electrónica
+692,"Rush - Lil Silva Remix",48,single,2021,Electrónica
+693,Love,135,single,2021,Electrónica
+694,"Inside Is Out There",40,album,2021,Electrónica
+695,"In The Gloaming",106,album,2022,Electrónica
+696,playground,10,album,2021,Electrónica
+697,"Hottest Record in the World",130,single,2022,Electrónica
+698,"PARA AFUERA",108,single,2022,Electrónica
+699,"What Else Is There? - ARTBAT Remix Edit",14,single,2021,Electrónica
+700,"Fuego Fuego - Original Mix",136,single,2022,Electrónica
+701,"Catch Me When I Fall (Rōnin Vocal Mix)",114,album,2021,Electrónica
+702,"Juanita 2022",133,single,2022,Electrónica
+703,Piku,44,album,2022,Electrónica
+704,Ted,23,album,2022,Electrónica
+705,"We Are all Made of Stars - Reprise Version",42,album,2021,Electrónica
+706,Alibis,57,album,2021,Electrónica
+707,"Pop Art Blue",99,album,2022,Electrónica
+708,"Blood in the Snow",61,album,2022,Electrónica
+709,One,126,album,2022,Electrónica
+710,"Zone 3 (City Limits)",51,album,2022,Electrónica
+711,"The Way Back Home (Rōnin / Original)",114,album,2022,Electrónica
+712,"kissing (ft. slowthai)",51,album,2022,Electrónica
+713,Nientiendo,39,single,2022,Electrónica
+714,"Love Divide",18,single,2021,Electrónica
+715,"Pretty Good",52,album,2021,Electrónica
+716,Moldau,19,single,2021,Electrónica
+717,"Cantando en Africa - Original Mix",68,single,2021,Electrónica
+718,"Papito - Original Mix",39,single,2022,Electrónica
+719,"God is A DJ - Extended",31,single,2021,Electrónica
+720,"Go - Anfisa Letyago Remix",42,single,2022,Electrónica
+721,"Halcyon & On - Jon Hopkins Remix",123,album,2022,Electrónica
+722,"Upstairs Flat",8,single,2022,Electrónica
+723,Spiral,40,album,2021,Electrónica
+724,"Speed King",14,single,2022,Electrónica
+725,Forever,13,single,2022,Electrónica
+726,"Adiós Chacón",98,album,2021,Electrónica
+727,"The Reason Why",1,album,2022,Electrónica
+728,Battles,137,single,2022,Electrónica
+729,"Rose rouge - Atjazz Galaxy Aart Remix",92,album,2021,Electrónica
+730,"Edge of the Horizon (feat. She Keeps Bees) (GA25 Version)",69,album,2022,Electrónica
+731,"The Moon",29,album,2021,Electrónica
+732,Sottopassaggio,120,album,2022,Electrónica
+733,"The Other Side (Rōnin Def Mix)",114,album,2021,Electrónica
+734,"Never Come Back - Morgan Geist Remix",24,album,2021,Electrónica
+735,"s gets jaded",10,album,2021,Electrónica
+736,Apricots,4,album,2021,Electrónica
+737,"El Viaje - Original Mix",38,single,2022,Electrónica
+738,"Creator SOS",16,album,2021,Electrónica
+739,"Natural Blues - Topic Remix",42,album,2022,Electrónica
+740,Letter,13,single,2021,Electrónica
+741,"House Broken (feat. Naz Tokio) - Tommie Sunshine & On Deck Remix",70,album,2022,Electrónica
+742,Devotion,100,album,2022,Electrónica
+743,"Silence & Secrets - Adriatique Remix",3,single,2022,Electrónica
+744,Gluttony,80,album,2022,Electrónica
+745,"What About You",52,album,2021,Electrónica
+746,"Atlanta - Edit",66,single,2021,Electrónica
+747,"Me&Youphoria - Edit",14,single,2022,Electrónica
+748,Manhood,138,single,2021,Electrónica
+749,Phaedra,139,album,2021,Electrónica
+750,"Setting Sun",79,album,2022,Electrónica
+751,"Fear of a Blind Planet",86,album,2021,Electrónica
+752,"Go - Anfisa Letyago Remix",42,album,2022,Electrónica
+753,Ecdysis!,40,single,2022,Electrónica
+754,Arthur,26,album,2022,Electrónica
+755,"Right on time - Metronomy x Haich Ber Na",7,album,2022,Electrónica
+756,"La Visita - Remastered",75,album,2021,Electrónica
+757,Amigos,140,single,2021,Electrónica
+758,"Eyes Alive",80,album,2022,Electrónica
+759,Thresho_1.0,18,album,2021,Electrónica
+760,"Days and Nights / Reprise (Rōnin Re-Edit)",114,album,2021,Electrónica
+761,"Even More Excuses",78,album,2022,Electrónica
+762,"March On",13,single,2022,Electrónica
+763,"Mind Dimension 2 - 2022 Edit",60,single,2022,Electrónica
+764,"Not Alone",73,album,2022,Electrónica
+765,A.O.E,33,album,2021,Electrónica
+766,"Look Both Ways",17,album,2022,Electrónica
+767,Ladybird,1,album,2022,Electrónica
+768,"I Need Someone (feat. Nathan Ball & Caleb Femi) (Alok Remix) (Edit)",31,album,2021,Electrónica
+769,"Rescue Me",42,single,2022,Electrónica
+770,"Namaste - Orbital Remix",29,single,2022,Electrónica
+771,"The beginning",132,album,2021,Electrónica
+772,"Deserto Rosso - Pomboklap Remix",43,single,2022,Electrónica
+773,Priestess,26,album,2022,Electrónica
+774,"Enfantillages pittoresques: II. Berceuse - Christian Löffler Rework (FRAGMENTS / Erik Satie)",19,single,2022,Electrónica
+775,"Viento y Agua",111,single,2021,Electrónica
+776,"A Sanctimonious Song",78,album,2022,Electrónica
+777,"Call Center",41,album,2021,Electrónica
+778,"What They Call Us",141,single,2022,Electrónica
+779,"Only Young",40,album,2021,Electrónica
+780,"Everything Goes My Way - Anna Prior Remix",7,single,2021,Electrónica
+781,Summer,3,single,2021,Electrónica
+782,Odyssey,49,album,2022,Electrónica
+783,"Night Jaguars",98,single,2021,Electrónica
+784,Fools,78,album,2022,Electrónica
+785,"Dakar de Noche",142,album,2022,Electrónica
+786,"Immaculate Hearts",57,album,2021,Electrónica
+787,"Electronic Performers - Live at KCRW, 2001",143,album,2021,Electrónica
+788,"I'm With the Pilots",1,album,2022,Electrónica
+789,"Tó ba a çalîh bien mamá (feat. Queralt Lahoz)",144,album,2021,Electrónica
+790,"405 - Metronomy x Biig Piig",7,single,2021,Electrónica
+791,Lifeline,57,album,2021,Electrónica
+792,"Love Me Stupid",57,album,2021,Electrónica
+793,"Quiero - Remastered",75,album,2021,Electrónica
+794,Frisco,48,single,2022,Electrónica
+795,"Cicatriz #23",59,album,2022,Electrónica
+796,Funebre,19,album,2021,Electrónica
+797,"I lost my mind",7,album,2022,Electrónica
+798,"Rules Of The Game",2,album,2022,Electrónica
+799,"The Dream",53,album,2022,Electrónica
+800,"Human Voices",51,album,2022,Electrónica
+801,"I lost my mind",7,album,2022,Electrónica
+802,Funebre,19,album,2021,Electrónica
+803,"Everything Goes My Way - Anna Prior Remix",7,single,2021,Electrónica
+804,"On My Knees (Rōnin Def Mix)",114,album,2021,Electrónica
+805,"Thank You - MARROV Remix",95,single,2022,Electrónica
+806,Wondergan,107,album,2022,Electrónica
+807,"Solace In Structure",36,album,2022,Electrónica
+808,Reliquia,15,album,2021,Electrónica
+809,"Warm Data",33,album,2021,Electrónica
+810,"The Witness",145,single,2021,Electrónica
+811,"The Look - Instrumental",7,album,2021,Electrónica
+812,"No Holiday",130,album,2021,Electrónica
+813,"El Tiempo - Preludio Poetico 2021 Radio Edit",38,single,2021,Electrónica
+814,"I've Felt Better (Than I Do Now)",53,album,2022,Electrónica
+815,"Feel More / With Less (Rōnin Reconstruction)",114,album,2021,Electrónica
+816,"A Hold",26,single,2022,Electrónica
+817,"A Dream I Have",61,single,2021,Electrónica
+818,Vacío,59,album,2022,Electrónica
+819,"Life and Death",7,album,2022,Electrónica
+820,"Medicine Man",99,album,2022,Electrónica
+821,"Lift Me Up - Reprise Version",42,album,2021,Electrónica
+822,Stripes,57,album,2021,Electrónica
+823,B.E.A.T.,12,single,2022,Electrónica
+824,"Kingdom of Machines",146,album,2021,Electrónica
+825,"Watch Me Now (feat. Koda & VAAAL) - Latroit x Ryden Remix",70,album,2022,Electrónica
+826,Atlas,4,album,2021,Electrónica
+827,Fate,19,album,2021,Electrónica
+828,"Just Wanted To Know",14,single,2022,Electrónica
+829,"Viento y Marea",59,album,2022,Electrónica
+830,Re:Agents,1,album,2022,Electrónica
+831,"Bele Bele",74,single,2021,Electrónica
+832,Breathe,14,single,2022,Electrónica
+833,Skyline,17,album,2022,Electrónica
+834,"Bye Bye",59,single,2022,Electrónica
+835,"Moon After Moon",3,album,2022,Electrónica
+836,"Deep In The Glowing Heart - Night Version",47,single,2022,Electrónica
+837,"New Words",52,album,2021,Electrónica
+838,"Ghost sYMbOL",99,album,2022,Electrónica
+839,"It's good to be back - Metronomy x Panic Shack",7,album,2022,Electrónica
+840,Tzu-Mani,147,single,2021,Electrónica
+841,"CSKA Sofia",1,album,2022,Electrónica
+842,"The Look",7,single,2021,Electrónica
+843,"Jubilee - Andrew Weatherall Mix",25,album,2021,Electrónica
+844,Iceberg,148,single,2021,Electrónica
+845,"Silence & Secrets",3,single,2021,Electrónica
+846,Mermaids,3,album,2022,Electrónica
+847,"Forever - BYG86 Remix",95,single,2022,Electrónica
+848,Protagonista,149,album,2022,Electrónica
+849,"Porcelain - Christian Löffler Remix",42,album,2022,Electrónica
+850,"Farewell (Rōnin / Revisited)",114,album,2022,Electrónica
+851,KEYHOLE,108,album,2021,Electrónica
+852,"Mas Que Nada - Jimmix Mix",39,single,2021,Electrónica
+853,"Nu Horizons",1,album,2022,Electrónica
+854,"I have seen enough",7,album,2022,Electrónica
+855,"Margarita Way",38,single,2022,Electrónica
+856,"Venezuelan Flow - Original Mix",68,single,2022,Electrónica
+857,"Relay - Skee Mask Remix",45,single,2022,Electrónica
+858,"Hard To Be Funky",73,album,2022,Electrónica
+859,"Black Gold - Instrumental",2,single,2021,Electrónica
+860,Karplus,22,album,2022,Electrónica
+861,"Manduko - Victor Porfidio Remix",39,single,2021,Electrónica
+862,"3Below Theme",150,album,2021,Electrónica
+863,Forever,61,single,2022,Electrónica
+864,"The Private Psychedelic Reel",44,album,2022,Electrónica
+865,"Dark & Long - Drift 2 Dark Train",133,single,2021,Electrónica
+866,"Are We Here? (30 Something) - Dusky Remix",123,single,2022,Electrónica
+867,"Yesterday Faded - Edit",100,single,2021,Electrónica
+868,"Lost In The K-Hole",44,album,2022,Electrónica
+869,Saku,4,album,2021,Electrónica
+870,"Monday - Metronomy x Brian Nasty x Folly Group",7,single,2021,Electrónica
+871,"La Izquierda de la Noche",59,album,2022,Electrónica
+872,"D.A.N.C.E. - Demo",12,single,2022,Electrónica
+873,"COPY COPY",28,album,2022,Electrónica
+874,Caleuche,151,album,2022,Electrónica
+875,2:16,80,single,2022,Electrónica
+876,"Do Yourself Some Good (Rōnin Throwdown)",114,album,2021,Electrónica
+877,"Carbon Dioxide",141,single,2022,Electrónica
+878,"Simple Tuesday",89,album,2021,Electrónica
+879,Dungeon,26,album,2022,Electrónica
+880,Guataqui,152,single,2021,Electrónica
+881,"if and when (ft. Wiki)",51,album,2022,Electrónica
+882,"This Is Our Sound",1,album,2022,Electrónica
+883,"Social Distancing - Bored Lord Remix",64,album,2021,Electrónica
+884,"Capable Rhythm",146,album,2021,Electrónica
+885,"The Evil That Men Do",73,album,2022,Electrónica
+886,"Out of Touch - Metronomy x Sorry",7,single,2021,Electrónica
+887,"say that (ft. Nomi)",51,album,2022,Electrónica
+888,"Say It's Over",29,album,2021,Electrónica
+889,"Original Heartbreak",89,album,2021,Electrónica
+890,Grasp,17,album,2022,Electrónica
+891,Sunset,26,album,2022,Electrónica
+892,"House Broken (feat. Naz Tokio)",70,single,2021,Electrónica
+893,"Jet Age",1,album,2022,Electrónica
+894,Tropical,76,album,2022,Electrónica
+895,"A Warning",49,album,2022,Electrónica
+896,"Hard to Tell",132,album,2021,Electrónica
+897,"Raw Chef",83,album,2021,Electrónica
+898,"Eleanor - Edit",73,single,2022,Electrónica
+899,"The Darkness That You Fear",44,single,2021,Electrónica
+900,"So Flute - Ludovic Navarre Amapiano Reprise",92,album,2021,Electrónica
+901,"Eleanor - Edit",73,single,2022,Electrónica
+902,"So Flute - Ludovic Navarre Amapiano Reprise",92,album,2021,Electrónica
+903,"Exodus (Rōnin / Revisited)",114,album,2022,Electrónica
+904,"Free Your Soul (David Joy's Kingdom Remix)",87,single,2021,Electrónica
+905,"Space Cadet",8,single,2021,Electrónica
+906,"Capable Rhythm",146,album,2021,Electrónica
+907,"Vargas Way - Original Mix",38,single,2022,Electrónica
+908,"House Broken (feat. Naz Tokio)",70,single,2021,Electrónica
+909,In>Pin,46,album,2021,Electrónica
+910,Fabulaciones,15,album,2021,Electrónica
+911,"D.A.N.C.E. - Extended",12,single,2022,Electrónica
+912,"Paper Room",57,album,2021,Electrónica
+913,Grasp,17,album,2022,Electrónica
+914,Bruise,80,album,2022,Electrónica
+915,"Exotic Contents",36,album,2022,Electrónica
+916,"Eyes Alive",80,single,2022,Electrónica
+917,"The Darkness That You Fear",44,single,2021,Electrónica
+918,"Raw Chef",83,album,2021,Electrónica
+919,"Why Does My Heart Feel So Bad - Biscits Remix",42,single,2022,Electrónica
+920,"Find an Outsider (Rōnin Reconstruction)",114,album,2021,Electrónica
+921,"Never Come Back - Floating Points Remix",24,album,2021,Electrónica
+922,"Rose rouge - Nightmares on Wax ReRub Edit",92,single,2021,Electrónica
+923,Amber,22,album,2022,Electrónica
+924,LIFE,3,album,2022,Electrónica
+925,"My Friend (Logic1000 Remix)",69,single,2022,Electrónica
+926,"El desconfiado - Remastered",75,album,2021,Electrónica
+927,"Black Stone",51,single,2021,Electrónica
+928,Lawmaker,40,single,2021,Electrónica
+929,Tides,6,single,2021,Electrónica
+930,"Repetitive strain",132,album,2021,Electrónica
+931,"El Chiclan",98,album,2021,Electrónica
+932,"Hold On - Ela Minus Remix",48,single,2021,Electrónica
+933,Ostbahnhof,128,album,2022,Electrónica
+934,"No Puedo Funcionar",153,single,2021,Electrónica
+935,"Werewolves Love Astrology",127,album,2021,Electrónica
+936,"Rose rouge - Terry Laird Nu Maloya Fusion Mix",92,album,2021,Electrónica
+937,"Let's Get It Right",14,single,2022,Electrónica
+938,"Where's Your Head At - Cheyenne Giles Remix",121,single,2021,Electrónica
+939,"House Broken (feat. Naz Tokio) - Tommie Sunshine & On Deck Remix",70,single,2022,Electrónica
+940,Cazenove,4,album,2021,Electrónica
+941,"Don't Stop The Rock",44,album,2022,Electrónica
+942,"Champion - HAAi Remix",25,single,2022,Electrónica
+943,Monster,49,album,2021,Electrónica
+944,Candeleando,38,single,2021,Electrónica
+945,ATK,6,single,2022,Electrónica
+946,"The Light",86,album,2021,Electrónica
+947,"The Want",53,album,2022,Electrónica
+948,"Falling in Love Again",41,album,2021,Electrónica
+949,"Mystic Cave - same.As No Shave Remix",154,single,2022,Electrónica
+950,Sleeper,99,album,2022,Electrónica
+951,"No One Quite Like You",106,single,2021,Electrónica
+952,"a deities encore (ft. Liv.e)",51,album,2022,Electrónica
+953,"Rose rouge - Terry Laird Nu Maloya Mix",92,album,2021,Electrónica
+954,Seraphim,155,single,2021,Electrónica
+955,"The Sleeper",61,single,2022,Electrónica
+956,"Anything At All",52,album,2021,Electrónica
+957,"How Does It Make You Feel? - Live at KCRW, 2001",143,album,2021,Electrónica
+958,Guilty,73,album,2022,Electrónica
+959,"E Sqwers - Demo",99,album,2022,Electrónica
+960,"Nada - Remix",95,single,2021,Electrónica
+961,Higher,100,album,2022,Electrónica
+962,"Petali (Interno Giorno)",156,album,2022,Electrónica
+963,"Maracay Way",38,single,2021,Electrónica
+964,"Lone Swordsman",100,album,2022,Electrónica
+965,"Radian - Live at KCRW, 2001",143,album,2021,Electrónica
+966,"Belgium In The Rain",105,album,2021,Electrónica
+967,Vibras,68,single,2021,Electrónica
+968,"Feel It",14,single,2022,Electrónica
+969,"New Days",53,album,2022,Electrónica
+970,"Déjà vu",86,album,2021,Electrónica
+971,"Different Life",17,album,2022,Electrónica
+972,"Nowhere Good",120,album,2022,Electrónica
+973,"We're Free (feat. Roseau) (Ashley Beedle's North Street West Vocal Mix)",69,single,2022,Electrónica
+974,"Sonho Alto - Remix",95,single,2022,Electrónica
+975,Hope,37,album,2021,Electrónica
+976,X,4,album,2021,Electrónica
+977,"Los tangos de Billie",157,single,2022,Electrónica
+978,"Kiedy Powiem Sobie Dość",158,single,2021,Electrónica
+979,"Bye Bye - Juan Hansen Remix",59,single,2022,Electrónica
+980,"Seventh Seal",26,album,2022,Electrónica
+981,Wacha,159,single,2022,Electrónica
+982,"Let's Get It Right - Edit",14,single,2022,Electrónica
+983,"La Magia del Tambor - Original Mix",68,single,2021,Electrónica
+984,Zmeyka,1,album,2022,Electrónica
+985,"Glass Dubplate",55,single,2022,Electrónica
+986,"Symphony In Acid",36,album,2022,Electrónica
+987,"Belfast - Yotto Remix",123,album,2022,Electrónica
+988,"Elektrobank - Demo / 3/6/96",44,album,2022,Electrónica
+989,"Life and Death - Metronomy x Porij",7,album,2022,Electrónica
+990,Faded,45,album,2021,Electrónica
+991,"At the River (GA25 Version)",69,album,2022,Electrónica
+992,"The Lack Of You",80,album,2022,Electrónica
+993,"Half an Inch - Metronomy x Pinty",7,single,2021,Electrónica
+994,"The Blaze X Burial - Archangel Territory (Broken Lip EDIT)",119,single,2022,Electrónica
+995,"Sounds Of Blue (Gui Boratto Remix)",29,single,2022,Electrónica
+996,"Waves of Devotion - Single Version",41,single,2021,Electrónica
+997,Momentum,129,album,2022,Electrónica
+998,"Superstylin' (Dance System Remix)",69,single,2022,Electrónica
+999,"Heaven or Hell",98,single,2021,Electrónica
+1000,"Se Prendio - Jack N' Brothas Flute Remix",38,album,2022,Electrónica
+1001,"Me Porto Bonito",160,album,2022,Latino
+1002,"Tití Me Preguntó",160,album,2022,Latino
+1003,Desesperados,161,album,2021,Latino
+1004,"Ojitos Lindos",160,album,2022,Latino
+1005,Efecto,160,album,2022,Latino
+1006,"Moscow Mule",160,album,2022,Latino
+1007,"Todo De Ti",161,album,2021,Latino
+1008,"Feliz Cumpleaños Ferxxo",162,album,2022,Latino
+1009,MAMIII,163,album,2022,Latino
+1010,"Una Noche en Medellín",164,single,2022,Latino
+1011,Cúrame,161,album,2021,Latino
+1012,Desenfocao',161,album,2021,Latino
+1013,Normal,162,album,2022,Latino
+1014,"Love & War",165,album,2022,Latino
+1015,"Otro Atardecer",160,album,2022,Latino
+1016,Party,160,album,2022,Latino
+1017,Pepas,166,single,2021,Latino
+1018,"CHORRITO PA LAS ANIMAS",162,single,2022,Latino
+1019,"Hey Mor",167,album,2022,Latino
+1020,"Un Coco",160,album,2022,Latino
+1021,"Quevedo: Bzrp Music Sessions, Vol. 52",168,single,2022,Latino
+1022,Yonaguni,160,single,2021,Latino
+1023,Tarot,160,album,2022,Latino
+1024,Neverita,160,album,2022,Latino
+1025,"Super Gremlin",165,album,2022,Latino
+1026,"EL BARCO",169,album,2021,Latino
+1027,Volví,170,single,2021,Latino
+1028,"La Mamá de la Mamá",171,album,2022,Latino
+1029,Callaita,160,album,2022,Latino
+1030,FRIKI,162,album,2021,Latino
+1031,"Super Gremlin",172,album,2021,Latino
+1032,"Quiéreme Mientras Se Pueda",173,album,2021,Latino
+1033,Andrea,160,album,2022,Latino
+1034,"La Corriente",160,album,2022,Latino
+1035,"Ferxxo 100",162,album,2022,Latino
+1036,"La Bachata",173,single,2022,Latino
+1037,"La Old Skul",161,album,2021,Latino
+1038,"LA INOCENTE",174,album,2022,Latino
+1039,Problemón,175,album,2021,Latino
+1040,"Un Ratito",160,album,2022,Latino
+1041,Agosto,160,album,2022,Latino
+1042,"Dos Mil 16",160,album,2022,Latino
+1043,"CONTIGO VOY A MUERTE",169,album,2021,Latino
+1044,"EL MAKINON",169,album,2021,Latino
+1045,"Yo No Soy Celoso",160,album,2022,Latino
+1046,"Cosa Guapa",161,album,2021,Latino
+1047,2/Catorce,161,album,2021,Latino
+1048,"Todo De Ti",161,single,2021,Latino
+1049,Aguacero,160,album,2022,Latino
+1050,BICHOTA,169,album,2021,Latino
+1051,Tuyo,174,album,2021,Latino
+1052,Nostálgico,176,single,2021,Latino
+1053,"Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",177,single,2021,Latino
+1054,MUSEO,161,album,2022,Latino
+1055,PROVENZA,169,single,2022,Latino
+1056,"Llorar y Llorar - con Carin Leon",178,single,2022,Latino
+1057,"Pa' Olvidarme De Ella",179,album,2021,Latino
+1058,"Pareja Del Año",180,album,2022,Latino
+1059,Prohibidox,162,album,2022,Latino
+1060,512,174,album,2021,Latino
+1061,"Gato de Noche",181,single,2022,Latino
+1062,"Enséñame a Bailar",160,album,2022,Latino
+1063,"Los Aparatos",171,album,2022,Latino
+1064,MAMIII,163,single,2022,Latino
+1065,Tusa,169,album,2021,Latino
+1066,BEBÉ,182,album,2021,Latino
+1067,"Solo Conmigo",183,album,2022,Latino
+1068,"La Jumpa",184,album,2022,Latino
+1069,SEJODIOTO,169,single,2021,Latino
+1070,GATÚBELA,169,single,2022,Latino
+1071,"La Llevo Al Cielo (Ft. Ñengo Flow)",185,single,2022,Latino
+1072,"El Apagón",160,album,2022,Latino
+1073,"Sexo Virtual",161,album,2021,Latino
+1074,"La Jumpa",184,single,2022,Latino
+1075,"Me Fui de Vacaciones",160,album,2022,Latino
+1076,"Tacones Rojos",180,album,2022,Latino
+1077,VVS,186,single,2022,Latino
+1078,Riri,187,album,2022,Latino
+1079,"Volando - Remix",174,single,2021,Latino
+1080,Jordan,188,single,2022,Latino
+1081,"Ay, DiOs Mío!",169,album,2021,Latino
+1082,"Qué Más Pues?",189,album,2021,Latino
+1083,Pepas,166,album,2021,Latino
+1084,"Ley Seca",190,album,2021,Latino
+1085,Monastery,188,single,2021,Latino
+1086,"cómo dormiste?",191,single,2022,Latino
+1087,"Marisola - Remix",164,single,2022,Latino
+1088,"Yandel 150",192,single,2022,Latino
+1089,"Hola - Remix",193,album,2022,Latino
+1090,"Besos Moja2",194,album,2022,Latino
+1091,"COSAS QUE NO TE DIJE",195,single,2021,Latino
+1092,"Los Cachos",179,album,2022,Latino
+1093,"X ÚLTIMA VEZ",196,album,2022,Latino
+1094,Senseless,165,single,2021,Latino
+1095,"Vida de Rico",182,album,2021,Latino
+1096,Desesperados,161,single,2021,Latino
+1097,Malory,188,single,2021,Latino
+1098,"Wasa Wasa",188,single,2021,Latino
+1099,Pensandote,164,single,2022,Latino
+1100,Walk,165,single,2022,Latino
+1101,"Llori Pari",175,album,2021,Latino
+1102,"SI TÚ SUPIERAS - Bonus Track",162,album,2021,Latino
+1103,Medallo,197,album,2021,Latino
+1104,MODELITO,174,album,2022,Latino
+1105,"¿Qué Nos Pasó?",198,single,2022,Latino
+1106,"23 Preguntas",198,single,2021,Latino
+1107,LOKERA,161,single,2022,Latino
+1108,Tokyo,190,album,2021,Latino
+1109,MEMORIAS,174,album,2022,Latino
+1110,"AM Remix",199,single,2021,Latino
+1111,"Hola Como Vas",200,album,2021,Latino
+1112,"Toda - Remix",201,album,2022,Latino
+1113,"In Da Getto",189,album,2021,Latino
+1114,"No Te Deseo el Mal",200,album,2021,Latino
+1115,"Si Te La Encuentras Por Ahí",162,album,2022,Latino
+1116,Mbappe,200,album,2022,Latino
+1117,"Le Pido a DIOS",162,single,2022,Latino
+1118,Curazao,171,album,2022,Latino
+1119,"La Esquina del Mall",202,single,2022,Latino
+1120,ESCALOFRÍOS,174,album,2022,Latino
+1121,Aloha,203,single,2021,Latino
+1122,"Mi Luz (ft. Rels B)",204,album,2022,Latino
+1123,"Poblado - Remix",189,single,2021,Latino
+1124,"Me Extraño",183,album,2022,Latino
+1125,Pantysito,205,single,2022,Latino
+1126,FULANITO,163,album,2022,Latino
+1127,"Eladio Carrion: Bzrp Music Sessions, Vol. 40",168,single,2021,Latino
+1128,"Pepas - Tiësto Remix",166,single,2021,Latino
+1129,"En La De Ella",190,single,2022,Latino
+1130,Castigo,162,album,2022,Latino
+1131,Walk,165,album,2022,Latino
+1132,Nuevo,206,single,2022,Latino
+1133,SIRI,183,album,2022,Latino
+1134,Bebo,183,album,2022,Latino
+1135,"ALMAS GEMELAS",207,single,2021,Latino
+1136,BOMBÓN,196,album,2022,Latino
+1137,"La Mamá de la Mamá",171,single,2021,Latino
+1138,"El Pañuelo",183,album,2022,Latino
+1139,"UN DIA (ONE DAY)",189,album,2021,Latino
+1140,Mujeriego,188,single,2021,Latino
+1141,"LOS DUEÑOS DE LA CALLE",208,single,2022,Latino
+1142,Normal,162,single,2022,Latino
+1143,"AMOR DE MI VIDA",162,album,2021,Latino
+1144,"Uva Bombom",209,single,2021,Latino
+1145,Volare,210,album,2022,Latino
+1146,HOT,196,album,2022,Latino
+1147,"911 (Remix)",211,single,2021,Latino
+1148,"¿Y Eso?",161,album,2021,Latino
+1149,"Persia - Remix",212,single,2021,Latino
+1150,Instagram,197,single,2022,Latino
+1151,"Pareja Del Año",180,single,2021,Latino
+1152,Mujeriego,188,album,2022,Latino
+1153,Jordan,188,single,2022,Latino
+1154,CAIRO,169,single,2022,Latino
+1155,Sobrio,203,single,2021,Latino
+1156,Suelta,213,album,2022,Latino
+1157,"No Contesta",214,single,2021,Latino
+1158,"TUS LÁGRIMAS",174,album,2022,Latino
+1159,"No Confío",213,album,2022,Latino
+1160,Millones,182,album,2021,Latino
+1161,"KESI - Remix",182,single,2021,Latino
+1162,"Los 4 Ases (Corrido Tumbado)",215,album,2021,Latino
+1163,"Hey Mor",167,single,2022,Latino
+1164,"Feliz Cumpleaños Ferxxo",162,single,2022,Latino
+1165,"Tan Bonita",179,album,2021,Latino
+1166,"Tacones Rojos",180,single,2021,Latino
+1167,"Snow Tha Product: Bzrp Music Sessions, Vol. 39",168,single,2021,Latino
+1168,Matricula,186,single,2022,Latino
+1169,"Agua (with J Balvin)",177,album,2021,Latino
+1170,"Villano Antillano: Bzrp Music Sessions, Vol. 51",168,single,2022,Latino
+1171,"De La Nada - Remix",216,single,2022,Latino
+1172,"Todo o Nada",200,album,2021,Latino
+1173,"Maya (Remix)",217,single,2022,Latino
+1174,"PUNTO 40",161,single,2022,Latino
+1175,Conexión,218,single,2021,Latino
+1176,"I Wish",165,album,2022,Latino
+1177,"Entre Nosotros (Remix) [con Nicki Nicole]",219,single,2022,Latino
+1178,"In Da Getto",189,single,2021,Latino
+1179,"Poblado - Remix",189,album,2021,Latino
+1180,"La Vida Es Una (From Puss in Boots: The Last Wish)",169,single,2022,Latino
+1181,"Ferxxo 100",162,single,2022,Latino
+1182,"Si Te Preguntan... - feat. Nicky Jam & Jay Wheeler",220,single,2022,Latino
+1183,"Del Kilo",198,album,2022,Latino
+1184,"North Carolina",198,album,2021,Latino
+1185,"Un Poquito",205,single,2022,Latino
+1186,"Tiago PZK: Bzrp Music Sessions, Vol. 48",168,single,2021,Latino
+1187,"Feelin' Peachy",165,single,2021,Latino
+1188,"100 MILLONES",160,single,2021,Latino
+1189,"Ella No Es Tuya - Remix",209,single,2021,Latino
+1190,"Ma Nigga",171,album,2022,Latino
+1191,"Qué Más Pues?",189,single,2021,Latino
+1192,"Chica Ideal",180,album,2022,Latino
+1193,"Sus Huellas",183,single,2022,Latino
+1194,EXPERIMENTO,207,single,2021,Latino
+1195,"La Nota",173,album,2021,Latino
+1196,"Glizzy Walk 2.5",221,single,2022,Latino
+1197,Perra,189,album,2021,Latino
+1198,"Sus Huellas",183,album,2022,Latino
+1199,Mochilera,222,single,2021,Latino
+1200,"De Museo",160,single,2021,Latino
+1201,Monastery,188,single,2021,Latino
+1202,"MÍRENME AHORA",207,album,2021,Latino
+1203,Nubes,161,album,2021,Latino
+1204,CHIMBITA,162,album,2021,Latino
+1205,"COMO HAS ESTAU?",174,album,2022,Latino
+1206,Amandita,208,single,2022,Latino
+1207,"Mojando Asientos (feat. Feid)",203,single,2022,Latino
+1208,MARGIELA,208,single,2022,Latino
+1209,"La Mini",223,single,2022,Latino
+1210,"Entre Nosotros",219,album,2022,Latino
+1211,"Punto G - (Remix)",224,compilation,2022,Latino
+1212,"Fiel - Remix",225,single,2021,Latino
+1213,LUKEANDO,226,single,2022,Latino
+1214,"Te Espero - feat. Maria Becerra",220,single,2022,Latino
+1215,"Si Te Interesa",227,single,2021,Latino
+1216,Atl,221,single,2021,Latino
+1217,"XQ Te Pones Así",162,album,2022,Latino
+1218,"Loco Por Perrearte - Remix",228,single,2022,Latino
+1219,"La Ruta",184,album,2022,Latino
+1220,"EL NENE",198,album,2022,Latino
+1221,Problemón,175,single,2021,Latino
+1222,Boomerang,183,album,2022,Latino
+1223,"El Incomprendido",166,single,2021,Latino
+1224,"Lady Mi Amor",162,album,2022,Latino
+1225,"Travesuras - Remix",199,single,2021,Latino
+1226,Alaska,182,single,2022,Latino
+1227,"Randy Johnson",229,single,2022,Latino
+1228,Índigo,182,single,2021,Latino
+1229,Loco,202,album,2021,Latino
+1230,Milagrosa,230,single,2022,Latino
+1231,Perfecta,231,single,2021,Latino
+1232,"pa quererte",191,single,2022,Latino
+1233,"Tendencia Global",197,album,2022,Latino
+1234,"SOLA ES MEJOR",169,album,2021,Latino
+1235,"Jóvenes Millonarios",200,album,2021,Latino
+1236,Belixe,162,album,2022,Latino
+1237,"Me Extraño",183,single,2022,Latino
+1238,Desnudarte,224,single,2021,Latino
+1239,1942,198,album,2021,Latino
+1240,Ambulancia,182,album,2022,Latino
+1241,"Air Drop",232,single,2021,Latino
+1242,Bendecido,171,album,2022,Latino
+1243,"Nos Comemos Vivos",203,album,2022,Latino
+1244,"Baby Father",221,single,2022,Latino
+1245,"Happy Birthday",233,single,2021,Latino
+1246,"Fan de Tus Fotos",234,single,2021,Latino
+1247,RUMBATÓN,196,album,2022,Latino
+1248,"Como Antes",191,single,2021,Latino
+1249,"Quien TV Remix",197,single,2022,Latino
+1250,"Los Malvekes",164,single,2021,Latino
+1251,"TODO O NADA",206,album,2021,Latino
+1252,"Machu Picchu",182,album,2021,Latino
+1253,"La Pasamos CXBRXN",162,single,2022,Latino
+1254,"Sal y Perrea",211,album,2021,Latino
+1255,Loco,202,single,2021,Latino
+1256,Súbelo,198,single,2021,Latino
+1257,"DOMINGO DE BOTE",174,album,2022,Latino
+1258,"Esta Dejá",190,album,2021,Latino
+1259,Socio,200,album,2021,Latino
+1260,California,162,single,2022,Latino
+1261,LEYENDAS,169,album,2021,Latino
+1262,"Te Conoci Perriando",174,album,2021,Latino
+1263,"Paz Mental",200,album,2021,Latino
+1264,"BAILÉ CON MI EX",163,single,2022,Latino
+1265,"Mayor Que Usted",235,single,2022,Latino
+1266,"Señor Juez",167,single,2021,Latino
+1267,"Pepas - David Guetta Remix - Radio Edit",166,single,2021,Latino
+1268,"Mojando Asientos (feat. Feid)",203,album,2022,Latino
+1269,FRIKI,162,single,2021,Latino
+1270,Nota,200,single,2022,Latino
+1271,"Sin Frenos",200,album,2021,Latino
+1272,"Los Tragos",231,single,2021,Latino
+1273,"TENGO FE",162,album,2021,Latino
+1274,"Ram Pam Pam",235,single,2021,Latino
+1275,Índigo,182,album,2022,Latino
+1276,APA,174,album,2022,Latino
+1277,Location,205,single,2022,Latino
+1278,"FUMETEO - Remix",162,single,2021,Latino
+1279,"Tus Vueltas",230,single,2021,Latino
+1280,Spin,165,single,2022,Latino
+1281,FULANITO,163,single,2021,Latino
+1282,Putero,187,album,2022,Latino
+1283,"Verano En Cataño",229,album,2022,Latino
+1284,"Una Nota",189,album,2021,Latino
+1285,Malory,188,single,2021,Latino
+1286,"300 Blackout",165,album,2022,Latino
+1287,Aguante,162,album,2022,Latino
+1288,"Los Besos",236,album,2022,Latino
+1289,"Ella - Remix",237,single,2021,Latino
+1290,"Sin Fin",183,album,2022,Latino
+1291,"FEEL ME??",238,album,2022,Latino
+1292,"Dos Problemas (feat. Big Soto) - Remix",197,single,2021,Latino
+1293,Mcgregor,198,album,2021,Latino
+1294,"SOLO POR VOS",238,album,2022,Latino
+1295,AM,199,single,2021,Latino
+1296,"El Incomprendido",166,album,2021,Latino
+1297,Súbelo,198,album,2021,Latino
+1298,KESI,182,album,2021,Latino
+1299,"Me Arrepentí",239,single,2022,Latino
+1300,"Dime Tú",240,single,2022,Latino
+1301,"Una Vaina Loca",241,single,2021,Latino
+1302,Ayúdame,183,album,2022,Latino
+1303,"Haitian Scarface",165,single,2022,Latino
+1304,"QUE HABILIDAD",174,album,2022,Latino
+1305,"Ziploc (Blessd Version)",197,album,2022,Latino
+1306,"Una Vida Para Recordar",179,album,2021,Latino
+1307,Promesa,242,album,2021,Latino
+1308,"Otra Noche Sin Ti",189,single,2021,Latino
+1309,NLE,226,single,2022,Latino
+1310,BRRR,198,album,2022,Latino
+1311,"23 (With Ape Drums)",243,album,2021,Latino
+1312,"Paz Mental",164,single,2022,Latino
+1313,"Easter In Miami",165,single,2021,Latino
+1314,"Se Le Ve",244,single,2021,Latino
+1315,Volare,210,single,2022,Latino
+1316,NAZARENO,166,single,2022,Latino
+1317,"SI TÚ SUPIERAS",162,album,2021,Latino
+1318,Junio,203,single,2022,Latino
+1319,"Guilla de Crema",245,single,2021,Latino
+1320,"La MVP",246,album,2021,Latino
+1321,"Primer Dia de Clases",174,album,2021,Latino
+1322,Desaparecer,174,album,2021,Latino
+1323,HELLCAT,200,single,2022,Latino
+1324,"Z Look Jamaican",165,album,2021,Latino
+1325,"Se Enamoró de un Reggaetonero",205,album,2022,Latino
+1326,"UNA MÁS",177,album,2021,Latino
+1327,"Los Illuminaty",209,single,2022,Latino
+1328,Vapor,194,album,2022,Latino
+1329,"Christian Dior",190,album,2021,Latino
+1330,Fragancia,247,single,2021,Latino
+1331,"FUMETEO - Remix",162,album,2021,Latino
+1332,"Quieren Ser Yo",186,single,2022,Latino
+1333,"Entre Nosotros",219,single,2021,Latino
+1334,"Caras Vemos",200,album,2022,Latino
+1335,"Mvrda Cartel",248,single,2022,Latino
+1336,"Quemando Calorías",162,album,2022,Latino
+1337,Suegra,183,album,2022,Latino
+1338,D3M0N,249,single,2022,Latino
+1339,PROBLEMA,196,single,2021,Latino
+1340,"Mala Costumbre",173,single,2021,Latino
+1341,Borracho,211,single,2021,Latino
+1342,"Chinita Linda",175,album,2021,Latino
+1343,"L-Gante: Bzrp Music Sessions, Vol.38",168,single,2021,Latino
+1344,"Colorín Colorado",202,album,2021,Latino
+1345,"DANCE CRIP",238,album,2022,Latino
+1346,Pegao,182,single,2022,Latino
+1347,"Las Jordan",198,album,2022,Latino
+1348,Vendetta,187,single,2021,Latino
+1349,Brazilera,161,album,2021,Latino
+1350,"Si Te La Encuentras Por Ahí",162,single,2022,Latino
+1351,PAKATA,250,single,2021,Latino
+1352,"Paola "Asesinos"",208,single,2022,Latino
+1353,"Sensual Bebé",190,single,2022,Latino
+1354,"SHORTY QUE TE VAYA BN <3",191,single,2021,Latino
+1355,DURO,185,single,2022,Latino
+1356,"Usain Boo",165,album,2022,Latino
+1357,"Cumbia A La Gente",251,single,2021,Latino
+1358,PECADO,174,album,2022,Latino
+1359,"Halloween Bill Kill",172,album,2021,Latino
+1360,"Plan A",252,album,2022,Latino
+1361,Espejismo,253,album,2022,Latino
+1362,Sigue,189,single,2022,Latino
+1363,"SI PEPE (REMIX)",254,single,2022,Latino
+1364,Bi,187,album,2022,Latino
+1365,"LEJOS DEL CIELO",161,single,2022,Latino
+1366,"Te Creí",236,album,2022,Latino
+1367,Dharma,180,album,2022,Latino
+1368,"Bebé Que Bien Te Ves",189,album,2021,Latino
+1369,"Super Gremlin",165,album,2022,Latino
+1370,"GATO MALO",169,album,2021,Latino
+1371,VACAXIONES,162,album,2021,Latino
+1372,"Dile (Homenaje)",190,album,2021,Latino
+1373,"La Máquina",198,album,2022,Latino
+1374,"Antes de Perderte",255,album,2022,Latino
+1375,"Glizzy Walk 2.0",221,single,2021,Latino
+1376,"PUNTO G",256,single,2022,Latino
+1377,"Viendo El Techo",213,album,2022,Latino
+1378,ADIÓS,257,album,2022,Latino
+1379,"Ella - Remix",237,album,2022,Latino
+1380,Exit,198,album,2021,Latino
+1381,18+1,175,album,2021,Latino
+1382,VUDÚ,206,album,2021,Latino
+1383,"La Tóxica",166,album,2021,Latino
+1384,Brisa,258,single,2022,Latino
+1385,"Los Cachos",179,single,2022,Latino
+1386,"WOW BB",235,single,2022,Latino
+1387,"Inmortal - Live From MetLife Stadium",183,single,2021,Latino
+1388,"VISTA AL MAR",256,single,2022,Latino
+1389,"Nicky Jam: Bzrp Music Sessions, Vol. 41",168,single,2021,Latino
+1390,"PLAYA DEL INGLÉS",256,single,2022,Latino
+1391,"Me Fije",201,single,2021,Latino
+1392,"El Coba",209,single,2022,Latino
+1393,"Bebiendo Sola",182,album,2022,Latino
+1394,Alaska,182,album,2022,Latino
+1395,"Nos Comemos Vivos",203,single,2022,Latino
+1396,LONDON,259,single,2022,Latino
+1397,"Piel de Cordero",256,single,2021,Latino
+1398,AGUA,196,album,2022,Latino
+1399,"Barranquilla Bajo Cero",227,single,2022,Latino
+1400,Leyenda,198,album,2021,Latino
+1401,"Que Triste",179,single,2022,Latino
+1402,"Rip Stick (feat. Pooh Shiesty & Sykobob)",165,single,2021,Latino
+1403,"Claro Cristal",200,album,2021,Latino
+1404,Loquita,231,single,2021,Latino
+1405,"Me Extraña",190,album,2021,Latino
+1406,911,211,album,2021,Latino
+1407,JS4E,184,album,2022,Latino
+1408,"El Pañuelo",183,single,2022,Latino
+1409,Peli-Culeo,260,album,2022,Latino
+1410,LOCATION,169,album,2021,Latino
+1411,"Duki: Bzrp Music Sessions, Vol. 50",168,single,2022,Latino
+1412,Powerball,229,album,2022,Latino
+1413,"Me Fije",201,album,2022,Latino
+1414,"Los Consejos",236,album,2022,Latino
+1415,"Como Te Va",164,single,2022,Latino
+1416,"En Mi Cuarto",190,album,2021,Latino
+1417,LOCATION,169,single,2021,Latino
+1418,"La Buena Fai",162,album,2022,Latino
+1419,CORONE,162,album,2021,Latino
+1420,"Santa Diabla",261,single,2021,Latino
+1421,911,211,single,2021,Latino
+1422,Mar,183,album,2022,Latino
+1423,"Presidentes Muertos",223,single,2022,Latino
+1424,"Los Bo",190,single,2021,Latino
+1425,"Demand My Respect",165,album,2022,Latino
+1426,"Cuando Sera",174,album,2021,Latino
+1427,GALAPIN,171,album,2022,Latino
+1428,"Buenos Días",225,single,2022,Latino
+1429,Pin,198,album,2021,Latino
+1430,2010,174,album,2022,Latino
+1431,PAM,202,album,2021,Latino
+1432,"Si Te Veo",184,single,2021,Latino
+1433,Nada,262,album,2022,Latino
+1434,Nosotros,198,single,2022,Latino
+1435,DVD,169,album,2021,Latino
+1436,"5 Estrellas",231,single,2022,Latino
+1437,AMANTES,163,single,2022,Latino
+1438,AUTOMÁTICO,257,album,2022,Latino
+1439,"Un Viaje",263,single,2022,Latino
+1440,REMIX,196,album,2022,Latino
+1441,"Tengo un Pal",161,album,2021,Latino
+1442,"Close Friends",175,album,2021,Latino
+1443,"Que Duro",197,album,2022,Latino
+1444,"En Mi Cuarto",190,single,2021,Latino
+1445,TURRA,260,single,2021,Latino
+1446,"Si Tu Me Busca",198,single,2022,Latino
+1447,"Plan A",252,single,2022,Latino
+1448,"Alejarme de Ti",200,album,2021,Latino
+1449,"ULALA (OOH LA LA)",207,single,2022,Latino
+1450,"Última Canción",198,album,2021,Latino
+1451,"IMPOSIBLE - REMIX",197,single,2021,Latino
+1452,"Lao' a Lao'",220,single,2021,Latino
+1453,"Intro: S.a.L.H.",229,album,2022,Latino
+1454,"Ram Pam Pam",235,album,2021,Latino
+1455,"JETSKI - Remix",264,single,2022,Latino
+1456,Aeropuerto,182,album,2022,Latino
+1457,CASUALIDAD,174,album,2022,Latino
+1458,"BAILÉ CON MI EX",163,album,2022,Latino
+1459,Nieve,162,album,2022,Latino
+1460,"NEGRO MATE",265,album,2021,Latino
+1461,"Quédate - Tiësto Remix",168,single,2022,Latino
+1462,Brother,198,album,2022,Latino
+1463,"Pablo & Chapo",186,album,2021,Latino
+1464,"Un Día (One Day)",266,album,2021,Latino
+1465,"Let Me Know",165,album,2022,Latino
+1466,"badtrip :(",174,album,2022,Latino
+1467,Antes,198,album,2021,Latino
+1468,"Tendencia Global",197,single,2022,Latino
+1469,"Mi Casi Algo",253,album,2022,Latino
+1470,"Mercedes Tintia",198,single,2022,Latino
+1471,"Cumbia A La Gente",251,album,2021,Latino
+1472,"Felices Perdidos",179,album,2022,Latino
+1473,"Tamo En Hoja",171,single,2021,Latino
+1474,"Amor en Coma",173,single,2021,Latino
+1475,NASA,182,album,2022,Latino
+1476,"Diamantes en Mis Dientes",198,album,2022,Latino
+1477,"I Can’t Sleep",165,album,2022,Latino
+1478,Ojalá,267,single,2022,Latino
+1479,"TE MATA",162,album,2021,Latino
+1480,RD,198,album,2021,Latino
+1481,Sci-Fi,177,single,2022,Latino
+1482,Sunbathe,177,single,2021,Latino
+1483,"15,500 Noches",183,album,2022,Latino
+1484,"Paulo Londra: Bzrp Music Sessions, Vol. 23",168,single,2022,Latino
+1485,Spin,165,album,2022,Latino
+1486,Éxtasis,173,single,2022,Latino
+1487,"La Botella",202,album,2021,Latino
+1488,"PURRITO APA",162,album,2021,Latino
+1489,Malbec,255,album,2021,Latino
+1490,"8 DIAX",162,album,2021,Latino
+1491,"Lejos Conmigo",236,album,2022,Latino
+1492,"Arhbo [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",167,single,2022,Latino
+1493,Sufro,198,album,2022,Latino
+1494,"Agua de Jamaica",203,album,2021,Latino
+1495,"De Adentro Pa Afuera",182,album,2022,Latino
+1496,"Si Yo Me Muero",198,album,2022,Latino
+1497,Traductor,219,album,2022,Latino
+1498,"Bella Ciao",163,single,2021,Latino
+1499,GIVENCHY,255,single,2022,Latino
+1500,"La Última Vez",183,album,2022,Latino
+1501,"Gucci en Paris",164,album,2022,Latino
+1502,"Los Dioses",198,album,2021,Latino
+1503,"DÉJALOS QUE MIREN",169,album,2021,Latino
+1504,"Los Bo",190,album,2021,Latino
+1505,Perra,189,single,2021,Latino
+1506,"Sal y Perrea - Remix",211,single,2021,Latino
+1507,Istanbul,210,album,2022,Latino
+1508,"No Te Enamores - Remix",268,album,2021,Latino
+1509,Helicóptero,166,album,2021,Latino
+1510,GIVENCHY,255,album,2022,Latino
+1511,"Salimo de Noche",219,album,2022,Latino
+1512,"Besties - Remix",269,single,2022,Latino
+1513,Standard,187,album,2022,Latino
+1514,WUEPA,161,album,2022,Latino
+1515,COMMENT,162,album,2021,Latino
+1516,"La 2blea",198,single,2022,Latino
+1517,"EL NENE",218,single,2022,Latino
+1518,"FCK U X2",161,album,2022,Latino
+1519,"Mi Vicio",190,album,2021,Latino
+1520,"Monumento - Remix",270,single,2022,Latino
+1521,Maléfica,260,album,2022,Latino
+1522,"Love & War",165,single,2021,Latino
+1523,"Alguien Más - Versión Regional",270,single,2021,Latino
+1524,"Tú No Eras Así",271,album,2021,Latino
+1525,PSL,211,album,2021,Latino
+1526,"MOOD - Remix",272,single,2021,Latino
+1527,"No Me Quiere Ver (ft. Javiielo)",204,album,2022,Latino
+1528,"Anda Sola",213,album,2022,Latino
+1529,"Nos Comemos (feat. Ozuna)",219,single,2022,Latino
+1530,"Ptazeta: Bzrp Music Sessions, Vol. 45",168,single,2021,Latino
+1531,"Otra Vez",220,single,2022,Latino
+1532,Anfetamina,273,single,2022,Latino
+1533,"Tan Enamorados",274,album,2021,Latino
+1534,"Dame Lu - Remix",186,single,2022,Latino
+1535,"Los Aparatos",171,single,2022,Latino
+1536,Smackers,165,album,2022,Latino
+1537,"Una Palabra",198,album,2021,Latino
+1538,"EN LA ORILLA",174,album,2022,Latino
+1539,"X La Mía",249,single,2022,Latino
+1540,"ROBERT DE NIRO",174,album,2022,Latino
+1541,"BIEN O MAL",238,album,2022,Latino
+1542,"Háblame de Miami",275,album,2022,Latino
+1543,"Otra Noche Sin Ti",189,album,2021,Latino
+1544,"OTRO FILI",189,album,2021,Latino
+1545,Tiempo,167,single,2021,Latino
+1546,"Slay Like Santa",165,album,2022,Latino
+1547,"JORDAN IV",162,album,2021,Latino
+1548,Berlin,258,single,2022,Latino
+1549,"De Qué Manera",276,single,2022,Latino
+1550,"Blin Blin",277,album,2021,Latino
+1551,"Sexo Con Ropa",183,album,2022,Latino
+1552,"Te Olvido",173,single,2021,Latino
+1553,"Amor Bipolar",255,album,2022,Latino
+1554,"Te Perdí",270,single,2022,Latino
+1555,Ella,237,album,2022,Latino
+1556,"Babymama - Remix",269,single,2021,Latino
+1557,Brother,198,single,2022,Latino
+1558,"Sale el Sol",65,compilation,2022,Latino
+1559,"Dime Tú",198,album,2021,Latino
+1560,G5,229,album,2022,Latino
+1561,1ro,198,album,2022,Latino
+1562,"Par de Tenis",200,album,2021,Latino
+1563,"FEEL ME??",238,single,2021,Latino
+1564,"5 Star",200,album,2021,Latino
+1565,"Háblame de Miami",275,single,2021,Latino
+1566,HOOKIA,162,single,2022,Latino
+1567,"Mar Chiquita",167,album,2022,Latino
+1568,"Flow 2000 - Remix",277,single,2022,Latino
+1569,MPI,221,single,2022,Latino
+1570,Monastery,162,album,2021,Latino
+1571,Lastima,278,album,2021,Latino
+1572,"HOLY SHIT - REMIX",254,album,2021,Latino
+1573,"Sauce Boy Freestyle 3",200,album,2021,Latino
+1574,"Alta Gama",209,single,2021,Latino
+1575,Perfecto,198,album,2021,Latino
+1576,Kilimanjaro,184,album,2022,Latino
+1577,"Sauce Boy Freestyle 5",200,album,2021,Latino
+1578,"Hay Santo",209,single,2022,Latino
+1579,"En Mi Habitación",225,single,2021,Latino
+1580,Giuseppe,279,single,2021,Latino
+1581,"Si la Calle Llama",200,album,2022,Latino
+1582,"Barrio Antioquia",197,album,2022,Latino
+1583,Perro,183,album,2022,Latino
+1584,"OG Black",175,album,2021,Latino
+1585,"Tacones Rojos - With John Legend",180,single,2022,Latino
+1586,"Touch Your Body",200,album,2021,Latino
+1587,Trending,187,album,2022,Latino
+1588,Malibu,162,single,2022,Latino
+1589,"Bff <3",280,single,2021,Latino
+1590,"Elite Division",165,album,2022,Latino
+1591,"PIN PIN",207,album,2021,Latino
+1592,Nosotros,198,album,2022,Latino
+1593,"SIN SEÑAL",256,single,2022,Latino
+1594,Chupable,171,single,2021,Latino
+1595,Condado,185,single,2022,Latino
+1596,"Gucci En Mis Pies",214,single,2021,Latino
+1597,Bottas,184,album,2022,Latino
+1598,"Quien TV",197,album,2021,Latino
+1599,"I’m So Awesome",165,single,2022,Latino
+1600,Sicaria,224,single,2022,Latino
+1601,JS4E,184,single,2022,Latino
+1602,"Corazón Roto",281,single,2022,Latino
+1603,"Luz Prendía",282,single,2021,Latino
+1604,Problema,200,album,2021,Latino
+1605,"EL PADRINO",162,album,2021,Latino
+1606,Volando,174,album,2021,Latino
+1607,"EL BARCO",169,single,2021,Latino
+1608,SALVAJE,283,single,2022,Latino
+1609,"Valores del West",230,single,2022,Latino
+1610,"Party y Alcohol",194,album,2022,Latino
+1611,LINDOR,174,album,2022,Latino
+1612,"Hp Freestyle",200,album,2022,Latino
+1613,Ella,237,single,2021,Latino
+1614,"Nos Matamos",190,album,2021,Latino
+1615,"Más De La Una",179,album,2021,Latino
+1616,FUMETEO,162,album,2021,Latino
+1617,"Si Te Veo",184,album,2021,Latino
+1618,"RED VELVET",161,album,2022,Latino
+1619,"Tu Veneno",189,single,2021,Latino
+1620,"A Veces (feat. Feid)",252,single,2022,Latino
+1621,"Morad: Bzrp Music Sessions, Vol. 47",168,single,2021,Latino
+1622,"DEJA VU",177,album,2021,Latino
+1623,EIVISSA,174,album,2022,Latino
+1624,"M&M (with Future feat. Lil Baby)",176,single,2021,Latino
+1625,Ciudadana,183,album,2022,Latino
+1626,Progreso,200,album,2021,Latino
+1627,COSITAS,174,album,2022,Latino
+1628,Nanae,284,single,2021,Latino
+1629,"Mal Acostumbrao - con Maria Becerra",178,single,2021,Latino
+1630,"Foto En Panty",211,single,2022,Latino
+1631,"Game From Pluto",165,album,2022,Latino
+1632,"Killing The Rats",165,single,2021,Latino
+1633,"Pull Up",187,album,2022,Latino
+1634,"Noche de Teteo",211,single,2022,Latino
+1635,300,198,album,2021,Latino
+1636,Bellakera,164,album,2022,Latino
+1637,Gladiador,200,album,2022,Latino
+1638,"Rick Flair",198,album,2021,Latino
+1639,"Ande Con Quien Ande",207,single,2022,Latino
+1640,"OJOS COLORAU",174,album,2022,Latino
+1641,"Alguien Más",270,single,2021,Latino
+1642,"La Maria",198,album,2021,Latino
+1643,"Que No - Remix",171,album,2022,Latino
+1644,"Jóvenes Millonarios",200,single,2021,Latino
+1645,"Vulnerable (Free Cool)",165,album,2022,Latino
+1646,"Baby Schai",208,single,2022,Latino
+1647,"Te Necesito",285,single,2021,Latino
+1648,"I’m So Awesome",165,album,2022,Latino
+1649,Angelito,286,single,2021,Latino
+1650,"La 2blea",198,album,2022,Latino
+1651,Pintao,255,album,2021,Latino
+1652,"Last Day In",165,single,2021,Latino
+1653,PortoBello,184,album,2022,Latino
+1654,Jeans,202,album,2021,Latino
+1655,"LA NENA DE ARGENTINA",257,album,2022,Latino
+1656,Cheque,200,album,2021,Latino
+1657,"NO MIENTEN",163,album,2022,Latino
+1658,FUMETEO,162,single,2021,Latino
+1659,"Machu Picchu",182,single,2021,Latino
+1660,Bloody,287,album,2021,Latino
+1661,Terrorize,288,single,2021,Latino
+1662,"Hace Tiempo",197,album,2021,Latino
+1663,"Luces De Neón",207,single,2022,Latino
+1664,"DANCE CRIP",238,single,2021,Latino
+1665,Brilloteo,175,album,2021,Latino
+1666,Vestido,189,album,2021,Latino
+1667,"Eso Es Un Vibe",208,single,2021,Latino
+1668,MENORCITO,254,album,2021,Latino
+1669,"Lagrimas de Champan",275,single,2022,Latino
+1670,"BEAUTIFUL BOY",169,album,2021,Latino
+1671,Teteo,198,album,2022,Latino
+1672,"Por Fin",244,album,2022,Latino
+1673,"A Veces (feat. Feid)",252,album,2022,Latino
+1674,Tata,200,album,2021,Latino
+1675,Glizzy'walk,221,single,2021,Latino
+1676,"Buenos Días",225,album,2022,Latino
+1677,"Mala Costumbre",173,album,2021,Latino
+1678,"CHAO BEBE",286,single,2022,Latino
+1679,Suelta,213,single,2022,Latino
+1680,Symphony,289,single,2022,Latino
+1681,Castigada,290,single,2022,Latino
+1682,"SACA Y PON",254,album,2021,Latino
+1683,Hoodie,198,album,2022,Latino
+1684,"Dividimos (Bachata Version)",199,single,2021,Latino
+1685,"Ropa Cara",182,single,2021,Latino
+1686,"AL CAPONE",200,album,2021,Latino
+1687,"Mi Contacto",209,single,2021,Latino
+1688,"Las Gargolas",242,single,2021,Latino
+1689,"Como Tu Ninguna - Remix",164,album,2022,Latino
+1690,Friends,200,album,2022,Latino
+1691,"Mala Mía",291,album,2021,Latino
+1692,"23 (With Ape Drums)",243,single,2021,Latino
+1693,"Día De Pago",215,single,2021,Latino
+1694,INTRO,226,single,2022,Latino
+1695,OJALÁ,257,album,2022,Latino
+1696,"Perdiendo el Interés",278,album,2021,Latino
+1697,"Diamantes en Mis Dientes",198,single,2022,Latino
+1698,"Contra la Corriente",198,album,2022,Latino
+1699,"Baby Glock",221,single,2022,Latino
+1700,"4 Am",200,album,2021,Latino
+1701,"Juana Matos",229,album,2022,Latino
+1702,"Mercedes Tintia",198,album,2022,Latino
+1703,"La Falta",276,single,2022,Latino
+1704,"Sin Fin",183,single,2022,Latino
+1705,BURBERRY,207,album,2021,Latino
+1706,"Quienes Son Ustedes",200,album,2021,Latino
+1707,"Llori Pari",175,single,2021,Latino
+1708,PASATIEMPO,196,album,2022,Latino
+1709,AIRBNB,174,album,2022,Latino
+1710,"Las Lindas & Los Malos",253,album,2022,Latino
+1711,ODISEA,169,album,2021,Latino
+1712,Nublado,252,single,2022,Latino
+1713,Wao,211,album,2021,Latino
+1714,"Dejaría Todo",274,album,2021,Latino
+1715,AUTOMÁTICO,257,single,2022,Latino
+1716,"SR DE LOS CIELOS",207,album,2021,Latino
+1717,"Toa la Vida",292,single,2021,Latino
+1718,"Fan de Tus Fotos",234,album,2021,Latino
+1719,"Wow Wow (feat. Becky G)",257,single,2021,Latino
+1720,Castigo,162,single,2022,Latino
+1721,"Llorando en un Ferrari",198,album,2021,Latino
+1722,"No Te Quiero Ver - Remix",293,single,2021,Latino
+1723,Chocolate,294,album,2022,Latino
+1724,Pegao,182,album,2022,Latino
+1725,Nunca,198,album,2021,Latino
+1726,"Cositas de la USA",203,single,2022,Latino
+1727,"La Bendición",166,album,2021,Latino
+1728,CAPRICHOSO,161,album,2022,Latino
+1729,"TU AMIGO",174,album,2022,Latino
+1730,"La Prendo",277,single,2022,Latino
+1731,"Emojis de Corazones (feat. Los Legendarios)",225,single,2021,Latino
+1732,Borracho,213,album,2022,Latino
+1733,"Que Triste",179,album,2022,Latino
+1734,"CUANDO HACEMOS EL AMOR",257,album,2022,Latino
+1735,"Te Acuerdas De Mí",189,album,2021,Latino
+1736,Mention,279,album,2022,Latino
+1737,"En Tu Cuerpo - Remix",283,album,2022,Latino
+1738,"Mi Voz Cuesta un Billón",198,album,2021,Latino
+1739,"Puerto Rican Mami",187,single,2021,Latino
+1740,"Yin Yang",186,album,2021,Latino
+1741,"Wherever I May Roam",189,single,2021,Latino
+1742,TBT,180,album,2022,Latino
+1743,YaMeFui,168,single,2021,Latino
+1744,"Dame Lu",186,album,2021,Latino
+1745,"Si Te Pillo",295,single,2022,Latino
+1746,"HÁBLAME CLARO",177,album,2021,Latino
+1747,"Viendo el Techo",213,single,2021,Latino
+1748,"Su Payita (Gramos)",277,single,2021,Latino
+1749,"Racks On Me",221,single,2022,Latino
+1750,"La Funka",167,single,2021,Latino
+1751,Roto,296,album,2022,Latino
+1752,Malo,198,single,2022,Latino
+1753,Dictadura,198,album,2021,Latino
+1754,"Pégate - Remix",174,album,2021,Latino
+1755,"Si Quieren Frontear",255,single,2022,Latino
+1756,"El Negrito",275,album,2022,Latino
+1757,"Cosas Malas",173,album,2021,Latino
+1758,TAJIN,163,album,2022,Latino
+1759,"Disfruta tu viernes",210,album,2022,Latino
+1760,"Back For Everything",165,album,2022,Latino
+1761,Famoso,164,album,2022,Latino
+1762,"Instagram - Remix",197,single,2022,Latino
+1763,Playa,211,album,2021,Latino
+1764,"NO MIENTEN",163,single,2022,Latino
+1765,"Side Bitch - Remix",279,album,2022,Latino
+1766,"A Un Paso De La Luna - Remix",231,single,2021,Latino
+1767,"Las Nenas (feat. La Duraca)",235,single,2021,Latino
+1768,"JUGADOR FRANQUICIA",207,album,2021,Latino
+1769,"No Te Quiero Ver - Remix",293,album,2021,Latino
+1770,"Habla Claro",200,single,2021,Latino
+1771,"G Wagon",167,single,2022,Latino
+1772,M10s,249,single,2022,Latino
+1773,Acuítate,171,single,2021,Latino
+1774,BURBERRY,207,single,2021,Latino
+1775,"Ropa Cara",182,album,2021,Latino
+1776,"Que Locura",215,single,2021,Latino
+1777,MOOD,272,single,2021,Latino
+1778,"Nivel De Perreo",189,single,2022,Latino
+1779,Coroné,198,album,2022,Latino
+1780,GTR,161,album,2022,Latino
+1781,"Tontoron Tonton",171,single,2022,Latino
+1782,"Purple Stamp",165,album,2022,Latino
+1783,100,198,album,2021,Latino
+1784,"Mami Dijo",200,album,2021,Latino
+1785,"HOLY SHIT",254,album,2021,Latino
+1786,"ZONA DEL PERREO",196,album,2022,Latino
+1787,"Ganas - Remix",297,single,2021,Latino
+1788,"Voy Pa la Calle",209,single,2021,Latino
+1789,"Respuesta Cero",256,single,2022,Latino
+1790,SIRI,183,single,2022,Latino
+1791,"Ponte Pa' Mi",202,album,2021,Latino
+1792,"Ota El Hipopótamo",298,album,2021,Latino
+1793,Sabe,292,single,2021,Latino
+1794,"Un Tiempo",262,album,2022,Latino
+1795,Mientes,198,album,2022,Latino
+1796,"Miradas Raras",200,album,2021,Latino
+1797,"Antes de Perderte",255,single,2022,Latino
+1798,"PARA SIEMPRE",196,album,2022,Latino
+1799,QSY,174,album,2022,Latino
+1800,"Ojitos Rojos",197,album,2022,Latino
+1801,"La Llamada",299,album,2022,Latino
+1802,OJALÁ,257,single,2022,Latino
+1803,"Carro Nuevo",213,album,2022,Latino
+1804,"Ojos Rojos",234,single,2022,Latino
+1805,"On Everything",165,album,2022,Latino
+1806,"Amor en Coma",173,album,2021,Latino
+1807,"Tú no me conoces",210,album,2022,Latino
+1808,Cuarentena,200,album,2021,Latino
+1809,"Grinding All Season",165,album,2022,Latino
+1810,"No Es Normal",244,album,2022,Latino
+1811,VACAXIONES,162,single,2021,Latino
+1812,Print,279,album,2022,Latino
+1813,DOLORES,163,album,2022,Latino
+1814,"Los De Siempre",198,single,2021,Latino
+1815,Malo,198,album,2022,Latino
+1816,Mírame,200,album,2021,Latino
+1817,"Te Pienso",167,album,2022,Latino
+1818,Toretto,200,album,2021,Latino
+1819,Culpable,183,album,2022,Latino
+1820,"Super Gremlin - El Diablo Mix",165,single,2022,Latino
+1821,"Mi Niña - Remix",225,single,2021,Latino
+1822,"TU SABES DONDE VIVO",174,album,2022,Latino
+1823,Fuego,200,album,2021,Latino
+1824,Apretaito,167,single,2022,Latino
+1825,"If You Ever",165,album,2022,Latino
+1826,R.I.P.,183,album,2022,Latino
+1827,"LO TENGO",238,single,2022,Latino
+1828,"Me Siento HP",198,album,2022,Latino
+1829,"Somos Iguales",167,single,2022,Latino
+1830,"NO MIENTEN - Tiësto Remix",163,single,2022,Latino
+1831,"Dónde estás?",213,album,2022,Latino
+1832,"DIME QUIÉN????",161,single,2022,Latino
+1833,"Ele Uve - Remix",200,album,2021,Latino
+1834,"Champagne y Cerveza",214,single,2022,Latino
+1835,"A Veces",296,single,2021,Latino
+1836,DIVA,254,album,2021,Latino
+1837,Estrella,248,single,2022,Latino
+1838,"OTRO FILI",189,single,2021,Latino
+1839,Blizzy',221,single,2021,Latino
+1840,"Don’t Leave Me",165,album,2021,Latino
+1841,"CUANDO ME VEN",207,album,2021,Latino
+1842,"Louis Vuitton",229,album,2022,Latino
+1843,"La Mamá de la Mamá (Remix)",171,single,2021,Latino
+1844,"Como Sea",200,album,2021,Latino
+1845,AEIOU,202,single,2022,Latino
+1846,"Llamame Bebe",240,single,2022,Latino
+1847,"Los Bandoleros",190,album,2021,Latino
+1848,Runaway,180,album,2022,Latino
+1849,"Online ;(",175,album,2021,Latino
+1850,"No Me Importa un Carajo",200,album,2021,Latino
+1851,Gatillera,175,album,2021,Latino
+1852,"JOVEN LEYENDA",207,album,2021,Latino
+1853,RUDEBOYZ,162,album,2021,Latino
+1854,4:22,167,album,2022,Latino
+1855,PANAMA,238,album,2022,Latino
+1856,"Sin Seguro",164,album,2022,Latino
+1857,"Nena Buena",300,single,2022,Latino
+1858,"TENGO FE",162,single,2021,Latino
+1859,Piropo,301,album,2021,Latino
+1860,"Este Tema Maste",171,single,2021,Latino
+1861,"Ropa Interior",190,album,2021,Latino
+1862,Mintiendo,198,album,2022,Latino
+1863,"Demonia Como Lucy (Remix)",223,single,2022,Latino
+1864,Dictadura,198,single,2021,Latino
+1865,"Perdiendo El Control",228,single,2021,Latino
+1866,"Que Hay",302,single,2022,Latino
+1867,Traductor,219,single,2022,Latino
+1868,Deprimida,167,single,2022,Latino
+1869,50/50,249,single,2022,Latino
+1870,"Muévelo Lento",215,single,2022,Latino
+1871,Rapido,166,single,2021,Latino
+1872,"Amor Pasajero",180,single,2022,Latino
+1873,"Un Minuto",302,single,2021,Latino
+1874,"Aprovechame BB",293,single,2022,Latino
+1875,"No Sabe Igual",191,single,2022,Latino
+1876,"Si Quieren Frontear",255,album,2022,Latino
+1877,"ALTO RIESGO",207,album,2021,Latino
+1878,Muchacha,275,album,2022,Latino
+1879,"Despues De Las 12",215,single,2022,Latino
+1880,Marbella,188,album,2022,Latino
+1881,"Melancólicos Anónimos",180,single,2022,Latino
+1882,"Melancólicos Anónimos",180,album,2022,Latino
+1883,Vibra,198,album,2022,Latino
+1884,"Fin del Mundo",174,album,2021,Latino
+1885,Guerrero,200,album,2021,Latino
+1886,Hunter,161,single,2021,Latino
+1887,"Mama Tetema (feat. Rayvanny)",203,single,2021,Latino
+1888,"Un Pal De Textos",302,single,2022,Latino
+1889,Ella,252,album,2022,Latino
+1890,"BUEN DIA",163,album,2022,Latino
+1891,"Sin Ti",198,album,2022,Latino
+1892,Dígitos,184,album,2022,Latino
+1893,"Dime (4 AM)",303,album,2022,Latino
+1894,"La Receta",174,album,2021,Latino
+1895,CHIMBITA,162,album,2021,Latino
+1896,Adentro,304,single,2022,Latino
+1897,"NO DRAMA",161,album,2022,Latino
+1898,"Alta Gama - Remix",167,single,2021,Latino
+1899,Ascensor,198,album,2022,Latino
+1900,"Take You Back (feat. Lil Durk)",165,album,2022,Latino
+1901,"No Te Deseo el Mal",200,single,2021,Latino
+1902,"Si Yo Me Muero",198,single,2022,Latino
+1903,Mañana,167,album,2022,Latino
+1904,"Primera Vez",200,album,2021,Latino
+1905,Idk.,305,album,2022,Latino
+1906,"Un Selfie Con 3 Millones",171,album,2022,Latino
+1907,"Freezing My Pinky",165,album,2022,Latino
+1908,Inmoral,300,album,2022,Latino
+1909,"LO INVERTÍ",207,album,2021,Latino
+1910,Sabe,292,album,2021,Latino
+1911,"YIN YAN",255,album,2021,Latino
+1912,"MIONCA AL BLOQUE",162,album,2021,Latino
+1913,"Sin Novia",234,single,2022,Latino
+1914,"Tiene Novio",198,album,2022,Latino
+1915,Llueve,194,single,2022,Latino
+1916,"ANTES QUE SALGA EL SOL",235,single,2021,Latino
+1917,"A Mi Lado",231,single,2022,Latino
+1918,"Party en el Barrio (feat. Duki)",252,single,2022,Latino
+1919,Plutón,274,single,2022,Latino
+1920,"Salimo de Noche",219,single,2021,Latino
+1921,"Te Dijeron",200,album,2022,Latino
+1922,"SÚBELE EL VOLUMEN",196,single,2021,Latino
+1923,CAMPEÓN,196,album,2022,Latino
+1924,"La H",200,album,2021,Latino
+1925,"Quedate Sola",306,single,2021,Latino
+1926,"Los Aparato",209,single,2022,Latino
+1927,"SUPRA 94TRO",175,single,2022,Latino
+1928,"No Eres Tu Soy Yo (feat. Danny Ocean)",257,album,2021,Latino
+1929,"Muy Feliz - Remix",307,single,2021,Latino
+1930,Nitro+,175,album,2021,Latino
+1931,"GRACIAS POR NADA",161,album,2022,Latino
+1932,"LET'S GET CRAZY! (Mambo Drop)",308,single,2022,Latino
+1933,"La Fama",200,album,2022,Latino
+1934,"Wow Wow (feat. Becky G)",257,album,2021,Latino
+1935,"EL TREN",265,single,2021,Latino
+1936,"Sucio Guapo",309,single,2022,Latino
+1937,"amor tonight",210,single,2022,Latino
+1938,Hoodie,198,single,2022,Latino
+1939,"Chucky73: Bzrp Music Sessions, Vol. 43",168,single,2021,Latino
+1940,Enchulao,227,single,2022,Latino
+1941,Airbnb,198,album,2022,Latino
+1942,"Qué Prefieres?",237,single,2022,Latino
+1943,"Cuenta Conmigo (feat. Mozart La Para)",276,album,2021,Latino
+1944,"Tus Poses",199,single,2021,Latino
+1945,"Mala Eligiendo",304,single,2022,Latino
+1946,"Tsunami (feat. Arcangel & De La Ghetto)",203,album,2022,Latino
+1947,"Nena Buena",198,album,2021,Latino
+1948,Wakanda,198,album,2022,Latino
+1949,"Nena Buena",200,album,2021,Latino
+1950,"SI PEPE",254,album,2021,Latino
+1951,"Somo Así",198,album,2022,Latino
+1952,"Borracha & Loca",198,album,2022,Latino
+1953,"Otra Cosa (Remix)",310,single,2022,Latino
+1954,"Yo No Sé",204,album,2022,Latino
+1955,Malibu,162,single,2022,Latino
+1956,"Amor Pasajero",180,album,2022,Latino
+1957,"La Vida Es Una",311,album,2022,Latino
+1958,Hickey,244,single,2021,Latino
+1959,Rómpela,192,single,2022,Latino
+1960,HACKIAO,161,album,2022,Latino
+1961,"Los Rompediskoteca",190,album,2021,Latino
+1962,"Niña de Mis Sueños",188,single,2022,Latino
+1963,"Soñando Despierto",213,album,2022,Latino
+1964,"La Venganza",189,album,2021,Latino
+1965,"Midas Touch",165,album,2022,Latino
+1966,Judas,312,single,2021,Latino
+1967,"La Trampa es Ley",291,single,2022,Latino
+1968,"Mi Mundo Entero",270,single,2022,Latino
+1969,Gastar,200,album,2021,Latino
+1970,"Por Deporte",252,album,2022,Latino
+1971,"Mi Debilidad",257,single,2021,Latino
+1972,Leyenda,198,single,2021,Latino
+1973,Avemaría,188,single,2022,Latino
+1974,TV,180,single,2022,Latino
+1975,"Nunca y Pico",192,single,2022,Latino
+1976,Guarida,232,single,2022,Latino
+1977,"Mi Cuarto 2",313,single,2021,Latino
+1978,Jíbaro,166,album,2021,Latino
+1979,PEGAO,191,album,2022,Latino
+1980,"Kodak The Boss",165,album,2022,Latino
+1981,"Noche de Novela (feat. Ed Sheeran)",252,single,2022,Latino
+1982,Mareado,182,album,2021,Latino
+1983,"Sink My Ship",165,album,2022,Latino
+1984,Municiones,198,album,2021,Latino
+1985,"Flow 2000",277,single,2021,Latino
+1986,Chance,252,single,2022,Latino
+1987,"DE NOVELA",207,album,2021,Latino
+1988,Exxxstasy,302,single,2021,Latino
+1989,???,210,album,2022,Latino
+1990,Rolex,182,album,2021,Latino
+1991,Pesadilla,182,single,2021,Latino
+1992,Fundota,232,single,2022,Latino
+1993,"PURRITO APA",162,single,2021,Latino
+1994,"SOLO POR VOS",238,single,2021,Latino
+1995,"PRIMER MELÓN",207,album,2021,Latino
+1996,Omega,165,album,2022,Latino
+1997,"Mami Me Pregunta Si Trapeo",200,album,2021,Latino
+1998,Bellacon,171,single,2022,Latino
+1999,"Se Le Ve",244,album,2022,Latino
+2000,"CXO (A Quién No Le Gusta)",314,single,2022,Latino
+2001,"Tiroteo - Remix",315,single,2021,"Música Española"
+2002,"cómo dormiste?",191,single,2022,"Música Española"
+2003,Tiroteo,315,single,2021,"Música Española"
+2004,"pa quererte",191,single,2022,"Música Española"
+2005,"Como Antes",191,single,2021,"Música Española"
+2006,"7 Lágrimas - Remix",316,single,2022,"Música Española"
+2007,"Porfa no te vayas",317,album,2022,"Música Española"
+2008,"SHORTY QUE TE VAYA BN <3",191,single,2021,"Música Española"
+2009,"Looking You In Silence",318,album,2022,"Música Española"
+2010,"La Niña de la Escuela",319,album,2021,"Música Española"
+2011,"Amigos (con Maria Becerra)",320,album,2022,"Música Española"
+2012,"20 de Enero",321,album,2021,"Música Española"
+2013,"Viaje a ningún lado (con Carin Leon)",320,single,2022,"Música Española"
+2014,"Qué Bueno Es Tenerte",322,single,2021,"Música Española"
+2015,"Amigos (con Maria Becerra)",320,single,2022,"Música Española"
+2016,"Porfa no te vayas",317,single,2021,"Música Española"
+2017,Formentera,323,single,2021,"Música Española"
+2018,"El Único Habitante de tu Piel",324,album,2021,"Música Española"
+2019,"Lo Que Hará Mi Boca",325,album,2021,"Música Española"
+2020,"La Boca Junta",324,album,2021,"Música Española"
+2021,"Gasolina y Mechero",326,single,2021,"Música Española"
+2022,"SI ELLA SUPIERA",327,album,2022,"Música Española"
+2023,"Qué Bueno Es Tenerte",322,album,2021,"Música Española"
+2024,Quieres,323,single,2022,"Música Española"
+2025,"Recuerdos de la Alhambra",328,album,2022,"Música Española"
+2026,"Me Enamoré De Ti",329,album,2021,"Música Española"
+2027,"Vuelve, Vuelve",329,album,2021,"Música Española"
+2028,Diablo,317,album,2022,"Música Española"
+2029,"El día menos pensado",317,album,2022,"Música Española"
+2030,"No Sabe Igual",191,single,2022,"Música Española"
+2031,"Resonance Necklace",318,album,2022,"Música Española"
+2032,"LAS 12",330,single,2022,"Música Española"
+2033,"Sweet Instability",318,album,2022,"Música Española"
+2034,Prisoner,331,single,2022,"Música Española"
+2035,"Viaje a ningún lado (con Carin Leon)",320,album,2022,"Música Española"
+2036,"Aunque No Sea Conmigo",323,single,2021,"Música Española"
+2037,"Para Aute: Pasaba por Aquí (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodríguez, Vanesa Martin & Xoel López)",332,single,2021,"Música Española"
+2038,"Carmen Fantasy, Op. 25: I. Moderato",333,single,2022,"Música Española"
+2039,PEGAO,191,album,2022,"Música Española"
+2040,METALLICA,334,album,2021,"Música Española"
+2041,"El Viaje",335,album,2021,"Música Española"
+2042,"Gente Luminosa",336,single,2021,"Música Española"
+2043,"La Dama del Mar",337,album,2021,"Música Española"
+2044,"Abrazo 2020",318,album,2022,"Música Española"
+2045,"Por si las Moscas",324,album,2021,"Música Española"
+2046,"Veo tan Dentro",326,album,2022,"Música Española"
+2047,"Mi Ego",322,album,2021,"Música Española"
+2048,"María Gavota",328,album,2022,"Música Española"
+2049,"El Chisme",338,single,2021,"Música Española"
+2050,"Quiero Decirte",339,single,2022,"Música Española"
+2051,"Fumando en mi Funeral",326,album,2022,"Música Española"
+2052,DISCOTEKA,319,single,2022,"Música Española"
+2053,"solo x ti",340,album,2022,"Música Española"
+2054,FLEXXX,191,album,2022,"Música Española"
+2055,"Simplemente Dilo",324,album,2021,"Música Española"
+2056,"Lágrima (Preludio)",328,album,2022,"Música Española"
+2057,"La Vida Breve: Danza Española No. 1 (Arr. for Harp & Guitar)",341,album,2021,"Música Española"
+2058,"Quién Diría",342,single,2022,"Música Española"
+2059,"Tú y yo",317,album,2022,"Música Española"
+2060,"Viejo Zortzico",341,album,2021,"Música Española"
+2061,"Llueve sobre mojado",320,single,2021,"Música Española"
+2062,"Estudio Brillante de Alard",328,album,2022,"Música Española"
+2063,"Me Gusta La Vida",343,album,2022,"Música Española"
+2064,"SI ELLA SUPIERA",327,single,2022,"Música Española"
+2065,"Estudio de Velocidad",328,album,2022,"Música Española"
+2066,Quédate,344,single,2022,"Música Española"
+2067,"Oriental (Arr. for Harp & Guitar)",341,album,2021,"Música Española"
+2068,"Una Foto en Blanco y Negro",345,album,2021,"Música Española"
+2069,"Endecha y Oremus",328,album,2022,"Música Española"
+2070,"Preludio No. 5",328,album,2022,"Música Española"
+2071,ANTAGONISTA,346,single,2022,"Música Española"
+2072,"Que nada nos pare (lo más importante)",347,single,2022,"Música Española"
+2073,"Villanesca (Arr. for Harp & Guitar)",341,album,2021,"Música Española"
+2074,"La Culpa",315,single,2022,"Música Española"
+2075,"Resacosix en Pandemia",337,album,2021,"Música Española"
+2076,Cataluña,341,album,2021,"Música Española"
+2077,"Ave de paso (con Ana Mena)",320,album,2022,"Música Española"
+2078,"Canciones de Amor a Ti",348,album,2022,"Música Española"
+2079,"Preludio No. 2",328,album,2022,"Música Española"
+2080,"El traje",320,album,2022,"Música Española"
+2081,"5 SENTÍOS",327,album,2022,"Música Española"
+2082,"La Electricidad",324,album,2021,"Música Española"
+2083,"Qué Bonita",342,single,2022,"Música Española"
+2084,Libertad,349,album,2021,"Música Española"
+2085,"Música callada, Book 1: No. 1, Angelico",350,album,2021,"Música Española"
+2086,"Pan Para Yolanda",324,single,2022,"Música Española"
+2087,"Fuiste Mía",322,album,2021,"Música Española"
+2088,"El Esperado Desenlace",351,album,2022,"Música Española"
+2089,"Carretera y manta",320,single,2022,"Música Española"
+2090,"Si Nos Dejan",322,album,2021,"Música Española"
+2091,Diazepam,352,album,2021,"Música Española"
+2092,"Si pudiera",353,single,2022,"Música Española"
+2093,"Beso robado",317,album,2022,"Música Española"
+2094,"Llueve sobre mojado",320,album,2022,"Música Española"
+2095,"No Me Amenaces",322,album,2021,"Música Española"
+2096,Berlín,323,single,2021,"Música Española"
+2097,"Me Nace del Corazón",322,album,2021,"Música Española"
+2098,"Dónde Están mis Amigos",326,album,2022,"Música Española"
+2099,Lento,351,album,2022,"Música Española"
+2100,"Mirando a la luna (feat. Reik)",317,album,2022,"Música Española"
+2101,"En El Coche",323,single,2022,"Música Española"
+2102,Renunciación,322,album,2021,"Música Española"
+2103,"Dos Veces",329,album,2021,"Música Española"
+2104,Lumbre,354,album,2021,"Música Española"
+2105,360,315,album,2021,"Música Española"
+2106,"Carretera y manta",320,album,2022,"Música Española"
+2107,Apiladearró,355,album,2021,"Música Española"
+2108,Flamenkito,356,album,2021,"Música Española"
+2109,Gitana,357,single,2021,"Música Española"
+2110,"La última",323,album,2022,"Música Española"
+2111,"Vuelve, Vuelve",329,single,2021,"Música Española"
+2112,Azul,354,album,2022,"Música Española"
+2113,"La Chica del Espejo",321,album,2021,"Música Española"
+2114,"Esclavo de la Química",358,single,2021,"Música Española"
+2115,"Ringui Dingui - con SFDK",359,single,2021,"Música Española"
+2116,"Si No Te Hubieras Ido",329,album,2021,"Música Española"
+2117,Voraces,320,album,2022,"Música Española"
+2118,"Sintiéndolo Mucho (feat. Leiva)",332,single,2022,"Música Española"
+2119,FUE,360,album,2022,"Música Española"
+2120,"Lo Que Hará Mi Boca",325,single,2021,"Música Española"
+2121,"Lüky Charm",340,album,2022,"Música Española"
+2122,"Apocalipsis Virtual",326,single,2021,"Música Española"
+2123,"Quererte Tanto",344,single,2021,"Música Española"
+2124,"No Pegamos",340,album,2022,"Música Española"
+2125,"La sonrisa intacta",361,album,2021,"Música Española"
+2126,"Estar contigo (feat. La Oreja de Van Gogh)",362,single,2022,"Música Española"
+2127,"Juramento eterno de sal",363,album,2022,"Música Española"
+2128,"Romperme más (feat. Malú)",317,album,2022,"Música Española"
+2129,"Ya mi mama me decía",364,album,2022,"Música Española"
+2130,"Ron (feat. Lérica)",317,album,2022,"Música Española"
+2131,"Bandera Negra",337,album,2021,"Música Española"
+2132,"¿Quién Me Salva a Mí?",358,single,2021,"Música Española"
+2133,"No Me Vuelvo a Enamorar",322,album,2021,"Música Española"
+2134,"Me Tiene Mal",365,single,2022,"Música Española"
+2135,"Dos Adolescentes y su Primer Amor",326,album,2022,"Música Española"
+2136,"Camiseta de Rokanrol",366,single,2022,"Música Española"
+2137,Hamaca,356,album,2021,"Música Española"
+2138,"Tú Me Has Cambiado",367,album,2021,"Música Española"
+2139,Perderte,317,album,2022,"Música Española"
+2140,"Clima Tropical",368,album,2022,"Música Española"
+2141,Tranquilísimo,369,single,2021,"Música Española"
+2142,"Viaje Sin Vuelta",370,single,2021,"Música Española"
+2143,"Se Me Olvidó Otra Vez",322,album,2021,"Música Española"
+2144,"Sin Vergüenza",371,single,2022,"Música Española"
+2145,"Entre Sobras Y Sobras Me Faltas",372,single,2022,"Música Española"
+2146,"El Bien",373,album,2022,"Música Española"
+2147,"Ni Una Más",323,single,2021,"Música Española"
+2148,"Fue Un Placer Conocerte",322,album,2021,"Música Española"
+2149,"La Boca Junta",324,single,2021,"Música Española"
+2150,"Música callada, Book 1: No. 3, Placide",350,album,2021,"Música Española"
+2151,"Me Encantaría",339,single,2022,"Música Española"
+2152,"Bienvenido al Caos",326,album,2022,"Música Española"
+2153,"CLASE G",191,single,2021,"Música Española"
+2154,"Hablar De Nada",373,album,2022,"Música Española"
+2155,"Mil y una noches",364,album,2022,"Música Española"
+2156,"Nunca entenderé",317,single,2021,"Música Española"
+2157,"Un Ex y un No",324,album,2021,"Música Española"
+2158,"La Apuesta",324,album,2021,"Música Española"
+2159,cuídate,374,single,2021,"Música Española"
+2160,Nena,375,album,2022,"Música Española"
+2161,"Sin miedo a nada (feat. Beret)",362,album,2022,"Música Española"
+2162,"Agua Salada",315,single,2022,"Música Española"
+2163,"Make You Go Higher - David Morales Stereo remix radio edit",376,single,2022,"Música Española"
+2164,"Aunque no te pueda ver (feat. Matisse)",362,album,2022,"Música Española"
+2165,"Cielo Rojo",322,album,2021,"Música Española"
+2166,"Recuerdos de la Alhambra",377,single,2022,"Música Española"
+2167,"Te debo una canción",361,album,2021,"Música Española"
+2168,"Your dreams are my dreams (XXI)",378,album,2021,"Música Española"
+2169,Flecha,352,album,2021,"Música Española"
+2170,"24 Horas",329,album,2021,"Música Española"
+2171,"CLASE G",191,album,2022,"Música Española"
+2172,"Un beso de improviso",330,single,2021,"Música Española"
+2173,"No Estamos Tan Locos",356,single,2022,"Música Española"
+2174,"Dos Veces",329,single,2021,"Música Española"
+2175,"Resistiré (Banda Sonora Original "Élite")",379,single,2022,"Música Española"
+2176,"#RapSinCorte L",380,album,2021,"Música Española"
+2177,"Perreo Bonito",381,single,2022,"Música Española"
+2178,"5 SENTÍOS",327,single,2022,"Música Española"
+2179,"No Te Bastó, Mi Corazón",340,album,2022,"Música Española"
+2180,"Te Quedó Grande la Yegua",322,album,2021,"Música Española"
+2181,"Likes y Cicatrices",324,album,2021,"Música Española"
+2182,"seguiremos siendo",326,single,2022,"Música Española"
+2183,"Tú Me Delatas",329,single,2022,"Música Española"
+2184,"Más Contigo",354,album,2022,"Música Española"
+2185,Hola,382,album,2022,"Música Española"
+2186,"A gritos de esperanza (feat. Jesús Navarro)",362,album,2022,"Música Española"
+2187,"El día menos pensado",317,single,2022,"Música Española"
+2188,"Se Me Queman las Manos",322,album,2021,"Música Española"
+2189,Platicamos,340,album,2022,"Música Española"
+2190,Violeta,324,album,2021,"Música Española"
+2191,"La Esencia",383,album,2021,"Música Española"
+2192,"El cine",323,album,2022,"Música Española"
+2193,"Recuerdos de la Alhambra, ift 44",377,single,2022,"Música Española"
+2194,Tata,317,album,2022,"Música Española"
+2195,"Estar contigo (feat. La Oreja de Van Gogh)",362,album,2022,"Música Española"
+2196,"Que No",358,single,2021,"Música Española"
+2197,"Hasta El Final",329,album,2021,"Música Española"
+2198,"Si pudiera",353,album,2022,"Música Española"
+2199,"La Muerte del Palomo",322,album,2021,"Música Española"
+2200,"Morir de la Pena",384,single,2022,"Música Española"
+2201,Santería,319,album,2022,"Música Española"
+2202,"Sudores fríos",385,single,2021,"Música Española"
+2203,"Te estás olvidando de mí",317,album,2022,"Música Española"
+2204,"No Pegamos",340,single,2021,"Música Española"
+2205,"100 TRACKS",191,album,2022,"Música Española"
+2206,"La Vida Es Eso",382,album,2022,"Música Española"
+2207,"A gritos de esperanza (feat. Jesús Navarro)",362,single,2021,"Música Española"
+2208,"Al Otro Lado del Pacífico",324,album,2021,"Música Española"
+2209,"Tu madre es una cabra",337,album,2021,"Música Española"
+2210,"Lüky Charm",340,single,2021,"Música Española"
+2211,"Días Mejores",386,album,2022,"Música Española"
+2212,"Música Ligera",330,single,2021,"Música Española"
+2213,"Ay Mamá",348,single,2021,"Música Española"
+2214,"Fiesta en Cocoplum",324,album,2021,"Música Española"
+2215,"La Hija De Las Estrellas",65,compilation,2021,"Música Española"
+2216,"Ay Mamá",348,album,2022,"Música Española"
+2217,Quasi,387,single,2022,"Música Española"
+2218,"La Isla del Deseo",388,album,2021,"Música Española"
+2219,"Ojitos Lindos",381,single,2022,"Música Española"
+2220,"Soy capaz",320,single,2021,"Música Española"
+2221,Resiliencia,317,album,2022,"Música Española"
+2222,guerrera,374,single,2021,"Música Española"
+2223,"Para Siempre",382,album,2022,"Música Española"
+2224,"Suite compostelana: II. Coral",350,single,2021,"Música Española"
+2225,Exoplaneta,371,album,2021,"Música Española"
+2226,"Con los Angelitos",386,album,2022,"Música Española"
+2227,"La Casa del Árbol",326,single,2021,"Música Española"
+2228,"Tengo Envidia",358,single,2022,"Música Española"
+2229,"Mirando a la luna (feat. Reik)",317,single,2022,"Música Española"
+2230,"Lo Real",389,album,2022,"Música Española"
+2231,Friends,390,album,2022,"Música Española"
+2232,"Dile a los demás",368,single,2021,"Música Española"
+2233,"La Niña de la Escuela",319,album,2022,"Música Española"
+2234,Mezzanotte,330,single,2022,"Música Española"
+2235,Adelita,377,single,2021,"Música Española"
+2236,"solo x ti",340,single,2022,"Música Española"
+2237,Inpour,391,album,2021,"Música Española"
+2238,"Castillos de arena",320,album,2022,"Música Española"
+2239,"Soy Vida",392,album,2022,"Música Española"
+2240,"El sur (feat. Bunbury)",393,album,2021,"Música Española"
+2241,Caballito,364,album,2022,"Música Española"
+2242,"Aún me amas",317,album,2022,"Música Española"
+2243,"Ahora Te Puedes Marchar",339,single,2022,"Música Española"
+2244,"Nina (feat. Beret)",394,album,2021,"Música Española"
+2245,"4U (con Leo Rizzi)",320,album,2022,"Música Española"
+2246,"De Colegio",340,single,2021,"Música Española"
+2247,Epiphany,395,single,2021,"Música Española"
+2248,"Quien encendió la luz",364,album,2022,"Música Española"
+2249,"A ver qué pasa - Estrella Damm 2021",348,single,2021,"Música Española"
+2250,"No Me Basta",327,single,2021,"Música Española"
+2251,"Tal Vez",325,single,2021,"Música Española"
+2252,"CAMBIAR EL MUNDO",396,album,2021,"Música Española"
+2253,"Dile a los demás",368,album,2022,"Música Española"
+2254,"Me Sabe Mal - Remix",357,single,2021,"Música Española"
+2255,"Black Hole",378,album,2022,"Música Española"
+2256,"Black is Black - Remasterizado",397,album,2021,"Música Española"
+2257,"Ya no te veré",326,single,2022,"Música Española"
+2258,"La Pena",322,album,2021,"Música Española"
+2259,"I Don´t Give a Fuck",383,album,2021,"Música Española"
+2260,"Hoy Ha Salido el Sol",382,album,2022,"Música Española"
+2261,"Barquito de Vela",389,single,2022,"Música Española"
+2262,"Castillos de arena",320,single,2022,"Música Española"
+2263,"Blanca Navidad",321,single,2021,"Música Española"
+2264,"Me Quedo (feat. Ana Mena)",349,album,2021,"Música Española"
+2265,Quiero,323,album,2022,"Música Española"
+2266,"Roto y Elegante",398,album,2022,"Música Española"
+2267,"RICO CUANDO MUERA",191,album,2022,"Música Española"
+2268,"Too Many Drugs",348,album,2022,"Música Española"
+2269,"Cuando la noche arriba",330,single,2022,"Música Española"
+2270,"Plan fatal (feat. Juancho Sidecars, Sidecars)",368,album,2022,"Música Española"
+2271,"IN MEMORIAM",399,single,2021,"Música Española"
+2272,Shorty,400,album,2022,"Música Española"
+2273,"Soy capaz",320,album,2022,"Música Española"
+2274,Libertad,349,single,2021,"Música Española"
+2275,"Cuando no estabas",353,album,2022,"Música Española"
+2276,"Hay Que Vivir El Momento",360,album,2022,"Música Española"
+2277,"La Tormenta",382,album,2022,"Música Española"
+2278,Histéricos,352,album,2021,"Música Española"
+2279,"Si No Te Hubieras Ido",65,compilation,2021,"Música Española"
+2280,"A batir las alas",320,album,2022,"Música Española"
+2281,"Voy a Explotar",326,album,2022,"Música Española"
+2282,"Bluespace (XXI)",378,album,2021,"Música Española"
+2283,"MIAMI EN EL GPS",191,album,2022,"Música Española"
+2284,Parasite,401,album,2021,"Música Española"
+2285,"Ni la Mitad",338,single,2022,"Música Española"
+2286,"No Hemos Aprendido Nada",373,album,2022,"Música Española"
+2287,Chatarra,385,single,2021,"Música Española"
+2288,"Mi Héroe",372,single,2022,"Música Española"
+2289,"100 TRACKS",191,single,2022,"Música Española"
+2290,"Te Mientes a ti mismo para Ser Feliz",326,album,2022,"Música Española"
+2291,"Te estás olvidando de mí",317,single,2021,"Música Española"
+2292,"Peligrosamente Dark (feat. Silvana Estrada)",352,album,2021,"Música Española"
+2293,"Estoy Hecho De Pedacitos De Ti",372,album,2021,"Música Española"
+2294,"Te Pone Bien - Con Kase.O",402,album,2022,"Música Española"
+2295,"Sanga Zoo (feat. Farruko)",339,single,2021,"Música Española"
+2296,"La Hipoteca",370,album,2022,"Música Española"
+2297,"La Dama del Mar",337,single,2021,"Música Española"
+2298,Finisterre,403,album,2021,"Música Española"
+2299,"Otra cama",389,single,2021,"Música Española"
+2300,"¿Dónde estás?",399,single,2022,"Música Española"
+2301,"LA TIRITA",346,album,2022,"Música Española"
+2302,"Sonata D Major, Op. 61: 1. Allegro",404,single,2021,"Música Española"
+2303,Tengo,325,single,2022,"Música Española"
+2304,"Parte II: La Abrazo con Fuerza (Carta a la Soledad)",326,album,2022,"Música Española"
+2305,Miraflores,405,album,2021,"Música Española"
+2306,"El Cervezo - El árbol de la birra",337,album,2021,"Música Española"
+2307,"Veneno - Orquestal",406,single,2021,"Música Española"
+2308,"Por Mil Razones",325,album,2021,"Música Española"
+2309,Cariño,371,album,2021,"Música Española"
+2310,"Son de Amores - V20.0",407,single,2022,"Música Española"
+2311,culpa,374,single,2021,"Música Española"
+2312,Coquito,360,album,2022,"Música Española"
+2313,"Que Todo Sea Probar",340,album,2022,"Música Española"
+2314,"23 FEB MADRID FREESTYLE",191,album,2022,"Música Española"
+2315,"In Spain We Call It Soledad",348,album,2022,"Música Española"
+2316,"Cielo hermético",408,album,2021,"Música Española"
+2317,Perra,348,single,2021,"Música Española"
+2318,"NO ES AMOR",191,album,2022,"Música Española"
+2319,"Juan Valdivia y Entre dos tierras - Interludio",409,album,2021,"Música Española"
+2320,"cara :)",315,album,2021,"Música Española"
+2321,"Gaita Margariteña",364,single,2022,"Música Española"
+2322,"Se Me Sale El Corazón (feat. Carlos Rivera)",410,album,2021,"Música Española"
+2323,Abajo,371,album,2021,"Música Española"
+2324,"De Pie",399,single,2021,"Música Española"
+2325,"Tequila y Limón",354,album,2021,"Música Española"
+2326,"The Chef",383,album,2021,"Música Española"
+2327,"Me Va Bonito",411,album,2021,"Música Española"
+2328,"De Mí Para Mí",412,single,2021,"Música Española"
+2329,MENEITO,349,single,2022,"Música Española"
+2330,"El Bosque",351,album,2022,"Música Española"
+2331,Adentro,386,album,2022,"Música Española"
+2332,"Vamo’ A Beber",413,single,2021,"Música Española"
+2333,Diablo,317,single,2022,"Música Española"
+2334,"Carmen Fantasy, Op. 25: III. Allegro moderato",333,single,2022,"Música Española"
+2335,"Justo Cuando El Mundo Apriete",373,album,2022,"Música Española"
+2336,"Cóctel de Realidad",414,single,2022,"Música Española"
+2337,"Healing Of The Nation",415,single,2022,"Música Española"
+2338,"Premio de Consolación",352,album,2021,"Música Española"
+2339,"Te Lo Dije de Verdad",370,single,2021,"Música Española"
+2340,"cómo te va?",319,album,2021,"Música Española"
+2341,Eres,360,album,2022,"Música Española"
+2342,"FUMÁNDOTE UN BLUNT",396,album,2021,"Música Española"
+2343,01.02.20,416,album,2021,"Música Española"
+2344,Duermedela,65,compilation,2021,"Música Española"
+2345,M.V.P,383,album,2021,"Música Española"
+2346,"Sed de Fuego",354,album,2021,"Música Española"
+2347,"Con El Pañuelo En los Ojos",352,album,2021,"Música Española"
+2348,"La Orilla Salvaje",351,album,2022,"Música Española"
+2349,AN1MAL,319,single,2022,"Música Española"
+2350,"Así Bailaba",348,album,2022,"Música Española"
+2351,Avanzo,417,single,2021,"Música Española"
+2352,"Tu culpa",323,album,2022,"Música Española"
+2353,Perra,348,album,2022,"Música Española"
+2354,L'Etoiles,378,album,2022,"Música Española"
+2355,"Valientes de Sofá",370,single,2021,"Música Española"
+2356,"El Espejo",318,album,2022,"Música Española"
+2357,"Two Souls",318,album,2022,"Música Española"
+2358,FUE,360,single,2022,"Música Española"
+2359,Rumbapop,418,album,2022,"Música Española"
+2360,Jalapeños,354,single,2022,"Música Española"
+2361,"En algún lugar (feat. Santi Balmes & Víctor Cabezuelo)",419,album,2021,"Música Española"
+2362,"Al Abordaje",337,album,2021,"Música Española"
+2363,"Lo Siento",373,album,2022,"Música Española"
+2364,"Me Muero",65,compilation,2022,"Música Española"
+2365,"Don Quijote",358,single,2021,"Música Española"
+2366,"Espinita Clavá",356,single,2022,"Música Española"
+2367,"A la calle",323,album,2022,"Música Española"
+2368,"TE QUIERO A MORIR",395,album,2022,"Música Española"
+2369,"No me digas adiós",337,album,2022,"Música Española"
+2370,"Nadie Como Tú",413,single,2022,"Música Española"
+2371,"Noche de Halloween",337,single,2021,"Música Española"
+2372,"A Un Par de Copas",358,single,2021,"Música Española"
+2373,"Calle Cortada",420,single,2021,"Música Española"
+2374,"Si Tu Te Vas",421,single,2022,"Música Española"
+2375,"De Colegio",340,album,2022,"Música Española"
+2376,Lagrima,422,single,2021,"Música Española"
+2377,"The Night",391,album,2022,"Música Española"
+2378,"Malherido (Directo México)",423,album,2021,"Música Española"
+2379,"Sintiéndolo Mucho (feat. Leiva)",332,album,2022,"Música Española"
+2380,Herederos,329,album,2021,"Música Española"
+2381,"Recuerdos Inefables",351,album,2022,"Música Española"
+2382,"Me Gusta la Vida",343,single,2021,"Música Española"
+2383,"Mariposas Blancas",424,album,2021,"Música Española"
+2384,Vasilon,425,single,2021,"Música Española"
+2385,"Me Sabe Mal",357,single,2021,"Música Española"
+2386,"Punto y coma",353,album,2022,"Música Española"
+2387,"Quién lo diría",353,album,2022,"Música Española"
+2388,"El aplauso herido",337,album,2021,"Música Española"
+2389,"El mejor de tus errores (feat. Alice Wonder)",426,album,2021,"Música Española"
+2390,"Soy de Volar",395,album,2021,"Música Española"
+2391,"NO TE QUIERO VER MAL",334,album,2021,"Música Española"
+2392,"Quiero Mirarte para Siempre",370,album,2022,"Música Española"
+2393,Kriño,340,album,2022,"Música Española"
+2394,"Amor Consciente",382,album,2022,"Música Española"
+2395,"Demasiado Tarde",427,album,2022,"Música Española"
+2396,"De Nada Sirvió",344,single,2022,"Música Española"
+2397,Cosmos,378,album,2022,"Música Española"
+2398,Pastillitas,334,album,2021,"Música Española"
+2399,"The Cage",318,album,2022,"Música Española"
+2400,"Mi Ego",322,single,2021,"Música Española"
+2401,"Salto al Vacío (feat. Café Quijano)",398,album,2021,"Música Española"
+2402,"Brushed Thoughts",318,album,2022,"Música Española"
+2403,"KITT y los Coches del Pasado",428,album,2022,"Música Española"
+2404,"Hijos Contigo",356,album,2021,"Música Española"
+2405,Pandemonium,429,single,2022,"Música Española"
+2406,"Mother Earth",430,album,2022,"Música Española"
+2407,Adiós,382,album,2022,"Música Española"
+2408,Roto,431,single,2022,"Música Española"
+2409,"la corriente",374,single,2021,"Música Española"
+2410,"Tú y yo",317,single,2022,"Música Española"
+2411,"Duecentomila ore",330,single,2022,"Música Española"
+2412,"Apocalipsis Virtual",326,single,2021,"Música Española"
+2413,"berlin U5",432,album,2021,"Música Española"
+2414,"Los Domingos No Se Toman Decisiones",418,single,2022,"Música Española"
+2415,"Cuando Quieras Quiero",336,compilation,2021,"Música Española"
+2416,Nena,340,album,2022,"Música Española"
+2417,"Calçots & Mangos (feat. Jósean Log)",398,album,2021,"Música Española"
+2418,Septiembre,385,album,2022,"Música Española"
+2419,"No Te Bastó, Mi Corazón",340,single,2022,"Música Española"
+2420,Pelear,386,single,2021,"Música Española"
+2421,"Dame tu aire (feat. Leo Rizzi)",362,album,2022,"Música Española"
+2422,"Romeo Y Julieta",319,single,2021,"Música Española"
+2423,"Me Haces Tanto Bien - Versión 2023",433,single,2022,"Música Española"
+2424,"Nada Que Se Parezca a Ti",434,single,2022,"Música Española"
+2425,"Somos Nada",413,single,2021,"Música Española"
+2426,"Nunca te fallaré",337,album,2021,"Música Española"
+2427,Nosotros,385,single,2021,"Música Española"
+2428,Dormir,323,album,2022,"Música Española"
+2429,"El Chupacabras",435,single,2022,"Música Española"
+2430,"Por Si Apareces",436,album,2021,"Música Española"
+2431,Hemorragia,431,single,2021,"Música Española"
+2432,"A quemarropa",408,album,2021,"Música Española"
+2433,Oasis,323,album,2022,"Música Española"
+2434,"Chocolate y Nata",381,single,2021,"Música Española"
+2435,"Value of Madness",437,single,2022,"Música Española"
+2436,"Que el viento sople a tu favor (feat. Saurom)",337,album,2021,"Música Española"
+2437,"Junto Al Generalife",438,album,2022,"Música Española"
+2438,"El Juego",344,single,2021,"Música Española"
+2439,"Tal Vez",325,album,2021,"Música Española"
+2440,"Me Encanta (feat. Daviles de Novelda)",439,single,2022,"Música Española"
+2441,"Canciones Cortavenas",356,single,2021,"Música Española"
+2442,Guajiro,440,album,2022,"Música Española"
+2443,"Gran Vals",377,single,2022,"Música Española"
+2444,"Las dos hermanitas, IFT 18",377,single,2022,"Música Española"
+2445,"Amor Dividido",441,single,2022,"Música Española"
+2446,"Mi copiloto",317,album,2022,"Música Española"
+2447,"La Filipina",364,album,2022,"Música Española"
+2448,Olympique,442,album,2022,"Música Española"
+2449,"Sor : Study No.6",443,album,2022,"Música Española"
+2450,"70 Grados (feat. Nanpa Básico & Yubeili)",439,single,2021,"Música Española"
+2451,"Muñequita de Cristal",357,single,2021,"Música Española"
+2452,"MIL VECES",395,album,2022,"Música Española"
+2453,Noso,444,single,2021,"Música Española"
+2454,"Posdata: Te Quiero",412,single,2021,"Música Española"
+2455,Talismán,354,album,2021,"Música Española"
+2456,"El Beso",371,album,2021,"Música Española"
+2457,"Gasolina y Mechero",326,single,2021,"Música Española"
+2458,"Pan y mantequilla (feat. Mike Bahía)",445,album,2021,"Música Española"
+2459,Ebai,315,single,2021,"Música Española"
+2460,"Levantaremos al sol",363,album,2022,"Música Española"
+2461,"Sesenta memorias perdidas",393,album,2021,"Música Española"
+2462,"A MI MANERA",396,album,2021,"Música Española"
+2463,Efrica,446,single,2022,"Música Española"
+2464,"Mal Agüero",406,single,2021,"Música Española"
+2465,"Y Si Fuera...",425,single,2021,"Música Española"
+2466,"Tarde De Agosto 2019",318,album,2022,"Música Española"
+2467,"No Te Lloro Más",315,album,2021,"Música Española"
+2468,"Como Tú",427,album,2022,"Música Española"
+2469,"Las Ganas de Vivir",447,album,2022,"Música Española"
+2470,"Experimento Philadephia",448,album,2022,"Música Española"
+2471,"Hasta Cuando",400,album,2022,"Música Española"
+2472,Jjjj,442,album,2022,"Música Española"
+2473,"Soy Así",392,album,2022,"Música Española"
+2474,"Entre Sombras",448,single,2022,"Música Española"
+2475,"Castillo de Cera",395,album,2021,"Música Española"
+2476,"Ojos Verdes",406,single,2021,"Música Española"
+2477,"La Vida Es Otra Cosa",424,album,2021,"Música Española"
+2478,VÉRTIGO,346,album,2022,"Música Española"
+2479,"Cosas Raras (feat. Pimp Flaco)",315,album,2021,"Música Española"
+2480,"Si tus piernas",368,album,2022,"Música Española"
+2481,"LA PLAYA",349,single,2022,"Música Española"
+2482,Escondidos,449,compilation,2022,"Música Española"
+2483,"Dans mes nuits (No Pegamos)",340,single,2021,"Música Española"
+2484,"Para Siempre",450,album,2022,"Música Española"
+2485,"Vivaldi Summer Storm",451,single,2022,"Música Española"
+2486,"Fantasmagoria - Hidrogenesse Remix",452,single,2021,"Música Española"
+2487,"Amor Escupido",340,album,2022,"Música Española"
+2488,"Parte III: Muerte y Resurrección",326,album,2022,"Música Española"
+2489,"Mágico trágico",453,album,2022,"Música Española"
+2490,"Cuanto antes (feat. Lali)",362,single,2022,"Música Española"
+2491,Colgao,340,album,2022,"Música Española"
+2492,"Más Fuerte Que el Dolor",454,album,2021,"Música Española"
+2493,"La Góndola",440,album,2022,"Música Española"
+2494,"Nadie Sabe Que Te Quiero",381,single,2022,"Música Española"
+2495,"Seguiré al Sol",448,album,2022,"Música Española"
+2496,Oye,400,album,2022,"Música Española"
+2497,Amanita,364,album,2022,"Música Española"
+2498,"Ave de paso (con Ana Mena)",320,single,2022,"Música Española"
+2499,Abäk,455,album,2022,"Música Española"
+2500,"De Perreo",456,single,2021,"Música Española"
+2501,"Por el Valle de las Sombras",457,album,2022,"Música Española"
+2502,"Más Alcohol",385,single,2021,"Música Española"
+2503,"Veneno (feat. Bunbury)",419,album,2021,"Música Española"
+2504,"Te Lo Digo Todo Y No Te Digo Na",424,album,2021,"Música Española"
+2505,"NUESTRO MUNDO",327,album,2022,"Música Española"
+2506,Ey!,423,single,2022,"Música Española"
+2507,Lluevo,354,album,2021,"Música Española"
+2508,"Casa Kira",458,single,2022,"Música Española"
+2509,Cafuné,431,album,2021,"Música Española"
+2510,"Quiero Quedarme para Siempre",459,single,2022,"Música Española"
+2511,"Hasta Vencer",455,album,2022,"Música Española"
+2512,Ego,450,album,2022,"Música Española"
+2513,"Esto Que Tengo Contigo",379,album,2022,"Música Española"
+2514,"Las Manos (feat. Leo Rizzi)",460,single,2022,"Música Española"
+2515,"Vivo Vigilado",383,album,2021,"Música Española"
+2516,"Tocado y Hundido",370,album,2022,"Música Española"
+2517,"Mother Earth",430,single,2021,"Música Española"
+2518,"La chispa adecuada",409,album,2021,"Música Española"
+2519,"Seguiriya Madre",461,album,2022,"Música Española"
+2520,Vuela,367,album,2021,"Música Española"
+2521,Sherezade,423,album,2022,"Música Española"
+2522,"La Musa & El Espíritu",65,compilation,2021,"Música Española"
+2523,Eterna,423,album,2022,"Música Española"
+2524,"A la tumba",385,single,2021,"Música Española"
+2525,"Everyday Things",351,album,2022,"Música Española"
+2526,Adela,462,album,2021,"Música Española"
+2527,"360 Remix",315,single,2022,"Música Española"
+2528,"Abierto en Vena",398,album,2021,"Música Española"
+2529,"Las Flores",435,single,2022,"Música Española"
+2530,"Carmen Fantasy, Op. 25: II. Lento assai",463,album,2022,"Música Española"
+2531,"La Teoría",356,single,2022,"Música Española"
+2532,Faith,437,single,2022,"Música Española"
+2533,"Dos erizos",353,album,2022,"Música Española"
+2534,"Sálvese Quien Pueda",335,album,2021,"Música Española"
+2535,"Magia de Luna",464,album,2021,"Música Española"
+2536,"Polvo Vacío (Original Version)",423,album,2022,"Música Española"
+2537,"Cuando Te Muerdes El Labio",352,album,2021,"Música Española"
+2538,"Julio Iglesias",348,album,2022,"Música Española"
+2539,"Despedida y cierre (feat. Manuel Carrasco)",353,single,2021,"Música Española"
+2540,"La Batalla Con Los Cueros De Vino",65,compilation,2021,"Música Española"
+2541,"Carmen Fantasy, Op. 25: I. Moderato",463,album,2022,"Música Española"
+2542,Repetíamos,339,single,2021,"Música Española"
+2543,"Pitch Black",465,album,2021,"Música Española"
+2544,Condenado,450,album,2022,"Música Española"
+2545,"Ojo de Halcón",442,album,2022,"Música Española"
+2546,Platicamos,340,single,2022,"Música Española"
+2547,Rumbapop,418,single,2022,"Música Española"
+2548,360,315,single,2021,"Música Española"
+2549,"En algún lugar (feat. Santi Balmes & Víctor Cabezuelo)",419,single,2021,"Música Española"
+2550,Curandero,466,album,2022,"Música Española"
+2551,"A Veces",466,album,2022,"Música Española"
+2552,"Beso robado",317,single,2022,"Música Española"
+2553,"Si Vuelves Tarde",467,single,2022,"Música Española"
+2554,"Tal Vez",427,album,2022,"Música Española"
+2555,"No Nos Vamos",413,single,2022,"Música Española"
+2556,"Stranger Things",352,album,2021,"Música Española"
+2557,"¿Qué pides tú? (feat. Pablo López)",362,album,2022,"Música Española"
+2558,"En Paz Conmigo",468,single,2021,"Música Española"
+2559,"La mujer cactus y el hombre globo",426,album,2021,"Música Española"
+2560,Apariencias,399,single,2022,"Música Española"
+2561,Últimamente,342,single,2022,"Música Española"
+2562,guerrera,374,single,2021,"Música Española"
+2563,"Puede Ser (V2.0)",469,single,2021,"Música Española"
+2564,Desamparados,442,album,2022,"Música Española"
+2565,5G,334,album,2021,"Música Española"
+2566,Adelita,377,single,2022,"Música Española"
+2567,"Las Solteras",319,single,2022,"Música Española"
+2568,"Granados: 12 Danzas españolas: No. 5, Andaluza",470,album,2022,"Música Española"
+2569,"7 Canciones populares españolas: No. 5, Nana (Arr. Halffter)",471,album,2021,"Música Española"
+2570,"Guerra y paz (feat. Carlos Escobedo)",337,album,2021,"Música Española"
+2571,YKN,430,single,2021,"Música Española"
+2572,"La Costa Breve",381,single,2021,"Música Española"
+2573,"FUCK OFF",346,album,2022,"Música Española"
+2574,"Voy a quedarme",472,single,2021,"Música Española"
+2575,"Tenía Tanto Que Darte",459,single,2021,"Música Española"
+2576,Rumba,385,album,2022,"Música Española"
+2577,Brindis,355,album,2021,"Música Española"
+2578,"No Hay Manera",355,album,2021,"Música Española"
+2579,"Chanteito Pa' un Ex",473,single,2021,"Música Española"
+2580,"Si Me Crees",382,single,2022,"Música Española"
+2581,"No Time",474,single,2021,"Música Española"
+2582,"Malagueña Salerosa",364,single,2022,"Música Española"
+2583,Alterboy,340,album,2022,"Música Española"
+2584,"Polaris (XXI)",378,album,2021,"Música Española"
+2585,"No Te Olvidas de Él",344,single,2021,"Música Española"
+2586,Agarraito,325,single,2022,"Música Española"
+2587,"No Saben Como Vivo",475,single,2021,"Música Española"
+2588,"Vidalita del mar",364,album,2022,"Música Española"
+2589,"Penúltimo beso (feat. Miguel Campello)",398,single,2022,"Música Española"
+2590,"SacaLaCamara - Remix",476,single,2022,"Música Española"
+2591,Medallones,442,album,2022,"Música Española"
+2592,"I Need You",376,album,2022,"Música Española"
+2593,"Hijos Contigo",356,single,2021,"Música Española"
+2594,"Ojitos Negros",477,single,2021,"Música Española"
+2595,"Salud y Libertad - Con Foyone & Sceno",359,single,2022,"Música Española"
+2596,"Verano Eterno",353,album,2022,"Música Española"
+2597,"Sota, Caballo y Yo",355,album,2021,"Música Española"
+2598,"Malas Yerbas",315,single,2021,"Música Española"
+2599,Tenemos,382,album,2022,"Música Española"
+2600,23,383,album,2021,"Música Española"
+2601,Dinamita,353,album,2022,"Música Española"
+2602,"Soy Esa Mujer",478,single,2021,"Música Española"
+2603,"La Florinata",396,single,2022,"Música Española"
+2604,Cabroncete,430,single,2022,"Música Española"
+2605,Kriño,340,single,2022,"Música Española"
+2606,Superpoderes,343,album,2022,"Música Española"
+2607,"7 Lágrimas",316,single,2021,"Música Española"
+2608,Loca,65,compilation,2021,"Música Española"
+2609,"Ayer (feat. Lía Kali)",389,single,2021,"Música Española"
+2610,"La Virgen de La Humanidad",403,album,2021,"Música Española"
+2611,Inercia,479,album,2021,"Música Española"
+2612,"Penúltimo beso (feat. Miguel Campello)",398,album,2022,"Música Española"
+2613,"Mañana voy a Burgos",405,album,2021,"Música Española"
+2614,"Estimado John",435,single,2022,"Música Española"
+2615,"En el barro",408,album,2021,"Música Española"
+2616,"Cuando Se Apaga la Luz",398,album,2022,"Música Española"
+2617,"La Hipoteca - Remix",370,album,2022,"Música Española"
+2618,"INTELIGENCIA EMOCIONAL",346,album,2022,"Música Española"
+2619,"Velocidad a tope",340,album,2022,"Música Española"
+2620,"Quiero Decirte - Zeper Remix",339,single,2022,"Música Española"
+2621,"Clima Tropical",368,single,2021,"Música Española"
+2622,Paradisíaco,381,single,2022,"Música Española"
+2623,"Le Voyage, Pt. 2 (Back to Space)",378,album,2022,"Música Española"
+2624,"Un Fantasma Enamorado",480,single,2022,"Música Española"
+2625,"El Tango de Lilith",455,album,2022,"Música Española"
+2626,"Vamos A Olvidar",481,single,2022,"Música Española"
+2627,"Carmen Fantasy, Op. 25: III. Allegro moderato",463,album,2022,"Música Española"
+2628,"A Todos Mis Amantes",348,album,2022,"Música Española"
+2629,"Nos han robado la primavera",337,album,2022,"Música Española"
+2630,"Cada vez cadáver",408,album,2021,"Música Española"
+2631,Celebraré,335,album,2021,"Música Española"
+2632,Iceberg,352,album,2021,"Música Española"
+2633,"La amenaza",440,album,2021,"Música Española"
+2634,"Cómete Mi Éxito",482,single,2021,"Música Española"
+2635,Azul,354,single,2022,"Música Española"
+2636,Millennial,371,album,2021,"Música Española"
+2637,"Snake in the Grass",483,album,2021,"Música Española"
+2638,"Homenaje a Antonio de Cabezón: III. Glosa",484,album,2021,"Música Española"
+2639,Perros,448,album,2022,"Música Española"
+2640,"Te Han Visto Llorar",325,album,2021,"Música Española"
+2641,"Tal Como Eres",345,album,2021,"Música Española"
+2642,"A por Ellos",450,album,2022,"Música Española"
+2643,"Puedes Contar Conmigo",321,album,2021,"Música Española"
+2644,Pelear,386,album,2022,"Música Española"
+2645,"La vida moderna (feat. Love of Lesbian)",485,single,2022,"Música Española"
+2646,"Contra Corriente",392,album,2022,"Música Española"
+2647,"Amor del Bo",486,album,2022,"Música Española"
+2648,"TE PIENSO A CADA HORA",395,album,2022,"Música Española"
+2649,Vida,382,single,2022,"Música Española"
+2650,"We Stand Alone",487,album,2021,"Música Española"
+2651,"Como Si Nada",424,album,2021,"Música Española"
+2652,"Buena muerte",488,album,2022,"Música Española"
+2653,Hamaca,356,single,2021,"Música Española"
+2654,MERICHANE,432,album,2021,"Música Española"
+2655,"Platos rotos",385,album,2022,"Música Española"
+2656,Mientes,413,single,2021,"Música Española"
+2657,"La última - De La Serie "La última"",323,single,2022,"Música Española"
+2658,"Quiero volar",385,album,2022,"Música Española"
+2659,"Lágrimas de Cera",464,album,2021,"Música Española"
+2660,"A Medio Centímetro",352,album,2021,"Música Española"
+2661,Verdadero,315,single,2021,"Música Española"
+2662,"No Te Entiendo",315,album,2021,"Música Española"
+2663,"El Amor Que No Te Diste - Cicatrices # 2",468,single,2022,"Música Española"
+2664,GUAGUAGUA,396,album,2021,"Música Española"
+2665,Olvidarte,325,album,2021,"Música Española"
+2666,Ataecina,489,album,2021,"Música Española"
+2667,"Av. Rafaela Ybarra",420,single,2021,"Música Española"
+2668,Infinitos,352,album,2021,"Música Española"
+2669,"Veo tan Dentro",326,single,2022,"Música Española"
+2670,"Abrazos que curan",337,album,2021,"Música Española"
+2671,"Scènes d’enfants: No. 5, Jeunes filles au Jardin - Live",490,album,2022,"Música Española"
+2672,"Muero Por Verte",491,single,2021,"Música Española"
+2673,"Secreto a Voces",492,album,2021,"Música Española"
+2674,"Mil y una noches",364,single,2021,"Música Española"
+2675,Fantasmas,431,album,2021,"Música Española"
+2676,"Lágrimas de un Ángel",423,album,2022,"Música Española"
+2677,"Tan Alto Como Tus Dudas",371,album,2021,"Música Española"
+2678,"La Playa",321,album,2021,"Música Española"
+2679,"Al Final Abrazos",493,single,2021,"Música Española"
+2680,"Soft Air",494,album,2021,"Música Española"
+2681,"Nuestra fosa",488,album,2022,"Música Española"
+2682,Rosas,321,album,2021,"Música Española"
+2683,"Me levanté",323,album,2022,"Música Española"
+2684,Granular,376,single,2021,"Música Española"
+2685,"Get You",483,single,2021,"Música Española"
+2686,"Mallorca, Op. 202",495,single,2022,"Música Española"
+2687,"Hay Que Vivir El Momento",360,single,2022,"Música Española"
+2688,"Pull Me Under",437,single,2022,"Música Española"
+2689,Still,391,album,2022,"Música Española"
+2690,Minster,496,single,2021,"Música Española"
+2691,"Que Se Vaya",450,album,2022,"Música Española"
+2692,"Que seas vos",364,single,2022,"Música Española"
+2693,"El Mismo Aire",497,single,2021,"Música Española"
+2694,Dile,498,album,2022,"Música Española"
+2695,"Volver a ser Romeo (feat. Galvan Real)",499,album,2021,"Música Española"
+2696,"Pecado de Ángel",457,album,2022,"Música Española"
+2697,"Ay de ti, ay de mí",500,album,2021,"Música Española"
+2698,Vete,492,album,2021,"Música Española"
+2699,Calma,447,album,2022,"Música Española"
+2700,"#RapSinCorte VII",380,album,2021,"Música Española"
+2701,"Desconexión (feat. GARABATTO)",340,album,2022,"Música Española"
+2702,"El Odio. Parte I",501,single,2021,"Música Española"
+2703,Quiero,502,album,2022,"Música Española"
+2704,Dale,418,album,2022,"Música Española"
+2705,"Y yo latiendo",353,single,2021,"Música Española"
+2706,"Momentismo absoluto",452,single,2021,"Música Española"
+2707,"El Plan",325,single,2022,"Música Española"
+2708,Palos,503,single,2021,"Música Española"
+2709,"Tejiendo Alas",492,album,2021,"Música Española"
+2710,"Tuvo Su Tiempo",504,album,2021,"Música Española"
+2711,"Y te pido perdón",338,single,2021,"Música Española"
+2712,"7 Canciones populares españolas: No. 3, Asturiana (Arr. Halffter)",471,album,2021,"Música Española"
+2713,Nena,340,single,2022,"Música Española"
+2714,Tinder,498,album,2022,"Música Española"
+2715,Llegará,372,single,2022,"Música Española"
+2716,"Otro Bonito Final",497,single,2021,"Música Española"
+2717,"Recuerdos del Alma",455,album,2022,"Música Española"
+2718,"Total 90",440,album,2022,"Música Española"
+2719,TT,442,album,2022,"Música Española"
+2720,"El sur (feat. Bunbury)",393,single,2021,"Música Española"
+2721,"Bandera Negra",337,single,2021,"Música Española"
+2722,Madrid,418,album,2022,"Música Española"
+2723,"Esos ojos negros (feat. Amaia)",419,album,2021,"Música Española"
+2724,"Desconfía de ese chico",505,album,2021,"Música Española"
+2725,"Romance del los Pinos",506,album,2021,"Música Española"
+2726,"Hacerte Volar",507,album,2021,"Música Española"
+2727,AIRE,395,album,2022,"Música Española"
+2728,"A TI MUJER",327,single,2022,"Música Española"
+2729,"La Suerte de Mi Vida - 2021",508,album,2021,"Música Española"
+2730,"Ella vive en mí (feat. Antonio Orozco)",362,single,2022,"Música Española"
+2731,"San Blas",418,album,2022,"Música Española"
+2732,"Five O",442,album,2022,"Música Española"
+2733,"Que Importa",360,album,2022,"Música Española"
+2734,"Camina la Vida - Extended",441,single,2022,"Música Española"
+2735,"12 Danzas españolas: No. 2, Oriental",509,album,2021,"Música Española"
+2736,Rebozo,364,album,2022,"Música Española"
+2737,Ōkami,465,album,2021,"Música Española"
+2738,"La Chispa",356,single,2022,"Música Española"
+2739,"Verte Ganar",386,album,2022,"Música Española"
+2740,"Mar adentro",409,album,2021,"Música Española"
+2741,Volviste,360,album,2022,"Música Española"
+2742,"Guiding Light",391,album,2022,"Música Española"
+2743,"Otra Vez Me Has Sacado a Bailar",321,album,2021,"Música Española"
+2744,"Ojos Tristes",447,album,2022,"Música Española"
+2745,"La Llorona",510,single,2022,"Música Española"
+2746,"Héroe de leyenda",409,album,2021,"Música Española"
+2747,"Así Bailaba",348,single,2022,"Música Española"
+2748,"Americana (feat. Echosmith)",472,single,2021,"Música Española"
+2749,"Me dijeron que ya no vives aquí",511,album,2021,"Música Española"
+2750,"Canción de Radio",512,album,2022,"Música Española"
+2751,"Paloma Blanca",513,single,2022,"Música Española"
+2752,"Cómo Me Voy a Olvidar",406,album,2022,"Música Española"
+2753,"Wave Growth - Retrospective",391,album,2021,"Música Española"
+2754,"Tequila y Candela",456,album,2021,"Música Española"
+2755,Fantasmas,408,album,2021,"Música Española"
+2756,"Dime que sí",385,single,2021,"Música Española"
+2757,"What Was Dreamt and Lived",514,single,2022,"Música Española"
+2758,"La esquina de Rowland",410,album,2021,"Música Española"
+2759,"Esperando el Meteorito - Cicatrices # 8",468,single,2022,"Música Española"
+2760,"El León",440,album,2022,"Música Española"
+2761,Llora,392,album,2022,"Música Española"
+2762,"Quiero gritar",408,album,2021,"Música Española"
+2763,"Desde la Ventana",382,album,2022,"Música Española"
+2764,Mentiras,315,single,2021,"Música Española"
+2765,"Oye Primo",424,album,2021,"Música Española"
+2766,Ataraxia,351,album,2022,"Música Española"
+2767,Pirata,325,single,2021,"Música Española"
+2768,"Watching Walk",318,album,2022,"Música Española"
+2769,"Bravo Murillo",503,single,2021,"Música Española"
+2770,"Don Juan",383,album,2021,"Música Española"
+2771,"No Hay Futuro",515,single,2022,"Música Española"
+2772,"Miedo y Asco en Madrid",369,album,2022,"Música Española"
+2773,Perdío,356,album,2021,"Música Española"
+2774,"Hasta que salga el sol",385,album,2022,"Música Española"
+2775,"Ese Lugar",354,album,2022,"Música Española"
+2776,"Roto y Elegante",398,single,2022,"Música Española"
+2777,"Suena en las Bodas",367,single,2022,"Música Española"
+2778,"Canto para Mi Pueblo",354,album,2021,"Música Española"
+2779,"Mi Libertad",457,album,2022,"Música Española"
+2780,BEJOUHHH,396,album,2021,"Música Española"
+2781,"Sin Buscarte",325,single,2022,"Música Española"
+2782,Maleduk2,516,single,2021,"Música Española"
+2783,"Uña y Carne",517,album,2021,"Música Española"
+2784,"Si supieras...",337,album,2022,"Música Española"
+2785,"El Licenciao",466,album,2022,"Música Española"
+2786,"Únicos - Violadores del Verso",402,album,2022,"Música Española"
+2787,"Extreme Fire Hazard",518,album,2022,"Música Española"
+2788,"La Jamaicana",502,album,2022,"Música Española"
+2789,Postureo,519,single,2021,"Música Española"
+2790,"la raíz",374,single,2022,"Música Española"
+2791,Maravilla,520,single,2021,"Música Española"
+2792,"La Vida Es Otra Cosa",424,single,2021,"Música Española"
+2793,"Esta Ausencia",329,album,2021,"Música Española"
+2794,"Salgo pa la calle",440,album,2021,"Música Española"
+2795,"El Hombre del Futuro",479,album,2021,"Música Española"
+2796,"¿Por Qué Falla Todo el Mundo?",382,album,2022,"Música Española"
+2797,Nudos,382,album,2022,"Música Española"
+2798,Valeria,395,single,2021,"Música Española"
+2799,Electricidad,340,album,2022,"Música Española"
+2800,Deshielo,492,album,2021,"Música Española"
+2801,"Se Busca",492,album,2021,"Música Española"
+2802,"Vientos de Guerra - Versión XXX",521,album,2021,"Música Española"
+2803,"La Vida Pirata",337,album,2021,"Música Española"
+2804,Mentiras,315,album,2021,"Música Española"
+2805,"El Poder de la Tormenta",457,album,2022,"Música Española"
+2806,"Tus Besos",418,album,2022,"Música Española"
+2807,"La calle gritos",440,album,2021,"Música Española"
+2808,"Cinco Jotas",385,single,2021,"Música Española"
+2809,"Dame calor",385,album,2022,"Música Española"
+2810,"Number Juan",383,album,2021,"Música Española"
+2811,"Aviam què passa - Estrella Damm 2021",348,single,2021,"Música Española"
+2812,"Baja Frecuencia",448,album,2022,"Música Española"
+2813,"La vida breve: Danse Espagnole",522,album,2021,"Música Española"
+2814,"Sol y Sal (feat. Rozalén, Tarque, Anni B Sweet, Second, Arde Bogotá, Miguel Rios, Nina de Juan)",523,single,2021,"Música Española"
+2815,"Por Amor al Arte",524,album,2021,"Música Española"
+2816,"Inside The Egg",318,album,2022,"Música Española"
+2817,"La Bolsa o la Vida",402,album,2022,"Música Española"
+2818,"Dark Sun",496,single,2022,"Música Española"
+2819,"A Partir De Hoy",329,album,2021,"Música Española"
+2820,"Visions II",525,single,2022,"Música Española"
+2821,Necesito,399,single,2021,"Música Española"
+2822,"Y Ahora Tú",335,album,2021,"Música Española"
+2823,"The Infinite",391,album,2021,"Música Española"
+2824,"Mil Noches en Vela",526,single,2022,"Música Española"
+2825,Marzo,353,album,2022,"Música Española"
+2826,"Tomo demasiado",385,album,2022,"Música Española"
+2827,"Cada momento que te vi",527,album,2022,"Música Española"
+2828,Kazike,498,album,2022,"Música Española"
+2829,Ven,389,single,2021,"Música Española"
+2830,"Princesa - 2022",528,single,2022,"Música Española"
+2831,"Perdóname X Ser Yo",411,album,2021,"Música Española"
+2832,Imperativo,402,album,2022,"Música Española"
+2833,"Así Es la Vida",529,single,2022,"Música Española"
+2834,"Pase lo que Pase",530,single,2021,"Música Española"
+2835,"Me arrepiento (feat. Luciano Pereyra)",362,album,2022,"Música Española"
+2836,"Abran Fuego",492,album,2021,"Música Española"
+2837,CALLE,319,single,2021,"Música Española"
+2838,"Los irrompibles",393,album,2021,"Música Española"
+2839,"Piratas del Coco",455,album,2022,"Música Española"
+2840,Mamá,398,album,2021,"Música Española"
+2841,"La isla de las 7 Calaveras - Intro",337,album,2021,"Música Española"
+2842,"El Circo de los Muertos",531,album,2022,"Música Española"
+2843,"Migas de Pan",354,album,2021,"Música Española"
+2844,Solaris,352,single,2021,"Música Española"
+2845,"La última - Versión acústica",323,album,2022,"Música Española"
+2846,"Muñeca de Trapo",321,album,2021,"Música Española"
+2847,"Bad man",340,album,2022,"Música Española"
+2848,"Cura de humildad",385,album,2022,"Música Española"
+2849,"Antes de ti",410,single,2021,"Música Española"
+2850,"Ven a Verte",386,album,2022,"Música Española"
+2851,Mañana,363,single,2021,"Música Española"
+2852,"Subeme al Cielo",434,album,2021,"Música Española"
+2853,Llegará,352,album,2021,"Música Española"
+2854,"La Noche de San Juan",524,album,2021,"Música Española"
+2855,"Bécquer - Con Ara Malikian",359,single,2021,"Música Española"
+2856,"Al olvido (feat. Ara Malikian, Rozalén, Coque Malla, Lori Meyers y Mikel Izal)",532,album,2022,"Música Española"
+2857,"En Una Calita",533,single,2021,"Música Española"
+2858,"Donde Vas - Original Mix",430,single,2021,"Música Española"
+2859,Guajiro,440,single,2021,"Música Española"
+2860,"Te Quiero Tanto",325,album,2021,"Música Española"
+2861,"¿Quién Me Salvará de Mí?",423,album,2022,"Música Española"
+2862,"Fuera de Mi (feat. José Alma)",439,single,2022,"Música Española"
+2863,Automático,442,album,2022,"Música Española"
+2864,"El Bien",373,single,2022,"Música Española"
+2865,"Simplemente Dilo",324,single,2021,"Música Española"
+2866,"España, Op. 165: II. Tango",534,album,2022,"Música Española"
+2867,Gladiadores,440,album,2022,"Música Española"
+2868,"MI MENTE",395,album,2022,"Música Española"
+2869,"Bleed the Crown",487,album,2021,"Música Española"
+2870,"#RapSinCorte XXII",380,album,2021,"Música Española"
+2871,"Entre dos tierras",409,album,2021,"Música Española"
+2872,"Fake Friends",383,album,2021,"Música Española"
+2873,"Quiero morirme en ti",337,album,2022,"Música Española"
+2874,"Dormir - Versión acústica",323,album,2022,"Música Española"
+2875,Sunydeis,334,album,2021,"Música Española"
+2876,"El Sanatorio",455,album,2022,"Música Española"
+2877,Némesis,454,album,2021,"Música Española"
+2878,Awake,391,album,2022,"Música Española"
+2879,"El Adormitar De Los Laureles",466,album,2022,"Música Española"
+2880,"El Mal",373,album,2022,"Música Española"
+2881,Despertar,315,album,2021,"Música Española"
+2882,"The Lox",355,album,2021,"Música Española"
+2883,"Redondico (como los albaricoques)",364,album,2022,"Música Española"
+2884,"Luz Escondida - Con FyahBwoy",402,album,2022,"Música Española"
+2885,Eclipse,535,album,2021,"Música Española"
+2886,Supersubmarina,368,album,2022,"Música Española"
+2887,"Que Se Joda Todo Lo Demás",436,album,2021,"Música Española"
+2888,"Fuego, Fuego",385,single,2021,"Música Española"
+2889,Loop,315,album,2021,"Música Española"
+2890,"Quien encendió la luz",364,single,2022,"Música Española"
+2891,"Solo En Casa :(",315,album,2021,"Música Española"
+2892,"A VECES",536,album,2022,"Música Española"
+2893,"No me digas adiós",337,single,2022,"Música Española"
+2894,"Mi burbuja vital",452,single,2022,"Música Española"
+2895,"Destinados (feat. Yoly Saa)",362,album,2022,"Música Española"
+2896,"Me Quedo (feat. Ana Mena)",349,single,2021,"Música Española"
+2897,"cara :)",315,single,2021,"Música Española"
+2898,"Volverá - 2021",508,album,2021,"Música Española"
+2899,"Serranía del Brasil",364,single,2022,"Música Española"
+2900,"Propiñan de Melyor",537,album,2022,"Música Española"
+2901,"A VECES",536,album,2022,"Música Española"
+2902,"2018: Odisea en el Espacio",398,album,2021,"Música Española"
+2903,"Fumando Serio",400,album,2022,"Música Española"
+2904,"MI MENTE",395,album,2022,"Música Española"
+2905,"Hasta Cuando",400,single,2022,"Música Española"
+2906,Automático,442,album,2022,"Música Española"
+2907,Calma,417,single,2021,"Música Española"
+2908,"El Hada & La Luna",65,compilation,2021,"Música Española"
+2909,"Ringui Dingui - Andrés Campo Remix",359,single,2022,"Música Española"
+2910,Zenit,440,single,2022,"Música Española"
+2911,"Mejor de lo que contaste",353,album,2022,"Música Española"
+2912,"Volverá - 2021",508,album,2021,"Música Española"
+2913,"Quiero Decirte - DJ C Remix",339,single,2022,"Música Española"
+2914,"Speak Your Truth",518,album,2022,"Música Española"
+2915,Indoctrinate,487,album,2021,"Música Española"
+2916,"En Carne Viva",354,album,2021,"Música Española"
+2917,"Fake Friends",383,album,2021,"Música Española"
+2918,"El Bien",373,single,2022,"Música Española"
+2919,ANTIQUE,327,album,2022,"Música Española"
+2920,Nora,538,album,2021,"Música Española"
+2921,"Propiñan de Melyor",537,album,2022,"Música Española"
+2922,"Simplemente Dilo",324,single,2021,"Música Española"
+2923,"Faster than speed of light (XXI)",378,album,2021,"Música Española"
+2924,Imán,353,album,2022,"Música Española"
+2925,"My Endless Love",539,compilation,2022,"Música Española"
+2926,"Sin aliento - Remaster 2022",540,album,2022,"Música Española"
+2927,Sunydeis,334,album,2021,"Música Española"
+2928,"Me Quedo (feat. Ana Mena)",349,single,2021,"Música Española"
+2929,"Nuevo Para Los Dos",424,album,2021,"Música Española"
+2930,"Sal - Interludio",382,album,2022,"Música Española"
+2931,"El Hijo del Ayer",464,album,2021,"Música Española"
+2932,"Le Voyage, Pt. 1 (One Step to the Moon)",378,album,2022,"Música Española"
+2933,"Interbreeding Animosity",541,album,2021,"Música Española"
+2934,"Pipa y Placa",542,single,2022,"Música Española"
+2935,Agitar,543,album,2021,"Música Española"
+2936,Inmortal,321,album,2021,"Música Española"
+2937,"Blk Motion",544,single,2022,"Música Española"
+2938,MIERDA,396,album,2021,"Música Española"
+2939,"Desde mi cielo (feat. Leo Jiménez) - Versión Orquestal",337,album,2022,"Música Española"
+2940,"Nueva Era",464,album,2021,"Música Española"
+2941,Indoctrinate,487,single,2021,"Música Española"
+2942,"Sigo aquí (feat. Álvaro De Luna)",362,album,2022,"Música Española"
+2943,"El mar no cesa",409,album,2021,"Música Española"
+2944,"Johna Tones",446,single,2022,"Música Española"
+2945,"Nunca más",545,single,2022,"Música Española"
+2946,"Hace tiempo",409,album,2021,"Música Española"
+2947,INDIRECTAS,395,album,2022,"Música Española"
+2948,"EL GENUINO",396,album,2021,"Música Española"
+2949,"El mundo (feat. Gaby Moreno)",393,single,2021,"Música Española"
+2950,"The Many Licit Paths",518,album,2022,"Música Española"
+2951,"Dame una Razón",454,album,2021,"Música Española"
+2952,"Calle de la Llorería",426,single,2021,"Música Española"
+2953,"Amor De Verbena (feat. Dani Martin)",418,single,2021,"Música Española"
+2954,"Pale Sun - Retrospective",391,album,2021,"Música Española"
+2955,Perspectiva,412,single,2021,"Música Española"
+2956,"El 28",321,album,2021,"Música Española"
+2957,"Chorbo Real",442,album,2022,"Música Española"
+2958,"Nuestras Nubes",482,single,2022,"Música Española"
+2959,"La Niña Que Llora en Tus Fiestas",321,album,2021,"Música Española"
+2960,"Mount Cook",351,album,2022,"Música Española"
+2961,"40 NOCHES",520,single,2021,"Música Española"
+2962,"El estanque",409,album,2021,"Música Española"
+2963,"Desde cero (con Melendi)",317,single,2021,"Música Española"
+2964,"Sonata, Op. 61: III. Allegro vivo",546,album,2022,"Música Española"
+2965,Edificios,355,album,2021,"Música Española"
+2966,"Nada de Nada - Con Kase.O",402,album,2022,"Música Española"
+2967,"Grândola Vila Morena - War Version",547,single,2021,"Música Española"
+2968,"Quiero, Quiero y Quiero",548,album,2021,"Música Española"
+2969,Ramera,549,single,2021,"Música Española"
+2970,"Ámame 2.0",469,single,2022,"Música Española"
+2971,Despedida,550,album,2022,"Música Española"
+2972,Peaks,391,album,2022,"Música Española"
+2973,"Valientes de Sofá - Remix",370,album,2022,"Música Española"
+2974,"No me lo creo RMX",439,album,2021,"Música Española"
+2975,"Que Merezca la Pena",335,album,2021,"Música Española"
+2976,"La Historia De Un Viaje",336,single,2022,"Música Española"
+2977,"El cine - Versión acústica",323,album,2022,"Música Española"
+2978,"A tu lado (feat. Izaro)",419,album,2021,"Música Española"
+2979,"Quiero - Versión acústica",323,album,2022,"Música Española"
+2980,"El Beso",65,compilation,2021,"Música Española"
+2981,Oscilloscope,465,album,2021,"Música Española"
+2982,"FUCK OFF",346,single,2021,"Música Española"
+2983,Inertes,352,album,2021,"Música Española"
+2984,Intro,369,single,2022,"Música Española"
+2985,"MAJIN VEGETA",334,album,2021,"Música Española"
+2986,"Yo Te Besaré",551,single,2022,"Música Española"
+2987,"Reza por mí",440,album,2021,"Música Española"
+2988,"Floating Into The Avalanche",318,album,2022,"Música Española"
+2989,"Sin Ella",407,single,2021,"Música Española"
+2990,"Esos ojos negros (feat. Amaia)",419,single,2021,"Música Española"
+2991,Ey!,423,album,2022,"Música Española"
+2992,"Maldito duende",409,album,2021,"Música Española"
+2993,"Ghostface Killer",369,album,2022,"Música Española"
+2994,Destino,457,album,2022,"Música Española"
+2995,"El Odio. Parte I",501,album,2022,"Música Española"
+2996,"Amores Maníos",466,album,2022,"Música Española"
+2997,"Formula Paraiso",552,album,2021,"Música Española"
+2998,"Holy Crucifixion - DICA Remix",553,single,2021,"Música Española"
+2999,"Te Quiero Porque Te Quiero (Fandangos)",486,album,2022,"Música Española"
+3000,"Ave María",329,album,2021,"Música Española"
+3001,"Oysters In My Pocket",554,single,2022,Rock
+3002,Bones,555,album,2022,Rock
+3003,"Your Heart Or Mine",556,album,2022,Rock
+3004,"She Had Me At Heads Carolina",557,album,2022,Rock
+3005,"About You",558,album,2022,Rock
+3006,"I Ain't Worried",559,single,2022,Rock
+3007,"Good Times Go By Too Fast",560,album,2022,Rock
+3008,"I WANNA BE YOUR SLAVE",561,album,2021,Rock
+3009,"Fancy Like",562,album,2022,Rock
+3010,"Jump Around - 30 Years Remaster",563,album,2022,Rock
+3011,"Enemy (with JID) - from the series Arcane League of Legends",555,album,2022,Rock
+3012,"Thinking 'Bout You (feat. MacKenzie Porter)",564,album,2022,Rock
+3013,"Cold Heart - PNAU Remix",565,album,2021,Rock
+3014,"Hayloft II",566,album,2022,Rock
+3015,"Last Night Lonely",556,album,2022,Rock
+3016,"Cold Heart - PNAU Remix",565,single,2021,Rock
+3017,"Just the Way",567,album,2021,Rock
+3018,"Take It All Back",568,album,2022,Rock
+3019,Run,559,album,2021,Rock
+3020,"Twin Flames",569,single,2022,Rock
+3021,"What’s Your Country Song",570,album,2021,Rock
+3022,"Half Of Me",570,album,2022,Rock
+3023,"If I Didn’t Love You",571,album,2021,Rock
+3024,"Enjoy the Silence",572,single,2022,Rock
+3025,"Son Of The Dirty South",573,album,2022,Rock
+3026,"Can't Have Mine (Find You A Girl)",560,album,2022,Rock
+3027,"For God Is With Us",574,album,2022,Rock
+3028,Bones,555,single,2022,Rock
+3029,Ghost,575,album,2022,Rock
+3030,"Simulation Swarm",576,album,2022,Rock
+3031,"Take My Name",567,album,2021,Rock
+3032,"Drunk (And I Don't Wanna Go Home)",577,single,2021,Rock
+3033,INVISIBLE,578,album,2021,Rock
+3034,"Enemy (with JID) - from the series Arcane League of Legends",555,single,2021,Rock
+3035,Pasilyo,579,single,2022,Rock
+3036,"Stars Like Confetti",564,album,2022,Rock
+3037,"Mary On A Cross",580,compilation,2022,Rock
+3038,"Black Hole",581,album,2022,Rock
+3039,"Come What May",582,album,2021,Rock
+3040,"Edge of the Ocean",583,album,2022,Rock
+3041,"Light My Love",584,album,2021,Rock
+3042,"life imitates life",585,album,2022,Rock
+3043,"Cornerstone (feat. Zach Williams)",586,album,2022,Rock
+3044,23,587,single,2021,Rock
+3045,"Wild Child",588,album,2022,Rock
+3046,Sunshine,559,single,2021,Rock
+3047,Paradise,583,album,2022,Rock
+3048,"Wet Dream",589,album,2022,Rock
+3049,"Holy Forever",590,single,2022,Rock
+3050,"What's New Scooby-Doo?",591,single,2021,Rock
+3051,"We Got History",592,album,2022,Rock
+3052,"Rescue Me",559,album,2021,Rock
+3053,"Shy Away",593,album,2021,Rock
+3054,"Be Sweet",594,album,2021,Rock
+3055,"Good God Almighty",595,album,2021,Rock
+3056,"Missing Piece",596,album,2022,Rock
+3057,"House Of The Lord",597,album,2021,Rock
+3058,"Cold Beer Calling My Name",598,album,2021,Rock
+3059,"Blood Moon",575,album,2022,Rock
+3060,"Enemy - From the series Arcane League of Legends",555,single,2021,Rock
+3061,"Kill The Noise",599,album,2022,Rock
+3062,"Way of Life (with Slightly Stoopid)",583,album,2022,Rock
+3063,"I'm In Love With You",558,album,2022,Rock
+3064,"The Goodness (feat. Blessing Offor)",586,album,2022,Rock
+3065,Hypotheticals,600,album,2021,Rock
+3066,"So Called Life",601,album,2022,Rock
+3067,"Mulberry Street",593,album,2021,Rock
+3068,Faithfully,586,album,2022,Rock
+3069,Wholehearted,582,album,2021,Rock
+3070,"Rolex® On A Redneck",573,album,2022,Rock
+3071,"Love Ain't",602,album,2022,Rock
+3072,"Follow You",555,album,2022,Rock
+3073,"Wild Trip",603,single,2022,Rock
+3074,Casita,604,single,2021,Rock
+3075,"Perfectly Loved",605,single,2022,Rock
+3076,"Fallen Star",606,single,2021,Rock
+3077,"Hold Me Closer",565,single,2022,Rock
+3078,"Chasing After You",607,album,2021,Rock
+3079,"Battle Belongs",597,album,2021,Rock
+3080,"Hold On To Me",608,single,2021,Rock
+3081,"Hold Me Closer",565,album,2021,Rock
+3082,"I Don't Wanna Talk (I Just Wanna Dance)",609,album,2021,Rock
+3083,"Chasing After You (with Maren Morris)",607,single,2021,Rock
+3084,"San Quentin",610,album,2022,Rock
+3085,"Truth About You",592,album,2021,Rock
+3086,"I Wanna Help Your Mind",604,single,2021,Rock
+3087,"Leave a Light On (Talk Away The Dark)",599,album,2022,Rock
+3088,"You'll Be In My Heart - From "Tarzan"/Soundtrack Version",611,compilation,2021,Rock
+3089,"Canary Islands",604,single,2021,Rock
+3090,"Crimson and Clover (Single Version)",612,album,2021,Rock
+3091,"Joy In The Morning",568,album,2022,Rock
+3092,"Last Resort (Reloaded)",599,single,2021,Rock
+3093,"Skinny Little Missy",610,album,2022,Rock
+3094,"Heat Above",584,album,2021,Rock
+3095,Free,613,album,2022,Rock
+3096,"One Way or Another (Hocus Pocus 2 Version)",614,album,2022,Rock
+3097,"Call Me Little Sunshine",580,album,2022,Rock
+3098,"We'll Be Alright",615,album,2021,Rock
+3099,"Oh Caroline",558,album,2022,Rock
+3100,Spillways,580,album,2022,Rock
+3101,"The Outside",593,album,2021,Rock
+3102,"Help Is On The Way (Maybe Midnight)",586,album,2022,Rock
+3103,"It Matters To Her",616,album,2021,Rock
+3104,"Single Saturday Night",557,album,2022,Rock
+3105,"Playing God",617,album,2022,Rock
+3106,Wrecked,555,album,2022,Rock
+3107,Saturday,593,album,2021,Rock
+3108,"Holy Forever",590,album,2022,Rock
+3109,Change,576,album,2022,Rock
+3110,"Trouble with a Heartbreak",571,album,2022,Rock
+3111,"Rest (feat. Terrian, Gabe Real)",586,album,2022,Rock
+3112,Someday,559,album,2021,Rock
+3113,"Hymn Of Heaven",597,album,2021,Rock
+3114,"Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",618,single,2021,Rock
+3115,"Greek Tragedy - Oliver Nelson TikTok Remix",619,single,2021,Rock
+3116,"Swan Upon Leda",620,single,2022,Rock
+3117,"New Creation",621,album,2021,Rock
+3118,"I Was On a Boat That Day",622,album,2021,Rock
+3119,"WHERE WE ARE",623,album,2022,Rock
+3120,"Mr. Saturday Night",556,album,2022,Rock
+3121,Run,559,single,2021,Rock
+3122,Nobody,560,album,2022,Rock
+3123,"Gardenia (with Stick Figure)",624,album,2021,Rock
+3124,"Blood Upon the Snow",625,album,2022,Rock
+3125,aishiteitanoni,626,single,2022,Rock
+3126,"Strangers Like Me - From "Tarzan"/Soundtrack Version",611,compilation,2021,Rock
+3127,"Never Say Never (with Lainey Wilson)",557,album,2022,Rock
+3128,"God Gave Me A Girl",627,album,2022,Rock
+3129,残響散歌,628,single,2021,Rock
+3130,"Heart of Stone",629,album,2022,Rock
+3131,AA,562,album,2022,Rock
+3132,"A Kiss",630,album,2021,Rock
+3133,"Waltzing Back",631,single,2021,Rock
+3134,"John Wayne",629,album,2022,Rock
+3135,Redecorate,593,album,2021,Rock
+3136,"The Kiss Of Venus (Dominic Fike)",632,album,2021,Rock
+3137,"Drinkin’ Beer. Talkin’ God. Amen. (feat. Florida Georgia Line)",633,album,2021,Rock
+3138,Lonely,555,album,2022,Rock
+3139,Heaven,571,album,2021,Rock
+3140,"A Good Song Never Dies",634,album,2021,Rock
+3141,Choker,593,album,2021,Rock
+3142,"Missing Piece",596,single,2021,Rock
+3143,"My Wave",603,album,2021,Rock
+3144,"No Hard Feelings",622,album,2021,Rock
+3145,"ZITTI E BUONI",561,album,2021,Rock
+3146,"Almost Home",635,album,2021,Rock
+3147,"ABC (feat. Sophia Black)",617,album,2022,Rock
+3148,"The Satanic Rites of Blacula",636,album,2021,Rock
+3149,"Pacific Coast Highway (with Trevor Hall)",615,album,2021,Rock
+3150,"New Truck",560,album,2022,Rock
+3151,"Seven Nation Army - The Glitch Mob Remix",637,single,2021,Rock
+3152,Machina,569,single,2022,Rock
+3153,"Can't Have Mine (Find You A Girl)",560,single,2022,Rock
+3154,"All My Favorite Songs (feat. AJR)",638,single,2021,Rock
+3155,"Waiting On The Sky To Change",639,single,2022,Rock
+3156,"Water Under The Bridge",587,single,2022,Rock
+3157,Mosaic,640,single,2021,Rock
+3158,"Long Live",641,album,2021,Rock
+3159,"Ain't Missin' You",642,single,2022,Rock
+3160,"Damn Strait",616,album,2021,Rock
+3161,"More Than A Woman - SG's Paradise Edit",643,single,2021,Rock
+3162,"A.M. RADIO",623,album,2022,Rock
+3163,"The Dying Song (Time To Sing)",644,album,2022,Rock
+3164,Happiness,558,album,2022,Rock
+3165,Evil,645,album,2022,Rock
+3166,"New Gold (feat. Tame Impala and Bootie Brown)",646,single,2022,Rock
+3167,"The Witches Are Back",614,album,2022,Rock
+3168,Suzume,647,album,2022,Rock
+3169,"In The House",595,album,2021,Rock
+3170,"For The Wicked",648,single,2021,Rock
+3171,"God You Are",582,album,2021,Rock
+3172,"U Gurl",562,album,2022,Rock
+3173,"Loosen Up",645,single,2021,Rock
+3174,TOGETHER,574,album,2021,Rock
+3175,"Grew Apart",649,album,2021,Rock
+3176,"Good Times Roll",650,album,2021,Rock
+3177,"nintendo 64",651,album,2021,Rock
+3178,Daggers,581,album,2022,Rock
+3179,2516,652,single,2021,Rock
+3180,Lifetime,601,album,2022,Rock
+3181,AA,562,single,2021,Rock
+3182,"Bloodbath (feat. Chino Moreno)",617,album,2022,Rock
+3183,"Lonely If You Are",633,album,2021,Rock
+3184,"Last Night Lonely",556,single,2022,Rock
+3185,"Kokomo, IN",594,album,2021,Rock
+3186,"Pacific Coast Highway (with Trevor Hall) - Reggae Remix",615,single,2022,Rock
+3187,King,613,album,2022,Rock
+3188,"Heat Waves",609,album,2021,Rock
+3189,"Dream Girl Evil",613,album,2022,Rock
+3190,"God Really Loves Us",595,album,2021,Rock
+3191,"Darkness At The Heart Of My Love",580,album,2022,Rock
+3192,"THE LONELIEST",561,single,2022,Rock
+3193,"Dancin' In The Moonlight (feat. Lauren Alaina)",653,single,2022,Rock
+3194,"Won't Let Me Go",654,single,2022,Rock
+3195,sTraNgeRs,655,single,2022,Rock
+3196,"Margaritas (with Orange Grove)",624,album,2021,Rock
+3197,"Living My Best Life",656,album,2022,Rock
+3198,BRIGHTSIDE,623,album,2022,Rock
+3199,SUPERMODEL,561,single,2022,Rock
+3200,"Some Girls",598,album,2021,Rock
+3201,Darkbloom,581,single,2022,Rock
+3202,"New Darling",626,single,2022,Rock
+3203,Certainty,576,album,2022,Rock
+3204,"Sounds Of Summer (with Slightly Stoopid)",657,album,2022,Rock
+3205,Clarity,596,album,2022,Rock
+3206,"Cracker Island (feat. Thundercat)",646,single,2022,Rock
+3207,"Follow You",555,single,2021,Rock
+3208,"Same Boat",658,album,2021,Rock
+3209,"Te Lloré Un Río",659,single,2022,Rock
+3210,"Gratitude (feat. Cheyenne Mitchell)",660,single,2022,Rock
+3211,"Shotgun Blues",661,album,2021,Rock
+3212,"Crazy About You",568,album,2022,Rock
+3213,"Looking For Somebody (To Love)",558,album,2022,Rock
+3214,Plagued,581,album,2022,Rock
+3215,Synchronize,662,album,2022,Rock
+3216,"Hallelujah Anyway",663,album,2022,Rock
+3217,"Elliot's Song - From "Euphoria" An HBO Original Series",664,single,2022,Rock
+3218,"I Was On a Boat That Day",622,single,2021,Rock
+3219,"Truth About You",592,single,2021,Rock
+3220,"I See Grace",665,single,2022,Rock
+3221,Waves,666,album,2021,Rock
+3222,"I Love You",667,album,2022,Rock
+3223,"Boku no Sensou",668,single,2021,Rock
+3224,"Two (with The Hip Abduction)",645,album,2022,Rock
+3225,INVISIBLE,578,single,2021,Rock
+3226,Motels,554,single,2022,Rock
+3227,"Mi Corazón Lloró",669,compilation,2022,Rock
+3228,"Heat Waves - Slowed",609,single,2021,Rock
+3229,"Hunter’s Moon",580,album,2022,Rock
+3230,"Ego Death (feat. Steve Vai)",617,album,2022,Rock
+3231,"Want It Again",570,album,2021,Rock
+3232,snarky,585,album,2022,Rock
+3233,Family,645,single,2021,Rock
+3234,Fighter,670,album,2022,Rock
+3235,"Bury Me Upside Down",573,album,2022,Rock
+3236,"You and Me On The Rock (feat. Lucius)",671,album,2021,Rock
+3237,"The Boat I Row",672,single,2022,Rock
+3238,"Where I'm Standing Now (feat. Brandon Lake)",597,album,2021,Rock
+3239,"When We Are Together",558,album,2022,Rock
+3240,"Anxious Heart",673,album,2021,Rock
+3241,"The Place Where He Inserted the Blade",674,album,2022,Rock
+3242,"Unsung Hero",574,album,2022,Rock
+3243,"My God Is Still The Same",654,single,2021,Rock
+3244,FightSong,675,single,2022,Rock
+3245,"Freedom Was A Highway",650,album,2021,Rock
+3246,"Tile By Tile",676,album,2022,Rock
+3247,"Suzume (feat. Toaka)",647,single,2022,Rock
+3248,Eyes,677,album,2021,Rock
+3249,"That’s What Tequila Does",571,album,2021,Rock
+3250,"Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",678,single,2022,Rock
+3251,"What Could Have Been (from the series Arcane League of Legends)",679,album,2021,Rock
+3252,Colorado,662,album,2021,Rock
+3253,"Seventeen Going Under",680,album,2021,Rock
+3254,"The Foundations of Decay",681,single,2022,Rock
+3255,"Physical - Remastered 2021",682,album,2021,Rock
+3256,"Damn Strait",616,single,2021,Rock
+3257,"Jersey Giant",577,single,2022,Rock
+3258,Yen,644,album,2022,Rock
+3259,"Stolen Love",575,album,2021,Rock
+3260,"West Coast",559,single,2022,Rock
+3261,"See Me Through It",683,album,2022,Rock
+3262,Fingerprints,684,album,2022,Rock
+3263,"Country Again",570,album,2021,Rock
+3264,"Milk & Honey",595,album,2021,Rock
+3265,"Jackie Down The Line",667,album,2022,Rock
+3266,"New Truck",560,single,2021,Rock
+3267,"Miracle Mile",685,album,2021,Rock
+3268,"Black Summer",686,single,2022,Rock
+3269,"Good Day",593,album,2021,Rock
+3270,"Dicke Titten",687,album,2022,Rock
+3271,"Hayloft II (SMASHUP)",566,single,2022,Rock
+3272,"Never Say Never (with Lainey Wilson)",557,single,2021,Rock
+3273,"Rain (from The Suicide Squad)",688,single,2021,Rock
+3274,"Sunday (feat. Snoop Dogg)",656,album,2022,Rock
+3275,CORALINE,561,album,2021,Rock
+3276,"Chaise Longue",589,album,2022,Rock
+3277,"Party Mode",564,album,2022,Rock
+3278,"Up Down",641,compilation,2022,Rock
+3279,"Showdown (with Collie Buddz)",583,album,2022,Rock
+3280,Joy,689,album,2021,Rock
+3281,Formidable,593,album,2021,Rock
+3282,"Getting Started",673,album,2021,Rock
+3283,"Heat Waves",575,album,2022,Rock
+3284,"Driving South",604,single,2022,Rock
+3285,Drinkaby,557,album,2022,Rock
+3286,"Face Down In The Moment",690,album,2021,Rock
+3287,"Stay Strong",691,album,2021,Rock
+3288,"Swerve (feat. FEVER 333 & Sueco)",599,album,2022,Rock
+3289,"We All Need Jesus",691,album,2021,Rock
+3290,"Better With",648,single,2022,Rock
+3291,"Spitting Off the Edge of the World",692,album,2022,Rock
+3292,"Son Of The Dirty South",573,single,2022,Rock
+3293,"Say I Won't",635,album,2021,Rock
+3294,Enemies,670,album,2022,Rock
+3295,"Mariposa Traicionera",659,single,2021,Rock
+3296,"Built By Nations",584,album,2021,Rock
+3297,"To Not Worship You",635,album,2022,Rock
+3298,"Quiero Conocer a Jesús (Yeshua) / Nuestro Dios",693,album,2022,Rock
+3299,"Country On",666,single,2022,Rock
+3300,"Into the Night (feat. Chad Kroeger)",689,album,2021,Rock
+3301,"No Chances",593,album,2021,Rock
+3302,Golden,581,album,2022,Rock
+3303,"Something About You - 7" Version",694,album,2022,Rock
+3304,Griftwood,580,album,2022,Rock
+3305,"Y'all Life",562,single,2022,Rock
+3306,"You Make Me Feel Like It’s Halloween",695,album,2022,Rock
+3307,"River Of Life",621,album,2021,Rock
+3308,"Bounce Man",593,album,2021,Rock
+3309,"As I Rise",696,single,2021,Rock
+3310,Up,568,album,2022,Rock
+3311,"Falling Down (with Nick Hexum of 311)",697,album,2022,Rock
+3312,"Life's Been Good",698,album,2022,Rock
+3313,Motionless,699,single,2021,Rock
+3314,"Fancy Like (feat. Kesha)",562,single,2021,Rock
+3315,"Rolex® On A Redneck",573,single,2022,Rock
+3316,"Let The Bad Times Roll",700,album,2021,Rock
+3317,"Seize the Power",701,album,2021,Rock
+3318,Kaisarion,580,album,2022,Rock
+3319,"All I Need To Hear",558,album,2022,Rock
+3320,Badfish,603,album,2021,Rock
+3321,"The Wolf",629,album,2022,Rock
+3322,"Lux Æterna",702,single,2022,Rock
+3323,"Palomino Princess",703,single,2021,Rock
+3324,DiE4u,655,single,2021,Rock
+3325,"Joy In The Morning",568,album,2022,Rock
+3326,Intro,674,album,2022,Rock
+3327,"Master of Puppets",65,compilation,2022,Rock
+3328,"Turn It Up, Bitch",704,album,2021,Rock
+3329,"Matador - Remasterizado 2008",705,album,2021,Rock
+3330,"My Life",555,album,2022,Rock
+3331,"Mixed Nuts",706,single,2022,Rock
+3332,.intoodeep.,707,album,2021,Rock
+3333,"Then It All Goes Away",708,album,2022,Rock
+3334,"There’d Better Be A Mirrorball",709,album,2022,Rock
+3335,"Rockstar Sea Shanty",610,single,2021,Rock
+3336,"Never Take It",593,album,2021,Rock
+3337,"Dad Vibes",704,album,2021,Rock
+3338,"Good God Almighty",595,single,2021,Rock
+3339,Symphony,555,album,2022,Rock
+3340,"I Ain't Worried",710,album,2022,Rock
+3341,"Out To Pasture",711,single,2022,Rock
+3342,"No Love In LA",712,album,2022,Rock
+3343,Criminal,624,album,2021,Rock
+3344,"Seventeen Going Under",680,single,2021,Rock
+3345,"El lugar correcto",713,album,2022,Rock
+3346,"Hot Mess",648,single,2022,Rock
+3347,SOUVENIR,714,single,2022,Rock
+3348,RELATE,574,album,2022,Rock
+3349,"Taking Over The Sun",604,single,2022,Rock
+3350,"Stardust Chords",584,album,2021,Rock
+3351,"Hey Gringo",715,album,2021,Rock
+3352,"Scars in Heaven",716,single,2021,Rock
+3353,BUG,717,single,2022,Rock
+3354,"Heavy Water (feat. Common Kings)",698,album,2022,Rock
+3355,サラマンダー,718,single,2022,Rock
+3356,"Break My Baby",715,album,2021,Rock
+3357,"Level of Concern",593,album,2021,Rock
+3358,Sanctuary,719,album,2021,Rock
+3359,"Black Sheep - Brie Larson Vocal Version / Bonus Track",65,compilation,2021,Rock
+3360,MAMMAMIA,561,single,2021,Rock
+3361,Kiwi,720,single,2022,Rock
+3362,"Head Up",670,album,2022,Rock
+3363,Darkbloom,581,album,2022,Rock
+3364,"Warm Nights",554,single,2022,Rock
+3365,"Stand In Faith",691,album,2021,Rock
+3366,"Mary On A Cross - slowed + reverb",580,single,2022,Rock
+3367,"Wild Palomino",658,album,2021,Rock
+3368,"Goodbye Mr. Blue",721,album,2022,Rock
+3369,"FOR YOUR LOVE",561,album,2021,Rock
+3370,"The Liars Club",722,album,2022,Rock
+3371,"The Triumph of King Freak (A Crypt of Preservation and Superstition)",636,album,2021,Rock
+3372,Runner,723,album,2022,Rock
+3373,"I Don't Live Here Anymore (feat. Lucius)",724,album,2021,Rock
+3374,"Whole Lotta Shakin' Going On - Remastered 2022",725,album,2022,Rock
+3375,"Draggin' the Line",612,album,2021,Rock
+3376,Afterglow,652,album,2022,Rock
+3377,"This Time Tomorrow",671,album,2021,Rock
+3378,"Sculptures Of Anything Goes",709,album,2022,Rock
+3379,"down home",650,album,2022,Rock
+3380,"Coffee & a Joint",726,album,2022,Rock
+3381,"Small Town Small",571,album,2021,Rock
+3382,"DON'T TELL THE BOYS",727,album,2022,Rock
+3383,"Help Is On The Way (Maybe Midnight)",586,single,2021,Rock
+3384,"I Cry Jesus",640,single,2022,Rock
+3385,"Natural Born Killer",728,album,2022,Rock
+3386,"Amen To That",560,album,2022,Rock
+3387,Angst,687,album,2022,Rock
+3388,"A Tu Recuerdo",729,album,2021,Rock
+3389,Trouble,730,single,2022,Rock
+3390,"U Gurl",562,single,2021,Rock
+3391,"Being In Love",589,album,2022,Rock
+3392,"Can You Feel My Heart - Remix",655,single,2021,Rock
+3393,Wrecked,555,single,2021,Rock
+3394,"Cry Baby",706,album,2021,Rock
+3395,"Reason I Sing - Acoustic",597,album,2022,Rock
+3396,"If I Can Dream",731,compilation,2022,Rock
+3397,Reverie,617,album,2022,Rock
+3398,"Tequila On A Boat (feat. Chris Lane)",564,album,2022,Rock
+3399,"Gospel Song",732,single,2021,Rock
+3400,"Slow Down Summer",570,single,2021,Rock
+3401,Waves,555,album,2022,Rock
+3402,"Those Days",610,album,2022,Rock
+3403,"Van Horn",634,album,2021,Rock
+3404,"Dirt Road Down",733,single,2021,Rock
+3405,"Little Green Eyes",645,single,2021,Rock
+3406,"Bang Bang Bang Bang - Remastered 2021",734,single,2021,Rock
+3407,"To a T",607,album,2021,Rock
+3408,"I Love My Country",641,album,2021,Rock
+3409,"Les Monstres",735,album,2021,Rock
+3410,"Higher (with Slightly Stoopid)",583,album,2022,Rock
+3411,"Let’s Get The Party Started (feat. Bring Me The Horizon)",736,album,2021,Rock
+3412,"Neon Light Speed",556,album,2022,Rock
+3413,Choreomania,613,album,2022,Rock
+3414,"Roman Holiday",667,album,2022,Rock
+3415,"Steady Love",656,album,2022,Rock
+3416,"Huntin' Land (feat. Riley Green)",564,album,2022,Rock
+3417,"Worthy of My Song (Worthy of It All)",737,single,2022,Rock
+3418,"Life Was Easier When I Only Cared About Me",738,album,2022,Rock
+3419,"Ready Set",739,single,2022,Rock
+3420,"Te Alejas Más De Mí",740,album,2021,Rock
+3421,"Breathe Deeper - Lil Yachty Remix",672,single,2021,Rock
+3422,"Forever To Go",633,album,2021,Rock
+3423,"Armee der Tristen",687,album,2022,Rock
+3424,"Waste No Time",741,single,2021,Rock
+3425,"Blow It Up",603,album,2021,Rock
+3426,"Power of a Woman",742,album,2022,Rock
+3427,Laramee,743,single,2022,Rock
+3428,"No Time For Toxic People",555,album,2022,Rock
+3429,"What, Me Worry?",744,single,2022,Rock
+3430,"I Love You",667,single,2022,Rock
+3431,"The 1975",558,album,2022,Rock
+3432,"High Time",610,album,2022,Rock
+3433,"The Chapeltown Rag",644,album,2022,Rock
+3434,"Vuelvo a Casa",693,album,2021,Rock
+3435,"I Am The Weapon",601,album,2022,Rock
+3436,"Old School Feeling",745,album,2021,Rock
+3437,Neurotica,617,album,2022,Rock
+3438,"My Way, Soon",584,album,2021,Rock
+3439,"Heaven By Then",573,album,2022,Rock
+3440,"After The Earthquake",676,album,2022,Rock
+3441,"Cry Baby",706,single,2021,Rock
+3442,"Range Rover",656,single,2021,Rock
+3443,"It's Always Been You",597,album,2021,Rock
+3444,"Never Said It Was Easy",746,album,2022,Rock
+3445,"Roll My Stone",747,single,2022,Rock
+3446,"Scars in Heaven",716,album,2022,Rock
+3447,"Start Nowhere",587,single,2022,Rock
+3448,"Watcher In The Sky",580,album,2022,Rock
+3449,"There’d Better Be A Mirrorball",709,single,2022,Rock
+3450,"Hurt You",748,album,2021,Rock
+3451,"Seize the Power",701,single,2021,Rock
+3452,"Bad Dream Baby",749,single,2021,Rock
+3453,"Don't Fade",596,album,2022,Rock
+3454,"You Time",616,album,2021,Rock
+3455,"All It Cost Me Was Everything",748,album,2021,Rock
+3456,"Find My Own Way",750,album,2021,Rock
+3457,"Fill It Up",615,album,2021,Rock
+3458,"Soy Yo - Sing 2 Mix",65,compilation,2021,Rock
+3459,"The Worst Country Song Of All Time",573,single,2021,Rock
+3460,"I Speak Jesus",751,single,2022,Rock
+3461,INFECTED,639,album,2021,Rock
+3462,"Always Gonna Love You",641,album,2021,Rock
+3463,"Slow Down Summer",570,album,2022,Rock
+3464,Novocaine,752,album,2022,Rock
+3465,"He Is",595,album,2021,Rock
+3466,Paprika,594,album,2021,Rock
+3467,"Promised Land",586,single,2021,Rock
+3468,"Anti-Hero (Country Version)",575,album,2022,Rock
+3469,Concorde,674,album,2022,Rock
+3470,"The Walk Home",753,album,2022,Rock
+3471,"The Goodness (feat. Blessing Offor)",586,single,2022,Rock
+3472,"Age of Machine",584,album,2021,Rock
+3473,"Part Of The Band",558,album,2022,Rock
+3474,"Start The Healing",754,album,2022,Rock
+3475,"Eres Mi Religión",659,single,2021,Rock
+3476,Ghosts,699,single,2022,Rock
+3477,"The Lord's Prayer (It's Yours)",755,single,2022,Rock
+3478,"Take 3",756,album,2021,Rock
+3479,"Love Me Like I Am (with Jordin Sparks)",574,single,2022,Rock
+3480,"Can’t Let Go",757,album,2021,Rock
+3481,Encinitas,604,single,2021,Rock
+3482,"Heat Above",584,single,2021,Rock
+3483,"Respite On The Spitalfields",580,album,2022,Rock
+3484,Clarity,596,single,2022,Rock
+3485,"Bad Decisions",758,single,2021,Rock
+3486,"Island Glow",698,album,2022,Rock
+3487,"Chaos Space Marine",674,album,2022,Rock
+3488,"Solar Power - Spotify Singles",609,single,2022,Rock
+3489,"Higher Power",595,album,2021,Rock
+3490,fleabag,759,single,2021,Rock
+3491,"I'm Ugly",760,album,2022,Rock
+3492,"When You Speak",673,album,2021,Rock
+3493,"Rest In Peace",761,album,2022,Rock
+3494,boy,762,single,2022,Rock
+3495,"1,000 Names",597,album,2021,Rock
+3496,"Old Sunrise",583,album,2022,Rock
+3497,"Black Sheep",65,compilation,2021,Rock
+3498,"On Our Way (feat. Sam Wesley)",635,album,2021,Rock
+3499,Farmer,763,album,2022,Rock
+3500,"Jumpin' Jack Flash",764,single,2021,Rock
+3501,"Dancin' Around My Grave",765,album,2022,Rock
+3502,"Wild Palomino",658,album,2022,Rock
+3503,"Elephant in the Room (feat. Teddy Swims)",592,single,2022,Rock
+3504,U&ME,766,album,2022,Rock
+3505,"Body Paint",709,album,2022,Rock
+3506,"I’m On Your Side",690,album,2021,Rock
+3507,"All Falls Apart",617,album,2022,Rock
+3508,"Get Your Money",677,album,2021,Rock
+3509,"Midnight Rider's Prayer",767,album,2022,Rock
+3510,"Standing In The Dark",610,album,2022,Rock
+3511,"One Day",555,album,2022,Rock
+3512,Antioch,629,album,2022,Rock
+3513,"House Of The Lord",597,single,2021,Rock
+3514,"You've Already Won - Live",768,single,2022,Rock
+3515,Fever,756,album,2021,Rock
+3516,"Good Will Hunting",674,album,2022,Rock
+3517,"Know That I Know",600,album,2021,Rock
+3518,"Girls Against God",613,album,2022,Rock
+3519,"Goodness of God",732,single,2021,Rock
+3520,"Heart of Mine",630,album,2021,Rock
+3521,"sail away",769,single,2022,Rock
+3522,Colorado,662,single,2021,Rock
+3523,Boys,749,album,2022,Rock
+3524,"Trouble’s Coming",770,album,2021,Rock
+3525,Daffodil,613,album,2022,Rock
+3526,"Chinatown (feat. Bruce Springsteen)",771,album,2021,Rock
+3527,"No Apologies",599,album,2022,Rock
+3528,"T Love",720,album,2022,Rock
+3529,"Heaven Angel",630,album,2021,Rock
+3530,"Bucket List",592,album,2021,Rock
+3531,"Only You",567,album,2021,Rock
+3532,"The Lord's Prayer (It's Yours)",755,album,2022,Rock
+3533,"Fake It",568,album,2022,Rock
+3534,Shoulders,722,album,2022,Rock
+3535,"Neurotic (feat. Lukas Rossi)",601,album,2022,Rock
+3536,"Right on Time",671,album,2021,Rock
+3537,"Save Your Tears (Acoustic)",662,album,2021,Rock
+3538,"Sunburn (with Tropidelic)",726,album,2021,Rock
+3539,"Hellraiser - 30th Anniversary Edition",772,single,2021,Rock
+3540,"Edge of the Ocean",583,single,2022,Rock
+3541,"For God Is With Us",574,single,2021,Rock
+3542,"Wait A Minute My Girl",661,album,2021,Rock
+3543,"スターマーカー (Album Mix)",773,album,2022,Rock
+3544,Burning,692,album,2022,Rock
+3545,"Livin' My Best Life",560,album,2022,Rock
+3546,"Does Anybody Know",774,album,2022,Rock
+3547,"Where We Started",570,album,2022,Rock
+3548,"The Vampire",718,album,2022,Rock
+3549,00:00,775,album,2022,Rock
+3550,Cassandra,613,album,2022,Rock
+3551,"Unknown Song",662,single,2022,Rock
+3552,"Grew Apart",649,album,2021,Rock
+3553,"No Choice",672,single,2022,Rock
+3554,Opiate²,776,single,2022,Rock
+3555,"Expert In A Dying Field",777,album,2022,Rock
+3556,"Lover (Don't Let Me Down)",746,album,2022,Rock
+3557,Bodies,778,album,2022,Rock
+3558,Medicine,779,album,2022,Rock
+3559,Survivor,690,album,2021,Rock
+3560,"Living Water",768,album,2021,Rock
+3561,"Underground Sound",739,single,2021,Rock
+3562,"The Kiss Of Venus (Dominic Fike)",632,single,2021,Rock
+3563,"Kawaikutegomen (feat. capi)",780,album,2022,Rock
+3564,soil,585,album,2022,Rock
+3565,"Shakin' Off The Rust",781,album,2021,Rock
+3566,Oblivion,770,album,2021,Rock
+3567,"Saved By Zero",65,compilation,2022,Rock
+3568,"Hello You",709,album,2022,Rock
+3569,"first death",782,single,2022,Rock
+3570,"November Rain - 2022 Version",783,album,2022,Rock
+3571,"No Hard Feelings",784,album,2021,Rock
+3572,"God Made Airplanes",571,album,2022,Rock
+3573,Telepath,785,album,2021,Rock
+3574,"Black Sheep",761,album,2022,Rock
+3575,"Out In The Middle",658,album,2022,Rock
+3576,"Hellraiser - 30th Anniversary Edition",772,album,2021,Rock
+3577,"Five Temptations",645,album,2022,Rock
+3578,"no way out",786,single,2022,Rock
+3579,"Lover Of My Soul",684,album,2022,Rock
+3580,"Body Paint",709,single,2022,Rock
+3581,"Black Hole",581,single,2021,Rock
+3582,"Hard Working Man",787,album,2022,Rock
+3583,"Hollywood Not",726,album,2021,Rock
+3584,"It Might Be You",788,compilation,2022,Rock
+3585,"Authority (In The Name Of Jesus)",789,album,2022,Rock
+3586,Wintering,558,album,2022,Rock
+3587,"Kill The Noise",599,single,2021,Rock
+3588,"Heat Waves - Diplo Remix",609,album,2021,Rock
+3589,"You Will Be Found",790,single,2022,Rock
+3590,"Surfing in Iceland",604,single,2022,Rock
+3591,Twenties,580,album,2022,Rock
+3592,"U Love It",791,single,2022,Rock
+3593,"Bull Breed",554,single,2022,Rock
+3594,"Easy On Your Own?",676,album,2022,Rock
+3595,"Your Song Saved My Life - From Sing 2",65,compilation,2021,Rock
+3596,"I Am Yours",792,album,2021,Rock
+3597,"Bury Me",648,single,2022,Rock
+3598,Rage,698,single,2021,Rock
+3599,Headspace,698,compilation,2021,Rock
+3600,Tremble,608,single,2021,Rock
+3601,"Stop Making This Hurt",771,album,2021,Rock
+3602,"Life's 2 Short",603,album,2021,Rock
+3603,"DARLING DANCE",717,album,2021,Rock
+3604,"All Because of Mercy",716,album,2022,Rock
+3605,"We’ll Be Back",793,album,2022,Rock
+3606,Eddie,686,album,2022,Rock
+3607,"Hive Mind",644,album,2022,Rock
+3608,"Big Ideas",709,album,2022,Rock
+3609,"Then Christ Came (feat. Phil Wickham)",635,single,2022,Rock
+3610,"Running Around",604,single,2022,Rock
+3611,"I Want More",715,album,2021,Rock
+3612,"Slide Tackle",594,album,2021,Rock
+3613,"Self Destructor",794,album,2021,Rock
+3614,"Shake Your Ass-Smoke Your Grass",636,album,2021,Rock
+3615,Supernatural,795,single,2022,Rock
+3616,.CoDA.,707,album,2021,Rock
+3617,"Coming For You",700,album,2021,Rock
+3618,"Ain't It Easy",723,album,2022,Rock
+3619,"Ur Mum",589,album,2022,Rock
+3620,"Out Of Style",704,album,2021,Rock
+3621,"The Writing on the Wall",796,album,2021,Rock
+3622,"Out In The Middle",658,single,2022,Rock
+3623,"Fill 'Er Up",556,album,2022,Rock
+3624,"Set You Free",797,album,2021,Rock
+3625,"Hold The Line (feat. grandson)",736,album,2021,Rock
+3626,REPRISE,623,album,2022,Rock
+3627,"Baby Blue Shades",738,album,2022,Rock
+3628,"She's a Lover",686,album,2022,Rock
+3629,"Dragon New Warm Mountain I Believe in You",576,album,2022,Rock
+3630,"God of Revival",597,album,2021,Rock
+3631,Adderall,644,album,2022,Rock
+3632,"BIG SHOT",623,album,2022,Rock
+3633,"Garden Grove",615,album,2021,Rock
+3634,"Bucket List",592,single,2021,Rock
+3635,"Crazy People",716,album,2022,Rock
+3636,"Heavy Bend",576,album,2022,Rock
+3637,Sleepless,741,album,2021,Rock
+3638,"Black Summer",686,album,2022,Rock
+3639,"Once Twice Melody",798,album,2022,Rock
+3640,"Soul Sweet Song",799,album,2022,Rock
+3641,Angelica,589,album,2022,Rock
+3642,"Te Lloré Un Río - Versión Mariacheño",659,single,2022,Rock
+3643,"Soul (R3HAB Remix)",800,single,2022,Rock
+3644,Warranty,644,album,2022,Rock
+3645,"Speeding 72",779,album,2022,Rock
+3646,"High Enough - Slowed",801,single,2021,Rock
+3647,"Broken Bells",584,album,2021,Rock
+3648,"Chimera (feat. Lil West)",617,album,2022,Rock
+3649,"Knew You Well",802,album,2021,Rock
+3650,"Better Than You’re Used To",803,single,2021,Rock
+3651,"Nascosto Nel Mondo",804,single,2021,Rock
+3652,"Lean Into Life",727,album,2022,Rock
+3653,"Wonderful World",656,single,2022,Rock
+3654,Haircut,727,album,2021,Rock
+3655,Superstar,798,album,2022,Rock
+3656,STAND,751,album,2021,Rock
+3657,"Chaise Longue",589,single,2021,Rock
+3658,Healing,781,album,2022,Rock
+3659,"98 Degrees",750,album,2021,Rock
+3660,Family,805,album,2021,Rock
+3661,Brújula,775,album,2022,Rock
+3662,"Wet Dream",589,single,2021,Rock
+3663,"Mr. Saturday Night",556,single,2022,Rock
+3664,Monday,555,album,2022,Rock
+3665,"NEVER REALLY MINE",623,album,2022,Rock
+3666,"Belinda Says",676,album,2022,Rock
+3667,Preach,634,album,2021,Rock
+3668,シンデレラ,806,album,2021,Rock
+3669,"Made to Fly",807,single,2021,Rock
+3670,"Good Times (Roll On)",808,album,2021,Rock
+3671,"Don't Back Down",809,album,2021,Rock
+3672,"Happy and I Hate It",592,album,2022,Rock
+3673,"Anything Goes",65,compilation,2021,Rock
+3674,"Yoko Oh No",810,single,2021,Rock
+3675,"Out in the Middle",658,album,2021,Rock
+3676,"Human Crime",811,single,2022,Rock
+3677,space,812,album,2022,Rock
+3678,"Bitter Taste",813,single,2021,Rock
+3679,Giftig,687,album,2022,Rock
+3680,"(You're The) Devil in Disguise",814,compilation,2022,Rock
+3681,"Patient Number 9 (feat. Jeff Beck)",772,single,2022,Rock
+3682,"PMA (feat. Pale Waves)",815,single,2021,Rock
+3683,"leaving tonight",569,single,2022,Rock
+3684,"Life's Been Good",698,single,2022,Rock
+3685,"In Our Blood",560,album,2022,Rock
+3686,"The Worst Country Song Of All Time",573,album,2022,Rock
+3687,"Get Your Shine On",641,compilation,2022,Rock
+3688,Forgotten,754,album,2022,Rock
+3689,Balcony,708,album,2021,Rock
+3690,"I Can See For Miles - Mono Version",816,album,2021,Rock
+3691,Cutthroat,555,album,2022,Rock
+3692,"Call me Cruella",65,compilation,2021,Rock
+3693,"Us Someday",570,album,2022,Rock
+3694,"I Don't Like Myself",555,album,2022,Rock
+3695,CHAOS,817,album,2022,Rock
+3696,Pharmacist,676,album,2022,Rock
+3697,"Everything In Its Right Place",818,album,2021,Rock
+3698,"Crank It Up",739,single,2021,Rock
+3699,"Table For Two",662,album,2022,Rock
+3700,"Falling Stars",583,album,2022,Rock
+3701,"Breath Of Life",613,compilation,2022,Rock
+3702,"LA PAURA DEL BUIO",561,album,2021,Rock
+3703,"It's Ok",555,album,2022,Rock
+3704,"Time Escaping",576,album,2022,Rock
+3705,"The Weight of Dreams",584,album,2021,Rock
+3706,Joyride,645,single,2021,Rock
+3707,"Come What May",582,single,2021,Rock
+3708,"Tippa My Tongue",686,album,2022,Rock
+3709,"New Romance",798,album,2022,Rock
+3710,"Egg Beater",554,single,2022,Rock
+3711,"Does Heaven Even Know You're Missing?",610,album,2022,Rock
+3712,Stereotype,557,album,2022,Rock
+3713,King,613,single,2022,Rock
+3714,"It Would Be You",656,album,2022,Rock
+3715,"Neighborhood (with Krayzie Bone & Prof)",697,album,2022,Rock
+3716,"Red Rover (with Jarv)",726,album,2021,Rock
+3717,Close,582,album,2021,Rock
+3718,"Zick Zack",687,album,2022,Rock
+3719,"Brother Run Fast",715,album,2021,Rock
+3720,"I'm In Love With You",558,single,2022,Rock
+3721,Clique,701,album,2021,Rock
+3722,"White Braids & Pillow Chair",686,album,2022,Rock
+3723,"All or Nothing (feat. Busy Signal)",745,album,2021,Rock
+3724,SYMBIOTIC,639,album,2021,Rock
+3725,"Easy Come Easy Go",555,album,2022,Rock
+3726,"Fourth of July",819,single,2022,Rock
+3727,"Everyday's The Weekend",603,album,2021,Rock
+3728,Countryside,641,album,2021,Rock
+3729,"Here to Forever",820,album,2022,Rock
+3730,Sleepwalking,815,single,2022,Rock
+3731,"Once In A Lifetime",815,single,2021,Rock
+3732,"Until It Doesn’t Hurt",566,album,2021,Rock
+3733,"Stubborn Pride",658,album,2022,Rock
+3734,"Iris - Acoustic",821,album,2021,Rock
+3735,Caney,822,single,2021,Rock
+3736,"Worth A Shot (feat. Dierks Bentley)",577,single,2022,Rock
+3737,"Spud Infinity",576,album,2022,Rock
+3738,"Heavy Is The Crown",823,single,2021,Rock
+3739,"While You're Gone",824,single,2021,Rock
+3740,"Memories (with WILLOW)",759,album,2022,Rock
+3741,"Life Rolls On",641,album,2021,Rock
+3742,"Here Ever After",686,album,2022,Rock
+3743,Skinny,715,album,2021,Rock
+3744,"Tell Me The Truth",825,album,2022,Rock
+3745,Wild,826,album,2022,Rock
+3746,"Bag of Bones",645,single,2021,Rock
+3747,Merry-Go-Round,827,single,2021,Rock
+3748,Madison,828,album,2022,Rock
+3749,"The Bandit",829,album,2021,Rock
+3750,"Stop Sign",830,single,2021,Rock
+3751,"Cool Jam",685,album,2021,Rock
+3752,"Coming Home",831,album,2021,Rock
+3753,"Peace and Love",686,album,2022,Rock
+3754,Comatose,722,album,2022,Rock
+3755,Haldern,674,album,2022,Rock
+3756,Shotgun,832,album,2022,Rock
+3757,"Broken Halos",574,album,2022,Rock
+3758,"I Ain’t Worried - Acoustic",559,single,2022,Rock
+3759,"Call Me Little Sunshine",580,single,2022,Rock
+3760,"My Love - Dave Glass Animals Remix",613,single,2022,Rock
+3761,"Jet Skis On The Moat",709,album,2022,Rock
+3762,Backbone,715,album,2021,Rock
+3763,"Heavy on Me",629,album,2022,Rock
+3764,"On My Way",615,album,2021,Rock
+3765,"Golden Boy",778,album,2022,Rock
+3766,"María la Curandera",713,album,2022,Rock
+3767,"Surviving The Game",833,album,2022,Rock
+3768,"Fire On Wheels",834,single,2022,Rock
+3769,"Mississippi Phone Booth",835,album,2021,Rock
+3770,"We love sweets",836,album,2021,Rock
+3771,"Kingdom Come",837,album,2022,Rock
+3772,Becoming,661,album,2021,Rock
+3773,Hero,645,single,2021,Rock
+3774,"Silver Into Rain",652,album,2022,Rock
+3775,God-ish,838,single,2021,Rock
+3776,"Love and Sunsets",658,album,2022,Rock
+3777,Abbracadabbra,760,album,2022,Rock
+3778,"I'm in Luv",604,single,2022,Rock
+3779,"TV Dinners",839,single,2021,Rock
+3780,"Wild And Blue",840,single,2022,Rock
+3781,"Country On",666,album,2022,Rock
+3782,"Step Aside",841,album,2022,Rock
+3783,"Bohemian Rhapsody - Remastered 2011",842,compilation,2021,Rock
+3784,"A Disappearing Act",722,album,2022,Rock
+3785,"Holy Water",843,single,2021,Rock
+3786,"Basketball Shoes",674,album,2022,Rock
+3787,Gasoline,645,album,2022,Rock
+3788,Maplewood,844,album,2022,Rock
+3789,"To Us It Did",592,album,2021,Rock
+3790,RELATE,574,single,2021,Rock
+3791,#1,555,album,2022,Rock
+3792,"¿Cómo Me Ves?",845,single,2022,Rock
+3793,"Way of the Ghost",726,album,2021,Rock
+3794,"Higher Ground",555,album,2022,Rock
+3795,"I Don't Wanna Talk (I Just Wanna Dance)",609,single,2021,Rock
+3796,"Cheering You On",574,album,2022,Rock
+3797,"Cold Turkey",846,album,2022,Rock
+3798,"On & On (with Iration)",657,album,2022,Rock
+3799,"Son Of A",847,album,2021,Rock
+3800,"Canola Fields",848,album,2021,Rock
+3801,"I Ain’t Quite Where I Think I Am",709,album,2022,Rock
+3802,ICARUS,639,album,2021,Rock
+3803,"NO ESCAPE",849,album,2022,Rock
+3804,"Palm Reader",850,single,2021,Rock
+3805,"Posing For Cars",594,album,2021,Rock
+3806,"All My Favorite Songs",638,album,2021,Rock
+3807,"Flying High",851,single,2021,Rock
+3808,"Dull Knives",555,album,2022,Rock
+3809,"Just Like That",852,album,2022,Rock
+3810,"Country Stuff (feat. Jake Owen)",562,album,2022,Rock
+3811,"I Wanna Remember (feat. Carrie Underwood)",792,album,2021,Rock
+3812,"Fallin' With Me",853,single,2022,Rock
+3813,"Midnight And Missin’ You",571,album,2022,Rock
+3814,"She Had Me At Heads Carolina (with Jo Dee Messina) - Remix",557,single,2022,Rock
+3815,"Ruin My Life",817,album,2022,Rock
+3816,Imperium,580,album,2022,Rock
+3817,"I'm Fine. (with The Elovaters)",726,album,2021,Rock
+3818,"Don't Stop Me Now - Remastered 2011",842,compilation,2021,Rock
+3819,"Someone Get the Grill Out of the Rain",839,album,2021,Rock
+3820,"Untitled #9 - Smáskifa 1",854,album,2022,Rock
+3821,"Broken Horses",671,album,2021,Rock
+3822,"God Is Good",855,single,2021,Rock
+3823,"A Vivir",845,single,2022,Rock
+3824,"Hymn Of Heaven - Acoustic",597,album,2022,Rock
+3825,"Make Room",856,single,2022,Rock
+3826,"Bloody Power Fame",857,single,2022,Rock
+3827,"M. - Sped Up Version",858,album,2022,Rock
+3828,"THE BREACH",639,album,2021,Rock
+3829,"Sick of The Silence",566,album,2021,Rock
+3830,"The Funeral",759,single,2022,Rock
+3831,"Fancy Like",562,single,2021,Rock
+3832,"His Name Is Jesus",597,album,2021,Rock
+3833,"Welcome to Hell",859,album,2022,Rock
+3834,"Don't Hate Me",805,album,2021,Rock
+3835,Midrift,569,single,2022,Rock
+3836,"West Texas Wind",792,album,2021,Rock
+3837,"Days of Future Past",796,album,2021,Rock
+3838,"Memento Mori (feat. Killstation)",617,album,2022,Rock
+3839,First,860,single,2021,Rock
+3840,"Lots of Nothing",861,album,2022,Rock
+3841,"Same Graves",862,album,2022,Rock
+3842,"The Vampire",718,single,2021,Rock
+3843,"Fuck Around and Find Out (feat. $NOT)",617,album,2022,Rock
+3844,Runner,723,single,2022,Rock
+3845,"If I Was Your Lover",834,single,2022,Rock
+3846,"White Rabbit",863,single,2021,Rock
+3847,"Before You Gotta Go",864,album,2021,Rock
+3848,EARTHRISE,639,album,2021,Rock
+3849,"She’s The One",573,album,2022,Rock
+3850,"Genesis (feat. Brasstracks)",617,album,2022,Rock
+3851,Karmadame,865,album,2021,Rock
+3852,"Reason I Sing",597,album,2021,Rock
+3853,"Whiskey Me Away",571,album,2022,Rock
+3854,"City of the Dead",817,album,2022,Rock
+3855,"The Detail",866,album,2021,Rock
+3856,"Out Of Luck",867,single,2021,Rock
+3857,"Lipstick on the Glass",784,album,2021,Rock
+3858,Hawaii,622,album,2021,Rock
+3859,"El Sacrificio",868,album,2022,Rock
+3860,"Fake as Fu@k",686,album,2022,Rock
+3861,"movies for guys",869,album,2021,Rock
+3862,"Too Late Now",589,album,2022,Rock
+3863,Miracles,723,album,2022,Rock
+3864,"How Dare You Want More",771,album,2021,Rock
+3865,Vivien,870,single,2022,Rock
+3866,"Hunter’s Moon",580,single,2021,Rock
+3867,"What Else is New - Unplugged",748,album,2021,Rock
+3868,"Enter Sandman",580,single,2021,Rock
+3869,"Smells Like Teen Spirit - Remastered 2021",871,album,2021,Rock
+3870,Zeit,687,album,2022,Rock
+3871,"The Sick, The Dying… And The Dead!",793,album,2022,Rock
+3872,Atlantis,872,album,2021,Rock
+3873,"Good Place",592,album,2022,Rock
+3874,シンデレラ,806,single,2021,Rock
+3875,"Good Dogs",598,album,2021,Rock
+3876,"No Talking",860,single,2021,Rock
+3877,Dramatic,873,album,2022,Rock
+3878,"Me Duele",874,single,2022,Rock
+3879,"Cold Heart",65,compilation,2022,Rock
+3880,"Slum Beach - Intro",603,album,2021,Rock
+3881,Sirens,555,album,2022,Rock
+3882,Mistakes,875,album,2022,Rock
+3883,"New Bad Habit",810,single,2021,Rock
+3884,"My Love",613,album,2022,Rock
+3885,"Waiting On A War",876,album,2021,Rock
+3886,"Savage Good Boy",594,album,2021,Rock
+3887,"We Go On Walks",727,album,2022,Rock
+3888,"Holy Water",843,single,2022,Rock
+3889,"Whispering Bells",877,album,2022,Rock
+3890,Giants,555,album,2022,Rock
+3891,"The Barbarians",584,album,2021,Rock
+3892,"You're Still The One",600,single,2022,Rock
+3893,Caravel,584,album,2021,Rock
+3894,"Good Feeling - Radio Version",878,single,2022,Rock
+3895,"Like a Hurricane",748,album,2021,Rock
+3896,Wanted,559,album,2021,Rock
+3897,"Sunshine - MOTi Remix",559,single,2021,Rock
+3898,"Patient Number 9 (feat. Jeff Beck)",772,album,2022,Rock
+3899,"Tears of Rain",584,album,2021,Rock
+3900,"Take Me Home, Country Roads",671,single,2021,Rock
+3901,Vandalize,879,single,2022,Rock
+3902,"All Joy No Stress (feat. Tedashii)",732,single,2022,Rock
+3903,"Unsung Hero",574,single,2022,Rock
+3904,Linger,600,single,2022,Rock
+3905,"The Balcony",696,album,2021,Rock
+3906,"Diamonds or Twine",607,album,2021,Rock
+3907,カオスが極まる,880,single,2022,Rock
+3908,"All I Know About Girls",622,album,2021,Rock
+3909,"Dirty Rotten Bizkit",704,album,2021,Rock
+3910,"Damaged Goods",881,single,2021,Rock
+3911,"To Us It Did",592,single,2021,Rock
+3912,Typhoons,770,album,2021,Rock
+3913,"Hold You Tight",684,album,2022,Rock
+3914,"This Is Us",650,album,2021,Rock
+3915,Always,590,album,2022,Rock
+3916,"Johnny Wants To Fight",805,album,2021,Rock
+3917,"Be Alright",882,single,2021,Rock
+3918,"Always Only Jesus",635,album,2022,Rock
+3919,"Carry Me (feat. Switchfoot)",792,album,2021,Rock
+3920,"Sugar in a Bowl",883,album,2021,Rock
+3921,Up,666,album,2021,Rock
+3922,Mission,723,album,2022,Rock
+3923,"Big Shot",667,album,2022,Rock
+3924,"Whole World Gone Crazy",629,album,2022,Rock
+3925,"Stubborn Pride (feat. Marcus King)",658,album,2021,Rock
+3926,"Bread Song",674,album,2022,Rock
+3927,"It's Always Been You",597,single,2021,Rock
+3928,"Run - Collins Remix",559,single,2021,Rock
+3929,"Strawberry Moon",812,album,2022,Rock
+3930,"Dream On",656,album,2022,Rock
+3931,"Killer Queen - Remastered 2011",842,compilation,2021,Rock
+3932,三原色,884,album,2022,Rock
+3933,SPARK-AGAIN,628,album,2021,Rock
+3934,"Better Days",559,album,2021,Rock
+3935,Reaper,885,album,2022,Rock
+3936,VENT'ANNI,561,album,2021,Rock
+3937,"Little Things",576,album,2022,Rock
+3938,"Natural Born Killer",728,single,2022,Rock
+3939,"Los Hombres No Deben Llorar",669,compilation,2022,Rock
+3940,Redemption,601,album,2022,Rock
+3941,"Nowhere Generation",886,single,2021,Rock
+3942,"Not in the Cards",887,album,2021,Rock
+3943,"Old Love Song",658,album,2021,Rock
+3944,Smile,784,album,2021,Rock
+3945,"The Car",709,album,2022,Rock
+3946,"Double Jump",739,single,2021,Rock
+3947,"Wading In Waist-High Water - Solstice Version",888,album,2021,Rock
+3948,"Growing Up",570,album,2021,Rock
+3949,Tough,560,album,2022,Rock
+3950,"Shame Shame",876,album,2021,Rock
+3951,"Killed by Death",889,single,2022,Rock
+3952,"I Ain’t Quite Where I Think I Am",709,single,2022,Rock
+3953,"The Beachland Ballroom",881,album,2021,Rock
+3954,"LEAVING THIS WORLD BEHIND",639,album,2021,Rock
+3955,"Songs About You",890,single,2022,Rock
+3956,"In the Room (feat. Chris Brown)",755,album,2022,Rock
+3957,Stalker,805,album,2021,Rock
+3958,"Joy Of The Lord",621,album,2021,Rock
+3959,"Beautiful Losers",722,album,2022,Rock
+3960,"When Everything Went Wrong (from the series Arcane League of Legends)",891,single,2021,Rock
+3961,"How to Disappear Completely",818,album,2021,Rock
+3962,"Skinty Fia",667,album,2022,Rock
+3963,Teardrinker,892,album,2021,Rock
+3964,Satisfied,789,album,2022,Rock
+3965,"Cold Heart - Acoustic",565,single,2021,Rock
+3966,Catalonia,596,album,2022,Rock
+3967,"Save Yourself",879,album,2022,Rock
+3968,Picture,893,album,2021,Rock
+3969,"Big Wheels",627,album,2022,Rock
+3970,"Stepping Stones",583,album,2022,Rock
+3971,S.D.O.S,723,album,2022,Rock
+3972,"American Girl - Live at the Fillmore, 1997",894,album,2022,Rock
+3973,"Me on Your Mind",895,single,2022,Rock
+3974,"Loving You",589,album,2022,Rock
+3975,Boom-Boom-Boom,636,album,2021,Rock
+3976,"Hot Beer",847,album,2021,Rock
+3977,"Fat Bottomed Girls - Single Version / Remastered 2011",842,compilation,2021,Rock
+3978,Paradise,583,single,2021,Rock
+3979,"Time in Disguise",829,album,2021,Rock
+3980,"Digital Heaven",844,album,2022,Rock
+3981,"That's My Kind Of Night",65,compilation,2022,Rock
+3982,"I See You (with Brandon Lake)",590,album,2022,Rock
+3983,Crutch,896,album,2022,Rock
+3984,"Won’t Stand Down",695,album,2022,Rock
+3985,Sunshine,792,album,2021,Rock
+3986,"Simple Step",897,album,2022,Rock
+3987,"Tonight (feat. Ezra Koenig)",898,album,2022,Rock
+3988,"Temple Of Ekur",661,album,2021,Rock
+3989,"Heat Waves - Oliver Heldens Remix",609,album,2021,Rock
+3990,"20 de Enero",321,album,2021,Rock
+3991,"Stay High again.. - Fred again.. & Joy Anonymous Version",899,album,2021,Rock
+3992,"Can't Take Away",673,album,2021,Rock
+3993,"Hangover Game",839,album,2022,Rock
+3994,"Blue Skies",604,single,2021,Rock
+3995,"Pug Ugly",760,album,2022,Rock
+3996,"Raised Up Right",824,single,2022,Rock
+3997,"Red Moon",576,album,2022,Rock
+3998,"Maybe You Saved Me",738,album,2022,Rock
+3999,homeswitcher,869,single,2021,Rock
+4000,Summertime,615,album,2021,Rock

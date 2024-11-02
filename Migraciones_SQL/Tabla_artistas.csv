@@ -1,0 +1,900 @@
+artista_id,artista
+1,Ladytron
+2,"Flying Lotus"
+3,WhoMadeWho
+4,BICEP
+5,"Jamie xx"
+6,Bonobo
+7,Metronomy
+8,Burial
+9,"LCD Soundsystem"
+10,"Joy Orbison"
+11,Rhye
+12,Justice
+13,Weval
+14,Röyksopp
+15,"Peces Raros"
+16,"Nightmares On Wax"
+17,"Nosaj Thing"
+18,"Ross from Friends"
+19,"Christian Löffler"
+20,LOUTA
+21,SBTRKT
+22,Daphni
+23,Clark
+24,Caribou
+25,Warpaint
+26,Romare
+27,"Floating Points"
+28,Moderat
+29,Morcheeba
+30,Tycho
+31,Faithless
+32,Mogwai
+33,"Portico Quartet"
+34,"DJ Koze"
+35,Björk
+36,"Max Cooper"
+37,"Booka Shade"
+38,Manybeat
+39,Jimmix
+40,DARKSIDE
+41,Rone
+42,Moby
+43,MËSTIZA
+44,"The Chemical Brothers"
+45,"Jacques Greene"
+46,"Leon Vynehall"
+47,"Jon Hopkins"
+48,"Little Dragon"
+49,"Rival Consoles"
+50,Télépopmusik
+51,"Mount Kimbie"
+52,E.VAX
+53,"Gold Panda"
+54,"Yakamoto Kotzuga"
+55,Populous
+56,Maga
+57,"Sneaker Pimps"
+58,Pejzaż
+59,Babasonicos
+60,Tiga
+61,"Totally Enormous Extinct Dinosaurs"
+62,Kixnare
+63,"Will C"
+64,Modeselektor
+65,"Various Artists"
+66,"DJ Tennis"
+67,Miranda!
+68,"Gabriel Dominguez"
+69,"Groove Armada"
+70,"The Crystal Method"
+71,"Marco Tegui"
+72,"Nils Frahm"
+73,"Hot Chip"
+74,Band&dos
+75,"Juana Molina"
+76,Tosca
+77,P.A.F.F.
+78,Bibio
+79,"George FitzGerald"
+80,HVOB
+81,Recondite
+82,Jasmon
+83,F.S.Blumm
+84,"Thom Yorke"
+85,"Artury Pepper"
+86,"Wax Tailor"
+87,"Gospel of Dance"
+88,"Mano Le Tough"
+89,GusGus
+90,"Crazy P"
+91,"Four Tet"
+92,"St Germain"
+93,"Proyecto Gomez Casa"
+94,MORVN
+95,BOUE
+96,Tricky
+97,Vitalic
+98,Quantic
+99,"Zero 7"
+100,"Daniel Avery"
+101,Gidge
+102,"Ulrich Schnauss"
+103,Dauwd
+104,"Sébastien Tellier"
+105,Hooverphonic
+106,trentemøller
+107,Plaid
+108,CA7RIEL
+109,"Andrea Sertori"
+110,"Paul Kalkbrenner"
+111,"Genio Producer"
+112,"Joe Goddard"
+113,"Toda la Vida"
+114,UNKLE
+115,"Tony Guerra"
+116,RYSY
+117,"Victor Porfidio"
+118,"Clap! Clap!"
+119,"Broken Lip"
+120,"Axel Boman"
+121,"Basement Jaxx"
+122,"Sunday Noise"
+123,Orbital
+124,Toro
+125,"Javiera Mena"
+126,"Hercules & Love Affair"
+127,Blockhead
+128,"Miss Kittin"
+129,Skalpel
+130,Digitalism
+131,"Global Underground"
+132,"Andy Stott"
+133,Underworld
+134,Angelos
+135,"Ray MD"
+136,"Alberto Dimeo"
+137,"Edu Linares"
+138,"The Knife"
+139,"Amon Tobin"
+140,"Carlos Herrera Music"
+141,"Fever Ray"
+142,Guts
+143,Air
+144,"Califato ¾"
+145,Âme
+146,"Róisín Murphy"
+147,"Aldo Cadiz"
+148,KLANGSTEIN
+149,"Clara Cava"
+150,"Jeff Danna"
+151,"Lorenzo Soria"
+152,"Hector Rios Vnzl"
+153,"DJs Pareja"
+154,"JOLLY (PE)"
+155,"Jens Buchert"
+156,Dardust
+157,Emisound
+158,Rosalie.
+159,Talisto
+160,"Bad Bunny"
+161,"Rauw Alejandro"
+162,Feid
+163,"Becky G"
+164,"Cris Mj"
+165,"Kodak Black"
+166,Farruko
+167,Ozuna
+168,Bizarrap
+169,"KAROL G"
+170,Aventura
+171,"El Alfa"
+172,"Sniper Gang"
+173,"Manuel Turizo"
+174,Mora
+175,"Alvaro Diaz"
+176,Rvssian
+177,Tainy
+178,"Mau y Ricky"
+179,"Piso 21"
+180,"Sebastian Yatra"
+181,"Ñengo Flow"
+182,Camilo
+183,"Romeo Santos"
+184,Arcángel
+185,"Chris Jedi"
+186,"Dei V"
+187,"Young Miko"
+188,"Ryan Castro"
+189,"J Balvin"
+190,JHAYCO
+191,"Rels B"
+192,Yandel
+193,Dalex
+194,"Wisin & Yandel"
+195,SAIKO
+196,"Daddy Yankee"
+197,Blessd
+198,"Anuel AA"
+199,"Nio Garcia"
+200,"Eladio Carrion"
+201,"Alex Rose"
+202,"Justin Quiles"
+203,Maluma
+204,Rvfv
+205,Alejo
+206,Lunay
+207,"Myke Towers"
+208,"Omar Courtz"
+209,"Rochy RD"
+210,"Danny Ocean"
+211,Sech
+212,Jossef
+213,"Jay Wheeler"
+214,"Ele A El Dominio"
+215,Ovi
+216,Rokero
+217,"De La Rose"
+218,"Foreign Teck"
+219,"Tiago PZK"
+220,"Prince Royce"
+221,YOVNGCHIMI
+222,Reykon
+223,"Casper Magico"
+224,Brytiago
+225,Wisin
+226,Hades66
+227,Beéle
+228,"De La Ghetto"
+229,"Hanzel La H"
+230,"Milo j"
+231,Reik
+232,"Bryant Myers"
+233,Tempo
+234,"Nicky Jam"
+235,"NATTI NATASHA"
+236,Greeicy
+237,Boza
+238,Trueno
+239,Ak4:20
+240,Pailita
+241,Fuego
+242,"Alex Gargolas"
+243,Randy
+244,"Dímelo Flow"
+245,"Chencho Corleone"
+246,"Miky Woodz"
+247,Juhn
+248,Yampi
+249,"Yan Block"
+250,Darell
+251,Guaynaa
+252,"Paulo Londra"
+253,Javiielo
+254,Ankhal
+255,Duki
+256,Quevedo
+257,"Maria Becerra"
+258,"Zion & Lennox"
+259,"J Abdiel"
+260,Cazzu
+261,Amarion
+262,"Cali Y El Dandee"
+263,Jotaerre
+264,ROA
+265,"Micro TDH"
+266,"Dua Lipa"
+267,"The Rudeboyz"
+268,Milly
+269,"Joyce Santana"
+270,"Andy Rivera"
+271,"Pacho El Antifeka"
+272,"Omy de Oro"
+273,Almighty
+274,CNCO
+275,"Gente De Zona"
+276,"Mike Bahía"
+277,"Bad Gyal"
+278,"Neutro Shorty"
+279,"Luar La L"
+280,DEKKO
+281,Brray
+282,"J Alvarez"
+283,Lyanno
+284,"Jay Menez"
+285,KHEA
+286,"Ovy On The Drums"
+287,Yeruza
+288,Slayter
+289,Karbeats
+290,Catalyna
+291,"LIT killah"
+292,"Nicki Nicole"
+293,vf7
+294,"Pequeño Pez"
+295,"Jowell & Randy"
+296,"Corina Smith"
+297,"El Clooy"
+298,"OTA El Hipopotamo"
+299,Pusho
+300,Chanell
+301,Noriel
+302,"Papi Sousa"
+303,Siggy
+304,Amenazzy
+305,"Fallen Roses"
+306,"Jon Z"
+307,Ñejo
+308,"Don Omar"
+309,"Kidd Keo"
+310,"LEGEND EFFECT"
+311,"Heitor Pereira"
+312,Anubiis
+313,"Jerry Di"
+314,"Lenny Tavárez"
+315,"Marc Seguí"
+316,"Soge Culebra"
+317,Beret
+318,"Suso Saiz"
+319,"Lola Indigo"
+320,"Pablo Alborán"
+321,"La Oreja de Van Gogh"
+322,"Natalia Jiménez"
+323,Aitana
+324,Melendi
+325,"Antonio José"
+326,"Depresión Sonora"
+327,"India Martinez"
+328,"Andrés Madariaga"
+329,"David Bisbal"
+330,"Ana Mena"
+331,Ankor
+332,"Joaquín Sabina"
+333,"Pablo de Sarasate"
+334,"Yung Beef"
+335,Conchita
+336,"El Arrebato"
+337,"Mägo de Oz"
+338,"Carlos Baute"
+339,"Abraham Mateo"
+340,"Pol Granch"
+341,"Duo Multicorde"
+342,DePol
+343,Funambulista
+344,Shé
+345,"David Otero"
+346,"Belén Aguilera"
+347,ELYELLA
+348,"Rigoberta Bandini"
+349,"Nil Moliner"
+350,"Federico Mompou"
+351,"David Cordero"
+352,Leiva
+353,"Vanesa Martín"
+354,Sharif
+355,ToteKing
+356,Lérica
+357,MARLENA
+358,Lytos
+359,Kase.O
+360,"Manuel Carrasco"
+361,Shinova
+362,"Alex Ubago"
+363,"Álvaro De Luna"
+364,Guitarricadelafuente
+365,Zaidbreak
+366,Estopa
+367,Bombai
+368,"Dani Fernández"
+369,"Israel B"
+370,"Paula Mattheus"
+371,"Arde Bogotá"
+372,"Antonio Orozco"
+373,"Viva Suecia"
+374,"Valeria Castro"
+375,"Sexy Zebras"
+376,Pig&Dan
+377,"Francisco Tárrega"
+378,Exxasens
+379,"La Bien Querida"
+380,Foyone
+381,"Carlos Sadness"
+382,AMBKOR
+383,"Original Juan"
+384,Denom
+385,"Natos y Waor"
+386,"Blanco Palamera"
+387,"Pablo López"
+388,"Comandante Twin"
+389,"Hard GZ"
+390,"Manu Dia"
+391,Warmth
+392,Rapsusklei
+393,"Love of Lesbian"
+394,"Andrés Suárez"
+395,Dvicio
+396,Bejo
+397,"Los Bravos"
+398,Taburete
+399,Nach
+400,FERNANDOCOSTA
+401,Morphium
+402,Sho-Hai
+403,"Vetusta Morla"
+404,"Joaquín Turina"
+405,"La Maravillosa Orquesta del Alcohol"
+406,Delaossa
+407,"Andy & Lucas"
+408,"Fito y Fitipaldis"
+409,"Heroes Del Silencio"
+410,"Hombres G"
+411,Zetazen
+412,"Rafa Espino"
+413,"Juan Magán"
+414,Porta
+415,Lasai
+416,"Jason Kolàr"
+417,"El Chojin"
+418,Pole.
+419,"Mikel Erentxun"
+420,"Ill Pekeño"
+421,Khaled
+422,Nylonwings
+423,"Monica Naranjo"
+424,Rosario
+425,Shotta
+426,Rayden
+427,Edurne
+428,"Ladilla Rusa"
+429,Lepoka
+430,"Fatima Hajji"
+431,Dante
+432,Zahara
+433,"Amistades Peligrosas"
+434,Siloé
+435,Ska-P
+436,"Alice Wonder"
+437,"Pablo Say"
+438,"Kovács Beatrix"
+439,"Nyno Vargas"
+440,"Ayax y Prok"
+441,"Shaila Dúrcal"
+442,Hoke
+443,"John Fulford Music"
+444,"Edu Imbernon"
+445,"Efecto Pasillo"
+446,"Miguel Bastida"
+447,"Green Valley"
+448,Fyahbwoy
+449,Chenoa
+450,Warcry
+451,"Dark Moor"
+452,Fangoria
+453,"La Culpa"
+454,Adventus
+455,Abäk
+456,Marlon
+457,"Tierra Santa"
+458,"Carolina Durante"
+459,"La La Love You"
+460,"Fuel Fandango"
+461,"Niño de Elche"
+462,"Aleksander Debicz"
+463,"Hilary Hahn"
+464,Celtian
+465,Synlakross
+466,"El Barrio"
+467,Nikone
+468,Locus
+469,"Kiko y Shara"
+470,"Manuel Barrueco"
+471,"Angela Hewitt"
+472,"Blas Cantó"
+473,"Beatriz Luengo"
+474,"Pol 3.14"
+475,"Dollar Selmouni"
+476,"Manu Manzo"
+477,"Sergio Contreras"
+478,Soraya
+479,IZAL
+480,Cyclo
+481,"Soleá Morente"
+482,Kaze
+483,"Lone Ark"
+484,"Antonio Ruiz Pipó"
+485,Veintiuno
+486,Rozalén
+487,"Angelus Apatrida"
+488,Marea
+489,Salduie
+490,"Yunchan Lim"
+491,Tamara
+492,Malú
+493,Mujeres
+494,Nueen
+495,"Isaac Albéniz"
+496,"Dok & Martin"
+497,"Los Rebujitos"
+498,Arce
+499,Maki
+500,"Ella Baila Sola"
+501,Toundra
+502,"Café Quijano"
+503,"La Paloma"
+504,"Diego Martín"
+505,"Rata Negra"
+506,"Hannah Murphy"
+507,"Lori Meyers"
+508,"Dani Martín"
+509,"Pablo Ferrandez"
+510,Saurom
+511,"Wild Honey"
+512,"Sofia Ellar"
+513,"Georgie Dann"
+514,"Opera Magna"
+515,"La Casa Azul"
+516,"SWIT EME"
+517,Tregua
+518,Crisix
+519,"Azucar Moreno"
+520,"Recycled J"
+521,Saratoga
+522,"Janine Jansen"
+523,Nunatak
+524,"Sergio Dalma"
+525,Yamila
+526,"Accion Sanchez"
+527,from
+528,"Fondo Flamenco"
+529,"Calero LDN"
+530,"Ocer y Rade"
+531,Hadadanza
+532,Elefantes
+533,Decai
+534,"Daniel Barenboim"
+535,Sôber
+536,Droow
+537,"Juan del Encina"
+538,"Niña Polaca"
+539,"Daniel Zueras"
+540,"Danza Invisible"
+541,"Cerebral Effusion"
+542,"Mistah Godeh"
+543,Bala
+544,Blake
+545,Amadeüs
+546,"Elena Ortega"
+547,"Cecilia Krull"
+548,"Arnau Griso"
+549,Viuda
+550,"La Pegatina"
+551,"Henry Mendez"
+552,Reykjavik606
+553,Vendex
+554,"Royel Otis"
+555,"Imagine Dragons"
+556,"Jon Pardi"
+557,"Cole Swindell"
+558,"The 1975"
+559,OneRepublic
+560,"Dylan Scott"
+561,Måneskin
+562,"Walker Hayes"
+563,"House Of Pain"
+564,"Dustin Lynch"
+565,"Elton John"
+566,"Mother Mother"
+567,Parmalee
+568,"Tauren Wells"
+569,Midrift
+570,"Thomas Rhett"
+571,"Jason Aldean"
+572,"Depeche Mode"
+573,"Brantley Gilbert"
+574,"for KING & COUNTRY"
+575,"Josiah and the Bonnevilles"
+576,"Big Thief"
+577,"Elle King"
+578,"Duran Duran"
+579,"SunKissed Lola"
+580,Ghost
+581,"We Came As Romans"
+582,"We Are Messengers"
+583,"Stick Figure"
+584,"Greta Van Fleet"
+585,quannnic
+586,TobyMac
+587,"Sam Hunt"
+588,"The Black Keys"
+589,"Wet Leg"
+590,"Chris Tomlin"
+591,"Simple Plan"
+592,"Mitchell Tenpenny"
+593,"Twenty One Pilots"
+594,"Japanese Breakfast"
+595,Crowder
+596,"Vance Joy"
+597,"Phil Wickham"
+598,"Jameson Rodgers"
+599,"Papa Roach"
+600,"Lake Street Dive"
+601,"Three Days Grace"
+602,"Eli Young Band"
+603,DENM
+604,"Goth Babe"
+605,"Rachael Lampa"
+606,"The Neighbourhood"
+607,"Ryan Hurd"
+608,"Lauren Daigle"
+609,"Glass Animals"
+610,Nickelback
+611,Disney
+612,"Tommy James & The Shondells"
+613,"Florence + The Machine"
+614,"John Debney"
+615,"The Hip Abduction"
+616,"Scotty McCreery"
+617,Polyphia
+618,"Skylar Grey"
+619,"The Wombats"
+620,Hozier
+621,"Mac Powell"
+622,"Old Dominion"
+623,"The Lumineers"
+624,"The Elovaters"
+625,"Bear McCreary"
+626,Maretu
+627,"Russell Dickerson"
+628,Aimer
+629,"Whiskey Myers"
+630,"THE DRIVER ERA"
+631,"No Vacation"
+632,"Paul McCartney"
+633,"Chase Rice"
+634,"Saint Motel"
+635,MercyMe
+636,"Rob Zombie"
+637,"The White Stripes"
+638,Weezer
+639,STARSET
+640,"Ryan Stevenson"
+641,"Florida Georgia Line"
+642,"Dylan Schneider"
+643,"Bee Gees"
+644,Slipknot
+645,"Surfer Girl"
+646,Gorillaz
+647,RADWIMPS
+648,"Friday Pilots Club"
+649,"Logan Mize"
+650,"Jimmie Allen"
+651,"if i die in mississippi"
+652,"Luna Li"
+653,"Chris Lane"
+654,"Sanctus Real"
+655,"Bring Me The Horizon"
+656,"Ben Rector"
+657,"The Movement"
+658,"Zac Brown Band"
+659,Maná
+660,"I AM THEY"
+661,Volbeat
+662,"Milky Chance"
+663,"Rend Collective"
+664,"Dominic Fike"
+665,"Micah Tyler"
+666,"Luke Bryan"
+667,"Fontaines D.C."
+668,"Shinsei Kamattechan"
+669,"King Clave"
+670,"The Score"
+671,"Brandi Carlile"
+672,"Tame Impala"
+673,"Jeremy Camp"
+674,"Black Country, New Road"
+675,Eve
+676,Alvvays
+677,"Wine Lips"
+678,Journey
+679,Arcane
+680,"Sam Fender"
+681,"My Chemical Romance"
+682,"Olivia Newton-John"
+683,"Brandon Heath"
+684,"Dan Bremnes"
+685,Houndmouth
+686,"Red Hot Chili Peppers"
+687,Rammstein
+688,grandson
+689,Santana
+690,"Nathaniel Rateliff & The Night Sweats"
+691,"Danny Gokey"
+692,"Yeah Yeah Yeahs"
+693,"Generación 12"
+694,"Level 42"
+695,Muse
+696,"Fruit Bats"
+697,Tropidelic
+698,"Dirty Heads"
+699,Colorblind
+700,"The Offspring"
+701,YONAKA
+702,Metallica
+703,"Tyler Booth"
+704,"Limp Bizkit"
+705,"Los Fabulosos Cadillacs"
+706,"OFFICIAL HIGE DANDISM"
+707,"Dead Poet Society"
+708,Dayglow
+709,"Arctic Monkeys"
+710,"Lady Gaga"
+711,"Good Morning"
+712,"Palaye Royale"
+713,"Natalia Lafourcade"
+714,"BUMP OF CHICKEN"
+715,KALEO
+716,"Casting Crowns"
+717,Kairikibear
+718,DECO*27
+719,"Hiss Golden Messenger"
+720,"Quarters of Change"
+721,"Father John Misty"
+722,"Coheed and Cambria"
+723,"Alex G"
+724,"The War On Drugs"
+725,"Jerry Lee Lewis"
+726,"Little Stranger"
+727,Petey
+728,"Highly Suspect"
+729,"Los Angeles Negros"
+730,"The Bones of J.R. Jones"
+731,"ELVIS (Original Motion Picture Soundtrack)"
+732,"Rhett Walker"
+733,"Travis Denning"
+734,Sohodolls
+735,Maston
+736,"Tom Morello"
+737,"Chandler Moore"
+738,"Bad Suns"
+739,"Joey Valence & Brae"
+740,Esteman
+741,Passafire
+742,"Drake White"
+743,"Richy Mitch & The Coal Miners"
+744,"Portugal. The Man"
+745,Rebelution
+746,Palace
+747,"Arcy Drive"
+748,"Cody Jinks"
+749,"Hippo Campus"
+750,"Arrested Youth"
+751,Newsboys
+752,"The Unlikely Candidates"
+753,"Young the Giant"
+754,Korn
+755,"Matt Maher"
+756,"Inner Wave"
+757,"Robert Plant"
+758,RedHook
+759,YUNGBLUD
+760,"Insane Clown Posse"
+761,Dorothy
+762,"The Killers"
+763,"Pacific Roots"
+764,"The Rolling Stones"
+765,"Andy Frasco & The U.N."
+766,alt-J
+767,"Brothers Osborne"
+768,"Shane & Shane"
+769,lovelytheband
+770,"Royal Blood"
+771,Bleachers
+772,"Ozzy Osbourne"
+773,KANA-BOON
+774,"Jesse Roper"
+775,Siddhartha
+776,TOOL
+777,"The Beths"
+778,"Bryce Fox"
+779,Momma
+780,HoneyWorks
+781,"The Blue Stones"
+782,"TK from Ling tosite sigure"
+783,"Guns N' Roses"
+784,"Wolf Alice"
+785,"Manchester Orchestra"
+786,ivri
+787,"Marcus King"
+788,"Stephen Bishop"
+789,"Stars Go Dim"
+790,"Natalie Grant"
+791,"Sophie Powers"
+792,NEEDTOBREATHE
+793,Megadeth
+794,Chevelle
+795,"Barns Courtney"
+796,"Iron Maiden"
+797,"Black Label Society"
+798,"Beach House"
+799,"Tedeschi Trucks Band"
+800,"Lee Brice"
+801,K.Flay
+802,"Art Lown"
+803,"Tyler Rich"
+804,"City of the Sun"
+805,Badflower
+806,Cidergirl
+807,"Colton Dixon"
+808,"Fortunate Youth"
+809,"Mammoth WVH"
+810,"Adam Jensen"
+811,Pixies
+812,"The Poles"
+813,"Billy Idol"
+814,"Elvis Presley"
+815,"All Time Low"
+816,"The Who"
+817,"Hollywood Undead"
+818,Radiohead
+819,"Sufjan Stevens"
+820,"Death Cab for Cutie"
+821,"The Goo Goo Dolls"
+822,Rawayana
+823,Daughtry
+824,"Drew Parker"
+825,"Two Feet"
+826,Spoon
+827,"MAN WITH A MISSION"
+828,Drugdealer
+829,"Kings of Leon"
+830,DICE
+831,"The Green"
+832,"Soccer Mommy"
+833,Skillet
+834,"Kip Moore"
+835,"John Hiatt"
+836,花冷え。
+837,"Rebecca St. James"
+838,PinocchioP
+839,"MJ Lenderman"
+840,"Brent Cobb"
+841,"Goodbye June"
+842,Queen
+843,"Michael Ray"
+844,Mihali
+845,"Jesús Adrián Romero"
+846,"The Happy Fits"
+847,"Dillon Carmichael"
+848,"James McMurtry"
+849,HEALTH
+850,DREAMERS
+851,"Vana Liya"
+852,"Bonnie Raitt"
+853,"The Struts"
+854,"Sigur Rós"
+855,"Francesca Battistelli"
+856,"Meredith Andrews"
+857,coldrain
+858,"Anıl Emre Daldal"
+859,"black midi"
+860,"HARRY WAS HERE"
+861,"Spacey Jane"
+862,"The Ghost Club"
+863,"Jefferson Airplane"
+864,"Courtney Barnett"
+865,Zoé
+866,"Delta Sleep"
+867,"Old Mervs"
+868,Rojo
+869,"Jane Remover"
+870,"✝✝✝ (Crosses)"
+871,Nirvana
+872,"Noah Gundersen"
+873,"MASS OF THE FERMENTING DREGS"
+874,"Bomba Estéreo"
+875,"Sharon Van Etten"
+876,"Foo Fighters"
+877,"The Del-Vikings"
+878,"Austin French"
+879,"ONE OK ROCK"
+880,"UNISON SQUARE GARDEN"
+881,IDLES
+882,Iration
+883,"Of Monsters and Men"
+884,"PELICAN FANCLUB"
+885,"Fit For A King"
+886,"Rise Against"
+887,"The Red Pears"
+888,"Fleet Foxes"
+889,Motörhead
+890,"Brett Eldredge"
+891,"Fantastic Negrito"
+892,Mastodon
+893,"feeble little horse"
+894,"Tom Petty and the Heartbreakers"
+895,"Matthew West"
+896,"Band of Horses"
+897,Vulfpeck
+898,Phoenix
+899,"Brittany Howard"
