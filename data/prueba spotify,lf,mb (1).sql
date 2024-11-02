@@ -16,12 +16,39 @@
 			-- Crear las PK y FK
             -- Pruebas de que esta okey
 	-- Fiona esta metiendo en los jupyter de las extracciones los codigos para las extracciones a falta de tener definido el nombre del schema que usaremos todas			
-    
+
+-- 02/11/2024 - Fiona: he creado un Jupyter solo para las extracciones. Los ids de los artistas los estoy añadiendo a los df con códigos de python,
+-- ya que he leído que SQL no te lo hace automáticamente aunque asignes FK. 
+-- Voy a crear la tabla de Spotify a la que le he añadido en el df canción_id y artista_id. He hecho un mapeo de los ids de artistas para que se repitan
+-- en el caso de que haya más de una canción para un artista. Voy a probar a migrar el df a la tabla Spotify.
+
+-- NOMBRE DEL DATABASE QUE TODAS DEBEMOS CREAR: MusicStream_PR2_G2
+
+USE MusicStream_PR2_G2;
+
+CREATE TABLE Spotify (
+    canción_id INT,
+    nombre_cancion_album VARCHAR(200) NOT NULL,
+    artista_id INT NOT NULL,
+    tipo_album_cancion VARCHAR(50),
+    año_lanzamiento VARCHAR(50),
+    género VARCHAR(50),
+    PRIMARY KEY (canción_id)
+);
+
+SELECT *
+	FROM Spotify;
+
 CREATE TABLE Artistas (
-    artista_id INT AUTO_INCREMENT,
+    artista_id INT,
     artista VARCHAR(50) NOT NULL,
     PRIMARY KEY (artista_id)
 );
+
+SELECT *
+	FROM Artistas;
+
+-- 02/11/2024 Estas son las tablas que había antes. He creado una nueva de Spoty arriba. 
 
 -- Tabla Spotify con referencia a artista_id
 CREATE TABLE Spotify (
@@ -36,7 +63,6 @@ CREATE TABLE Spotify (
         REFERENCES Artistas(artista_id)
 		ON DELETE CASCADE
         ON UPDATE CASCADE
-
 );
 
 
