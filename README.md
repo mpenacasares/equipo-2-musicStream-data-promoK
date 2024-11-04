@@ -53,23 +53,15 @@ El proyecto está estructurado de la siguiente manera: PDTE MODIFICAR CUANDO TEN
 
 2. **Instalar Dependencias**
 
-   ```bash
-    Asegúrate de tener Python y MySQL instalados en tu sistema. Luego, instala las librerías de Python requeridas
-
-   ```
+   Asegúrate de tener Python y MySQL instalados en tu sistema. Luego, instala las librerías de Python requeridas
 
 3. **Configurar Acceso a las APIs**
 
-   ```bash
-     Regístrate en las plataformas de Spotify, MusicBrainz y last.fm para obtener las claves de API necesarias. Luego, crea un archivo .env en la raíz del proyecto y agrega las claves de acceso
-   ```
+   Regístrate en las plataformas de Spotify, MusicBrainz y last.fm para obtener las claves de API necesarias. Luego, crea un archivo .env en la raíz del proyecto y agrega las claves de acceso
 
 4. **Ejecuta el proyecto**
 
-   ```bash
-    PDTE poner los pasos a seguir para que se lancen las llamadas a las APIS 🚩🚩
-
-   ```
+   PDTE poner los pasos a seguir para que se lancen las llamadas a las APIS 🚩🚩
 
 ## Análisis Realizado ✨
 
