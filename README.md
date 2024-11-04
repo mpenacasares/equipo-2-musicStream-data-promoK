@@ -12,7 +12,7 @@ Este proyecto ha sido desarrollado por el **Equipo 2** del bootcamp de **Data An
 
 **Proyecto MusicStream: "Análisis de Popularidad de Canciones en la Era Digital"** es una iniciativa centrada en analizar la popularidad de canciones y álbumes en la plataforma ficticia _MusicStream_. Aprovechando técnicas avanzadas de extracción y análisis de datos, el proyecto pretende responder a preguntas clave sobre el consumo de música en la era digital.
 
-## Objetivo
+## Objetivo ✨
 
 El objetivo principal es identificar las canciones y álbumes más populares en _MusicStream_, usando para ello diversas fuentes de datos, como:
 
