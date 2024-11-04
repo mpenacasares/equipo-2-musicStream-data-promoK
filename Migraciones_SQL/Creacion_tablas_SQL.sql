@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS `musicstream_pr2_g2`.`estadisticas` (
   `playcount` INT NULL DEFAULT NULL,
   `artistas_similares` VARCHAR(100) NULL DEFAULT NULL,
   INDEX `artista_id_idx` (`artista_id` ASC) VISIBLE,
-  CONSTRAINT `artista_id`
+  CONSTRAINT `fk_artistas_estadisticas`
     FOREIGN KEY (`artista_id`)
     REFERENCES `musicstream_pr2_g2`.`artistas` (`artista_id`)
     ON DELETE CASCADE
@@ -54,7 +54,7 @@ CREATE TABLE IF NOT EXISTS `musicstream_pr2_g2`.`info_canciones` (
   `año_lanzamiento` YEAR NULL DEFAULT NULL,
   `género` VARCHAR(50) NULL DEFAULT NULL,
   INDEX `artista_id_idx` (`artista_id` ASC) VISIBLE,
-  CONSTRAINT `artista_id`
+  CONSTRAINT `fk_artistas_info_canciones`
     FOREIGN KEY (`artista_id`)
     REFERENCES `musicstream_pr2_g2`.`artistas` (`artista_id`)
     ON DELETE CASCADE
@@ -72,7 +72,7 @@ CREATE TABLE IF NOT EXISTS `musicstream_pr2_g2`.`informacion_artista` (
   `fecha_inicio_actividad` VARCHAR(50) NULL DEFAULT NULL,
   `fecha_fin_actividad` VARCHAR(50) NULL DEFAULT NULL,
   INDEX `artista_id_idx` (`artista_id` ASC) VISIBLE,
-  CONSTRAINT `artista_id`
+  CONSTRAINT `fk_artistas_info_artistas`
     FOREIGN KEY (`artista_id`)
     REFERENCES `musicstream_pr2_g2`.`artistas` (`artista_id`)
     ON DELETE CASCADE
@@ -91,5 +91,30 @@ CREATE TABLE IF NOT EXISTS `musicstream_pr2_g2`.`musicbrainz1` (
   `fecha_fin_actividad` TEXT NULL DEFAULT NULL,
   `artista_id` BIGINT NULL DEFAULT NULL,
   INDEX `artista_id` (`artista_id` ASC) VISIBLE); 
+
+
+-- --------------PRUEBA JOIN-----------
+
+-- ¿Cuántos artistas tienen menos de 100,000 reproducciones?
+SELECT COUNT(artista_id) AS total_artistas
+FROM estadisticas
+WHERE playcount < 100000;
+-- ¿Qué país tiene mas artistas? (ordenar por cantidad)
+SELECT ic.pais_de_origen AS pais, COUNT(a.artista_id) AS total_artistas
+FROM artistas AS a
+JOIN informacion_artista AS ic
+USING (artista_id)
+GROUP BY pais
+ORDER BY total_artistas DESC;
+
+
+
+
+
+
+
+
+
+
 
 
