@@ -1,6 +1,6 @@
 # Proyecto MusicStream: Análisis de Popularidad de Canciones en la Era Digital
 
-Este proyecto ha sido desarrollado por el **Equipo 2** del bootcamp de **Data Analytics de Adalab** como parte del módulo 2. El equipo de desarrollo está formado por: PDTE INCLUIR NOMBRE DEL EQUIPO 🚩🚩
+Este proyecto ha sido desarrollado por el Equipo "FM-AMY Waves" del bootcamp de **Data Analytics de Adalab** como parte del módulo 2. El equipo de desarrollo está formado por: 
 
 - **Ariana Papantonio**
 - **Fiona Sánchez**
@@ -34,12 +34,12 @@ Para desarrollar este proyecto, hemos utilizado las siguientes herramientas y te
 
 ## Estructura del Proyecto ✨
 
-El proyecto está estructurado de la siguiente manera: PDTE MODIFICAR CUANDO TENGAMOS TODAS LAS CARPETAS ORGANIZADAS CON LOS ARCHIVOS FINALES 🚩🚩
+El proyecto está estructurado de la siguiente manera: 
 
-- `src/`: Contiene los scripts de extracción y transformación de datos, así como los análisis realizados.
-- `data/`: Carpeta donde se almacenan los archivos de datos en crudo y procesados.
-- `notebooks/`: Incluye notebooks de Jupyter con el análisis exploratorio de datos y visualizaciones.
-- `docs/`: Documentación del proyecto.
+- `consultas/`: Contiene los resultados de las consultas en formato JSON.
+- `data/`: Carpeta donde se almacenan los dataframes con los datos extraidos. 
+- `notebooks/`: Incluye notebooks de Jupyter con la extracción de datos de cada API. 
+- `migraciones_SQL/`: Contiene los archivos con los scripts para la estructura de las tablas en SQL, el código utilizado para migrar los dataframes a SQL y la información de las tablas en formato JSON. 
 - `README.md`: Archivo que proporciona una descripción general del proyecto.
 
 ## Instalación y Ejecución ✨
@@ -53,7 +53,7 @@ El proyecto está estructurado de la siguiente manera: PDTE MODIFICAR CUANDO TEN
 
 2. **Instalar Dependencias**
 
-   Asegúrate de tener Python y MySQL instalados en tu sistema. Luego, instala las librerías de Python requeridas
+   Asegúrate de tener Python y MySQL instalados en tu sistema. Luego, instala las librerías de Python requeridas. Podrás encontrar las librerías en los jupyter de las carpetas 'Notebooks' y 'Migraciones SQL'. 
 
 3. **Configurar Acceso a las APIs**
 
@@ -61,10 +61,20 @@ El proyecto está estructurado de la siguiente manera: PDTE MODIFICAR CUANDO TEN
 
 4. **Ejecuta el proyecto**
 
-   PDTE poner los pasos a seguir para que se lancen las llamadas a las APIS 🚩🚩
+   1. Ejecuta los archivos jupyter de extracción de datos que se encuentran en la carpeta 'Notebooks'. 
+   2. Crea las tablas en SQL por medio del script incluido en el archivo 'Creación_tablas_SQL' en la carpeta 'Migraciones_SQL'. 
+   3. Ejecuta el archivo 'Migración_python_SQL' para pasar los datos de Python a las tablas en la base de datos de SQL. 
+   4. Sigue los pasos del archivo 'Consultas_SQL' para limpiar los datos y lanzar las consultas. 
 
 ## Análisis Realizado ✨
 
 A través de consultas y análisis sobre la base de datos creada, hemos logrado identificar:
 
-PDTE INDICAR LAS CONSULTAS REALIZADAS 🚩🚩🚩🚩
+- El género con el promedio más alto de reproducciones
+- Los artistas con más listeners por género y sus cantantes similares
+- La cantidad de artistas pertenecientes a cada género y el género con mayor cantidad de artistas
+- Los cinco artistas menos escuchados
+- Los países con mayor cantidad de artistas
+- Los artistas que sacaron más canciones por género
+
+Estas consultas son las que ha realizado nuestro equipo, pero tu puedes hacer las consultas que quieras! 🎉
