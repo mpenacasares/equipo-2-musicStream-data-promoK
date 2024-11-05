@@ -1,0 +1,32 @@
+[
+	{
+		"artista" : "Dua Lipa",
+		"género" : "Latino",
+		"total_listeners" : 2613323,
+		"artistas_similares" : Katy Perry, Ava Max, Zara Larsson
+	},
+	{
+		"artista" : "Daddy Yankee",
+		"género" : "Latino",
+		"total_listeners" : 1689631,
+		"artistas_similares" : Don Omar, Wisin & Yandel, Alexis y Fido
+	},
+	{
+		"artista" : "Bad Bunny",
+		"género" : "Latino",
+		"total_listeners" : 1442310,
+		"artistas_similares" : Rauw Alejandro, Mora, Jhayco
+	},
+	{
+		"artista" : "Kodak Black",
+		"género" : "Latino",
+		"total_listeners" : 1357045,
+		"artistas_similares" : Jackboy, Pooh Shiesty, HotBoii
+	},
+	{
+		"artista" : "Don Omar",
+		"género" : "Latino",
+		"total_listeners" : 1329229,
+		"artistas_similares" : Wisin & Yandel, Daddy Yankee, Tony Dize
+	}
+]

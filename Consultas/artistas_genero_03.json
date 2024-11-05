@@ -1,0 +1,18 @@
+[
+	{
+		"total_artistas" : 348,
+		"género" : "Rock"
+	},
+	{
+		"total_artistas" : 241,
+		"género" : "Música Española"
+	},
+	{
+		"total_artistas" : 159,
+		"género" : "Electrónica"
+	},
+	{
+		"total_artistas" : 156,
+		"género" : "Latino"
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"artista" : "JOLLY (PE)",
+		"playcount" : 13,
+		"género" : "Electrónica"
+	},
+	{
+		"artista" : "Kovács Beatrix",
+		"playcount" : 59,
+		"género" : "Música Española"
+	},
+	{
+		"artista" : "Hannah Murphy",
+		"playcount" : 314,
+		"género" : "Música Española"
+	},
+	{
+		"artista" : "Emisound",
+		"playcount" : 374,
+		"género" : "Electrónica"
+	},
+	{
+		"artista" : "Elena Ortega",
+		"playcount" : 445,
+		"género" : "Música Española"
+	}
+]

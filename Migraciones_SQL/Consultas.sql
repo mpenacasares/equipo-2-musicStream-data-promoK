@@ -334,7 +334,7 @@ SELECT a.artista, ic.género, MAX(e.listeners) AS total_listeners, e.artistas_si
 	JOIN info_canciones AS ic
 		USING (artista_id)
 	WHERE género = 'Electrónica'
-	GROUP BY a.artista_id, a.artista, ic.género
+	GROUP BY a.artista_id, a.artista, ic.género, e.artistas_similares
 	ORDER BY total_listeners DESC
     LIMIT 5;
 
@@ -345,7 +345,7 @@ SELECT a.artista, ic.género, MAX(e.listeners) AS total_listeners, e.artistas_si
 	JOIN info_canciones AS ic
 		USING (artista_id)
 	WHERE género = 'Latino'
-	GROUP BY a.artista_id, a.artista, ic.género
+	GROUP BY a.artista_id, a.artista, ic.género, e.artistas_similares
 	ORDER BY total_listeners DESC
     LIMIT 5;
   
@@ -355,8 +355,8 @@ SELECT a.artista, ic.género, MAX(e.listeners) AS total_listeners, e.artistas_si
 		USING (artista_id) 
 	JOIN info_canciones AS ic
 		USING (artista_id)
-	WHERE género = 'Música Española'
-	GROUP BY a.artista_id, a.artista, ic.género
+	WHERE género = 'Música Española' AND artistas_similares IS NOT NULL
+	GROUP BY a.artista_id, a.artista, ic.género, e.artistas_similares
 	ORDER BY total_listeners DESC
     LIMIT 5;
     

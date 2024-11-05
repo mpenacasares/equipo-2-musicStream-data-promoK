@@ -1,0 +1,17 @@
+[
+	{
+		"artista" : "Pol Granch",
+		"conteo_canciones" : 25,
+		"género" : "Música Española"
+	},
+	{
+		"artista" : "Beret",
+		"conteo_canciones" : 23,
+		"género" : "Música Española"
+	},
+	{
+		"artista" : "Mägo de Oz",
+		"conteo_canciones" : 22,
+		"género" : "Música Española"
+	}
+]

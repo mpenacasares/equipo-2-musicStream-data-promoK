@@ -1,0 +1,32 @@
+[
+	{
+		"artista" : "La Oreja de Van Gogh",
+		"género" : "Música Española",
+		"total_listeners" : 535166,
+		"artistas_similares" : Amaia Montero, Amaral, La Quinta Estación
+	},
+	{
+		"artista" : "Ska-P",
+		"género" : "Música Española",
+		"total_listeners" : 410241,
+		"artistas_similares" : The Locos, Skalariak, Boikot
+	},
+	{
+		"artista" : "Hombres G",
+		"género" : "Música Española",
+		"total_listeners" : 396573,
+		"artistas_similares" : Enanitos Verdes, La Unión, Duncan Dhu
+	},
+	{
+		"artista" : "Khaled",
+		"género" : "Música Española",
+		"total_listeners" : 314341,
+		"artistas_similares" : Cheb Mami, Cheb Hasni, Rachid Taha
+	},
+	{
+		"artista" : "David Bisbal",
+		"género" : "Música Española",
+		"total_listeners" : 305135,
+		"artistas_similares" : David Bustamante, Alex Ubago, Luis Fonsi
+	}
+]

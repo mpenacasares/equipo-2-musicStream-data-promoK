@@ -1,0 +1,17 @@
+[
+	{
+		"artista" : "Röyksopp",
+		"conteo_canciones" : 46,
+		"género" : "Electrónica"
+	},
+	{
+		"artista" : "Metronomy",
+		"conteo_canciones" : 31,
+		"género" : "Electrónica"
+	},
+	{
+		"artista" : "Flying Lotus",
+		"conteo_canciones" : 29,
+		"género" : "Electrónica"
+	}
+]

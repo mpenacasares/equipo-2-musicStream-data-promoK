@@ -1,0 +1,32 @@
+[
+	{
+		"artista" : "Moby",
+		"género" : "Electrónica",
+		"total_listeners" : 3144206,
+		"artistas_similares" : Voodoo Child, Röyksopp, Groove Armada
+	},
+	{
+		"artista" : "Björk",
+		"género" : "Electrónica",
+		"total_listeners" : 2997442,
+		"artistas_similares" : Arca, The Sugarcubes, FKA twigs
+	},
+	{
+		"artista" : "Air",
+		"género" : "Electrónica",
+		"total_listeners" : 2678941,
+		"artistas_similares" : The Funky Lowlives, Hird, Nuspirit Helsinki
+	},
+	{
+		"artista" : "The Chemical Brothers",
+		"género" : "Electrónica",
+		"total_listeners" : 2622869,
+		"artistas_similares" : Fatboy Slim, The Prodigy, The Crystal Method
+	},
+	{
+		"artista" : "Justice",
+		"género" : "Electrónica",
+		"total_listeners" : 2318099,
+		"artistas_similares" : Sebastian, Daft Punk, Gesaffelstein
+	}
+]

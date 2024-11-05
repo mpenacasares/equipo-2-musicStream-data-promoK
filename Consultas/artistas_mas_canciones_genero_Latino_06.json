@@ -1,0 +1,17 @@
+[
+	{
+		"artista" : "Anuel AA",
+		"conteo_canciones" : 68,
+		"género" : "Latino"
+	},
+	{
+		"artista" : "Feid",
+		"conteo_canciones" : 51,
+		"género" : "Latino"
+	},
+	{
+		"artista" : "Eladio Carrion",
+		"conteo_canciones" : 49,
+		"género" : "Latino"
+	}
+]

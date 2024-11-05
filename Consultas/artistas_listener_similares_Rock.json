@@ -1,0 +1,32 @@
+[
+	{
+		"artista" : "Radiohead",
+		"género" : "Rock",
+		"total_listeners" : 6802318,
+		"artistas_similares" : Thom Yorke, Atoms for Peace, Jeff Buckley
+	},
+	{
+		"artista" : "Nirvana",
+		"género" : "Rock",
+		"total_listeners" : 6286871,
+		"artistas_similares" : Kurt Cobain, Alice in Chains, Soundgarden
+	},
+	{
+		"artista" : "Lady Gaga",
+		"género" : "Rock",
+		"total_listeners" : 6248960,
+		"artistas_similares" : Madonna, Ke$ha, Katy Perry
+	},
+	{
+		"artista" : "Red Hot Chili Peppers",
+		"género" : "Rock",
+		"total_listeners" : 6190659,
+		"artistas_similares" : John Frusciante, Foo Fighters, Audioslave
+	},
+	{
+		"artista" : "Queen",
+		"género" : "Rock",
+		"total_listeners" : 6067999,
+		"artistas_similares" : Freddie Mercury, Roger Taylor, Brian May
+	}
+]
