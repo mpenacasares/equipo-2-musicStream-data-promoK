@@ -258,7 +258,7 @@ SELECT *
 	FROM artistas
     LIMIT 10;
     
- SELECT DISTINCT artista_id 
+ SELECT *
 	FROM estadisticas
     LIMIT 10;   
     
@@ -282,8 +282,180 @@ USING (artista_id)
 GROUP BY pais
 ORDER BY total_artistas DESC;
 
+/*
+¿Qué género tiene el promedio más alto de reproducciones?.
+
+¿Cuántos artistas pertenecen a cada género en la base de datos y cuál es el género con más artistas?.
+
+¿Cuántos artistas tienen menos de 100,000 reproducciones?
+
+¿Cuál es el artista con más Listeners?.
+
+¿Qué país tiene mas artistas? (ordenar por cantidad).
 
 
+*/
 
 
-         
+/*
+	1.¿Qué género tiene el promedio más alto de reproducciones?.
+
+*/
+
+WITH reproducciones_genero AS (
+    SELECT ic.género, ROUND(AVG(e.playcount),2) AS promedio_reproducciones
+		FROM estadisticas e
+		JOIN info_canciones ic ON ic.artista_id = e.artista_id
+		GROUP BY ic.género
+)
+SELECT género, promedio_reproducciones
+	FROM reproducciones_genero
+	ORDER BY promedio_reproducciones DESC;
+
+/*
+	2.¿Cuales son los artistas con más Listeners por genero y sus cantantes similares?.
+
+*/
+SELECT a.artista, ic.género, MAX(e.listeners) AS total_listeners, e.artistas_similares
+	FROM artistas AS a
+	JOIN estadisticas AS e
+		USING (artista_id) 
+	JOIN info_canciones AS ic
+		USING (artista_id)
+	WHERE género = 'Rock'
+	GROUP BY a.artista_id, a.artista, ic.género, e.artistas_similares
+	ORDER BY total_listeners DESC
+    LIMIT 5;
+
+SELECT a.artista, ic.género, MAX(e.listeners) AS total_listeners, e.artistas_similares
+	FROM artistas AS a
+	JOIN estadisticas AS e
+		USING (artista_id) 
+	JOIN info_canciones AS ic
+		USING (artista_id)
+	WHERE género = 'Electrónica'
+	GROUP BY a.artista_id, a.artista, ic.género
+	ORDER BY total_listeners DESC
+    LIMIT 5;
+
+SELECT a.artista, ic.género, MAX(e.listeners) AS total_listeners, e.artistas_similares
+	FROM artistas AS a
+	JOIN estadisticas AS e
+		USING (artista_id) 
+	JOIN info_canciones AS ic
+		USING (artista_id)
+	WHERE género = 'Latino'
+	GROUP BY a.artista_id, a.artista, ic.género
+	ORDER BY total_listeners DESC
+    LIMIT 5;
+  
+SELECT a.artista, ic.género, MAX(e.listeners) AS total_listeners, e.artistas_similares
+	FROM artistas AS a
+	JOIN estadisticas AS e
+		USING (artista_id) 
+	JOIN info_canciones AS ic
+		USING (artista_id)
+	WHERE género = 'Música Española'
+	GROUP BY a.artista_id, a.artista, ic.género
+	ORDER BY total_listeners DESC
+    LIMIT 5;
+    
+  /*
+	3.¿Cuántos artistas pertenecen a cada género en la base de datos y cuál es el género con más artistas?.
+
+*/  
+    SELECT COUNT(DISTINCT a.artista_id) AS total_artistas, ic.género
+		FROM artistas AS a
+		JOIN info_canciones AS ic
+			USING (artista_id)
+		GROUP BY ic.género
+		ORDER BY total_artistas DESC;
+    
+/*
+	4.¿Cuáles son los artistas menos escuchados?
+
+*/   
+    
+    SELECT a.artista, e.playcount, ic.género
+		FROM artistas AS a
+        JOIN estadisticas AS e
+			USING (artista_id)
+		JOIN info_canciones AS ic
+			USING (artista_id)
+		ORDER BY playcount
+        LIMIT 5;
+    
+ /*
+	5.¿Qué paises tiene mas artistas? (ordenar por cantidad).
+
+*/      
+	    SELECT COUNT(a.artista_id) AS conteo_artistas, i_a.pais_de_origen
+			FROM artistas AS a
+			JOIN informacion_artista AS i_a
+				USING (artista_id)
+			WHERE i_a.pais_de_origen IS NOT NULL
+			GROUP BY i_a.pais_de_origen
+            ORDER BY conteo_artistas DESC
+			LIMIT 5;
+
+  /*
+	6.¿Que artistas sacoron mas canciones por genero?
+
+*/  
+	    SELECT a.artista, COUNT(i_c.artista_id) AS conteo_canciones, i_c.género
+			FROM artistas AS a
+			JOIN info_canciones AS i_c
+				USING (artista_id)
+			WHERE i_c.género = 'Latino'
+			GROUP BY i_c.artista_id, a.artista, i_c.género
+            ORDER BY conteo_canciones DESC
+			LIMIT 3;
+
+		    SELECT a.artista, COUNT(i_c.artista_id) AS conteo_canciones, i_c.género
+			FROM artistas AS a
+			JOIN info_canciones AS i_c
+				USING (artista_id)
+			WHERE i_c.género = 'Música Española'
+			GROUP BY i_c.artista_id, a.artista, i_c.género
+            ORDER BY conteo_canciones DESC
+			LIMIT 3;
+
+			SELECT a.artista, COUNT(i_c.artista_id) AS conteo_canciones, i_c.género
+			FROM artistas AS a
+			JOIN info_canciones AS i_c
+				USING (artista_id)
+			WHERE i_c.género = 'Rock'
+			GROUP BY i_c.artista_id, a.artista, i_c.género
+            ORDER BY conteo_canciones DESC
+			LIMIT 3;
+            
+			SELECT a.artista, COUNT(i_c.artista_id) AS conteo_canciones, i_c.género
+			FROM artistas AS a
+			JOIN info_canciones AS i_c
+				USING (artista_id)
+			WHERE i_c.género = 'Electrónica'
+			GROUP BY i_c.artista_id, a.artista, i_c.género
+            ORDER BY conteo_canciones DESC
+			LIMIT 3;
+    
+ SELECT * 
+	FROM artistas
+    LIMIT 10;
+    
+ SELECT *
+	FROM estadisticas
+    LIMIT 10;   
+    
+SELECT * 
+	FROM info_canciones
+	LIMIT 10;   
+    
+ SELECT * 
+	FROM informacion_artista
+	LIMIT 10;       
+    
+    
+    
+    
+    
+    
