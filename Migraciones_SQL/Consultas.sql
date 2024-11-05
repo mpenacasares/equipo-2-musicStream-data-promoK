@@ -6,7 +6,9 @@ USE musicstream_pr2_g2;
 -- Para activar el modo seguro de SQL
 -- SET SQL_SAFE_UPDATES = 1;
 
--- Limpieza de None que venia de la importacion de JSON
+ -- ---------------------------------LIMPIEZA DATOS ----------------------------------------------------------------------------------------------------------------------- 
+ 
+ -- Limpieza de None que venia de la importacion de JSON
 /*
 
 UPDATE informacion_artista
@@ -39,7 +41,6 @@ UPDATE estadisticas
 
 */
 
- -- ---------------------------------LIMPIEZA DATOS ------------------ 
 SELECT * FROM artistas LIMIT 10; -- Artistas esta OK
 -- SELECT * FROM artistas WHERE artista = NULL
 
@@ -250,6 +251,38 @@ SELECT * FROM informacion_artista
 WHERE pais_de_origen IN ('New York', 'Wasilla', 'Stockholm', 'Alcalá de Henares', 'San Francisco', 'Hermosillo', 'Berlin', 'North Carolina', 'Medellín', 'Río Piedras', 'Paris', 'Doncaster', 'Columbus', 'Philadelphia', 'Burgin', 'Santa Cruz de Tenerife', 'Helsinki', 'Bray', 'Madrid', 'Sacramento', 'Morón', 'Sevilla', 'San Juan', 'Zaragoza', 'Los Angeles', 'Oklahoma City', 'Comunidad Valenciana', 'Burgos', 'Corozal', 'London', 'Leeds', 'Jefferson', 'Putney', 'Boston', 'Cambridge', 'Brighton', 'Peckham', 'Birmingham', 'Totnes', 'Belfast', 'Liverpool', 'Manchester', 'Bristol', 'Oxford');
 
 */
+
+-- --------------------------------------------------CONSULTAS ------------------------------------------------
+
+SELECT * 
+	FROM artistas
+    LIMIT 10;
+    
+ SELECT DISTINCT artista_id 
+	FROM estadisticas
+    LIMIT 10;   
+    
+SELECT * 
+	FROM info_canciones
+	LIMIT 10;   
+    
+ SELECT * 
+	FROM informacion_artista
+	LIMIT 10;    
+
+SELECT COUNT(artista_id) AS total_artistas
+FROM estadisticas
+WHERE playcount < 100000;
+
+-- ¿Qué país tiene mas artistas? (ordenar por cantidad)
+SELECT ic.pais_de_origen AS pais, COUNT(a.artista_id) AS total_artistas
+FROM artistas AS a
+JOIN informacion_artista AS ic
+USING (artista_id)
+GROUP BY pais
+ORDER BY total_artistas DESC;
+
+
 
 
 

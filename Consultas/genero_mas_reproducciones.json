@@ -1,0 +1,18 @@
+[
+	{
+		"género" : "Rock",
+		"promedio_reproducciones" : 61546086.27
+	},
+	{
+		"género" : "Electrónica",
+		"promedio_reproducciones" : 31263667.22
+	},
+	{
+		"género" : "Latino",
+		"promedio_reproducciones" : 21569024.40
+	},
+	{
+		"género" : "Música Española",
+		"promedio_reproducciones" : 2362522.41
+	}
+]
