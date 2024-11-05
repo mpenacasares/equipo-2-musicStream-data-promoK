@@ -250,42 +250,7 @@ SELECT * FROM informacion_artista
 WHERE pais_de_origen IN ('New York', 'Wasilla', 'Stockholm', 'Alcalá de Henares', 'San Francisco', 'Hermosillo', 'Berlin', 'North Carolina', 'Medellín', 'Río Piedras', 'Paris', 'Doncaster', 'Columbus', 'Philadelphia', 'Burgin', 'Santa Cruz de Tenerife', 'Helsinki', 'Bray', 'Madrid', 'Sacramento', 'Morón', 'Sevilla', 'San Juan', 'Zaragoza', 'Los Angeles', 'Oklahoma City', 'Comunidad Valenciana', 'Burgos', 'Corozal', 'London', 'Leeds', 'Jefferson', 'Putney', 'Boston', 'Cambridge', 'Brighton', 'Peckham', 'Birmingham', 'Totnes', 'Belfast', 'Liverpool', 'Manchester', 'Bristol', 'Oxford');
 
 */
--- ---------Modificamos los valores de pais_de_origen y area_de_origen --- (Fiona)
-SELECT DISTINCT *-- (pais_de_origen) 
-		 FROM informacion_artista;	
 
-CREATE TEMPORARY TABLE temp_informacion_artista (
-    artista_id INT,
-    pais_de_origen VARCHAR(50),
-    area_de_origen VARCHAR(50)
-);
 
- 
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Book_01.csv'
-INTO TABLE temp_informacion_artista
-FIELDS TERMINATED BY ","
-LINES TERMINATED BY "/n"
-IGNORE 1 ROWS
-(artista_id, pais_de_origen, area_de_origen);         
-         
-         
-CREATE TABLE informacion_artista_PRUEBA (
-    artista_id INT PRIMARY KEY,
-    pais_de_origen VARCHAR(50) DEFAULT NULL,
-    area_de_origen VARCHAR(50) DEFAULT NULL
-);
-       
-         
-SELECT 	artista_id, pais_de_origen
-		 FROM informacion_artista_PRUEBA
-         ;	
-         
-SELECT *-- ,pais_de_origen
-		 FROM informacion_artista;
-         
 
- CREATE TABLE informacion_artista_backup AS SELECT * FROM informacion_artista 
-         
-         
-         
          
